@@ -144,19 +144,26 @@
 .nice-scroll::-webkit-scrollbar-thumb { background: #33414f; border-radius: 3px; }
 .nice-scroll::-webkit-scrollbar-track { background: transparent; }
 
-/* flashcard 3d flip */
+/* flashcard 3d flip — 两面都必须 backface-visibility:hidden，否则背面会以镜像透出 */
 .flip-scene { perspective: 1200px; }
 .flip-inner {
   transition: transform 0.45s cubic-bezier(0.3, 1.2, 0.4, 1);
   transform-style: preserve-3d;
+  -webkit-transform-style: preserve-3d;
   position: relative;
 }
 .flip-inner.flipped { transform: rotateY(180deg); }
-.flip-face {
+.flip-face,
+.flip-back {
   backface-visibility: hidden;
   -webkit-backface-visibility: hidden;
 }
-.flip-back { transform: rotateY(180deg); position: absolute; inset: 0; }
+.flip-face { transform: rotateY(0deg) translateZ(0); }
+.flip-back {
+  position: absolute;
+  inset: 0;
+  transform: rotateY(180deg) translateZ(0);
+}
 
 input.val-input {
   background: #0f1923;

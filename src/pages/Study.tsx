@@ -2,6 +2,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import type { SaveState, Word } from "@/types";
 import { todayStr } from "@/lib/storage";
 import { SectionHeader, SpeakerButton, ValButton } from "@/components/ValBits";
+import { PhonicsHint } from "@/components/PhonicsHint";
 import { cn } from "@/lib/utils";
 
 export interface GradeResult {
@@ -195,6 +196,7 @@ export function StudyPage({ save, vocab, onFinishNew, onFinishReview, onExit }: 
                   {current.word}
                 </h2>
                 {current.phonetic && <p className="mt-2 text-sm text-val-teal">/{current.phonetic}/</p>}
+                <PhonicsHint word={current.word} className="mt-1.5" />
               </div>
               <SpeakerButton text={current.word} size="lg" />
             </div>
@@ -231,6 +233,7 @@ export function StudyPage({ save, vocab, onFinishNew, onFinishReview, onExit }: 
               <div>
                 <h2 className="text-3xl font-black text-val-text">{current.word}</h2>
                 {current.phonetic && <p className="mt-1 text-sm text-val-teal">/{current.phonetic}/</p>}
+                <PhonicsHint word={current.word} className="mt-1" />
               </div>
               <SpeakerButton text={current.word} />
             </div>
