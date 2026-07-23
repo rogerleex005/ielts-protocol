@@ -1,0 +1,4804 @@
+{
+ "lists": [
+  {
+   "id": 9,
+   "title": "Word List 9",
+   "words": [
+    {
+     "word": "fumes",
+     "phonetic": "fju:mz",
+     "pos": "n.",
+     "meaning": "烟，气，汽",
+     "example": "Moscow has joined the list of capitals afflicted by congestion and traffic fumes.",
+     "exampleCn": "莫斯科已成为受交通堵塞和尾气排放之苦的首都之一。"
+    },
+    {
+     "word": "positive",
+     "phonetic": "ˈpɔzətiv",
+     "pos": "a.",
+     "meaning": "明确的；肯定的；积极的｜搭 positive role 积极的作用；a positive example 积极的榜样；a positive number 正数",
+     "example": "Customer comments, both positive and negative, are recorded by staff.",
+     "exampleCn": "对于顾客的意见，无论是肯定的还是否定的，都由职员予以记录。"
+    },
+    {
+     "word": "assistant",
+     "phonetic": "əˈsistənt",
+     "pos": "a./n.",
+     "meaning": "助理的；副的 助理",
+     "example": "The employees felt that their assistant manager was closer to them than the manager.",
+     "exampleCn": "和经理相比，员工们感觉助理经理与他们更亲近。"
+    },
+    {
+     "word": "cannon",
+     "phonetic": "ˈkænən",
+     "pos": "n.",
+     "meaning": "加农炮，大炮",
+     "example": "They relied on grenades and cannons to repel their enemies.",
+     "exampleCn": "他们用手榴弹和大炮击退了敌人。"
+    },
+    {
+     "word": "obligation",
+     "phonetic": "ˌɔbliˈgeiʃn",
+     "pos": "n.",
+     "meaning": "义务，职责，责任",
+     "example": "Every government has the right and obligation to run its own internal affairs well.",
+     "exampleCn": "每一任政府都有管理好国家内政的权利和职责。"
+    },
+    {
+     "word": "hockey",
+     "phonetic": "ˈhɔki",
+     "pos": "n.",
+     "meaning": "曲棍球；冰球",
+     "example": "Both skating and ice hockey were included in the Antwerp Olympic Games in 1920.",
+     "exampleCn": "1920年在安特卫普举办的奥运会包括滑冰和冰球两个项目。"
+    },
+    {
+     "word": "liberty",
+     "phonetic": "ˈlibəti",
+     "pos": "n.",
+     "meaning": "自由，自由权；许可，准许；[常pl.]过于随便，放肆｜搭 take liberties with sth. （尤指对书）任意改动；at liberty to do sth. 有权做…",
+     "example": "You have liberty to use all the library facilities.",
+     "exampleCn": "你们可以使用图书馆里的所有设施。"
+    },
+    {
+     "word": "pesticide",
+     "phonetic": "ˈpestisaid",
+     "pos": "n.",
+     "meaning": "杀虫剂，农药",
+     "example": "The main factors that could be contributing to the decline of the species include acid rain and the spread of the pesticide residues.",
+     "exampleCn": "导致这个物种灭绝的主要因素包括酸雨和农药残留物的扩散。"
+    },
+    {
+     "word": "poll",
+     "phonetic": "pəul",
+     "pos": "n./v.",
+     "meaning": "民意测验；政治选举，大选 对…进行民意测验；获得…选票｜搭 public opinion poll 民意调查；conduct a poll on 对…进行调查",
+     "example": "The team is conducting a poll among freshmen.",
+     "exampleCn": "这个小组正在新生中进行一次民意调查。"
+    },
+    {
+     "word": "refundable",
+     "phonetic": "riˈfʌndəbl",
+     "pos": "a.",
+     "meaning": "可退还的，可归还的，可偿还的",
+     "example": "The deposit on the house is refundable.",
+     "exampleCn": "这个房子的押金是可以退还的。"
+    },
+    {
+     "word": "homesick",
+     "phonetic": "ˈhəumsik",
+     "pos": "a.",
+     "meaning": "想家的，思乡的",
+     "example": "I was homesick at first and missed my family.",
+     "exampleCn": "起初，我思乡心切，想念我的家人。"
+    },
+    {
+     "word": "compassionate",
+     "phonetic": "kəmˈpæʃənət",
+     "pos": "a.",
+     "meaning": "有同情心的，表示怜悯的｜搭 compassionate attitude 热诚的态度；compassionate leave照顾性准假（一般指丧假）",
+     "example": "We should try our best to create a more compassionate society.",
+     "exampleCn": "我们应该竭尽全力营造一个更人性化的社会。"
+    },
+    {
+     "word": "orientate",
+     "phonetic": "ˈɔ:riənteit",
+     "pos": "vt.",
+     "meaning": "使适应，使熟悉情况（或环境等）；给…定位，给…定向；使朝向；转至特定方向；适应（＝orient）",
+     "example": "The course at this university has a vocational focus on preparing its graduates for work, so students are orientated at employment.",
+     "exampleCn": "这所大学的课程以职业为中心，注重毕业生工作之前的准备工作，因此将学生朝着就业方向培养。"
+    },
+    {
+     "word": "insight",
+     "phonetic": "ˈinsait",
+     "pos": "n.",
+     "meaning": "洞察力，深刻的了解；顿悟",
+     "example": "The application of our new insights into the Amazonian past would change present policies on development in the region.",
+     "exampleCn": "我们对亚马孙地区的过去有了新的了解，这会改变目前我们针对这一地区的开发政策。"
+    },
+    {
+     "word": "resist",
+     "phonetic": "riˈzist",
+     "pos": "v.",
+     "meaning": "抵抗；抗（病等）；耐（热等）",
+     "example": "Bugs and weeds will begin to resist poisons.",
+     "exampleCn": "害虫和野草会开始产生抗药性。"
+    },
+    {
+     "word": "glide",
+     "phonetic": "glaid",
+     "pos": "vi./n.",
+     "meaning": "滑行，滑翔",
+     "example": "The pilot managed to glide down to a safe landing.",
+     "exampleCn": "飞行员成功地使飞机向下滑行并安全着陆。"
+    },
+    {
+     "word": "casualty",
+     "phonetic": "ˈkæʒuəlti",
+     "pos": "n.",
+     "meaning": "伤亡（人员），伤亡者；损失的东西；伤亡事故",
+     "example": "The major casualty of cutting down forests on a large scale has been the environment.",
+     "exampleCn": "受大规模森林砍伐影响最多的是环境。"
+    },
+    {
+     "word": "belief",
+     "phonetic": "biˈli:f",
+     "pos": "n.",
+     "meaning": "信仰，信条；相信",
+     "example": "The belief that rain and murky weather make people more unhappy is borne out by a study in Belgium.",
+     "exampleCn": "人们相信雨天和阴沉的天气会让人更加忧郁，这种想法已被比利时的一项研究所证实。"
+    },
+    {
+     "word": "concentration",
+     "phonetic": "ˌkɔnsnˈtreiʃn",
+     "pos": "n.",
+     "meaning": "集中；专心，专注；浓缩，浓度",
+     "example": "This concentration of vehicles makes air quality in urban areas unpleasant and sometimes dangerous to breathe.",
+     "exampleCn": "交通工具如此集中造成城市地区空气质量的恶劣，有时甚至不宜呼吸。"
+    },
+    {
+     "word": "tug",
+     "phonetic": "tʌg",
+     "pos": "v.",
+     "meaning": "用力拖（或拉）",
+     "example": "The fisherman tugged the small boat out of the water.",
+     "exampleCn": "渔民用力把小船拖到岸上。"
+    },
+    {
+     "word": "proceed",
+     "phonetic": "prəˈsi:d",
+     "pos": "vi.",
+     "meaning": "进行；前进；继续",
+     "example": "Our work is proceeding slowly.",
+     "exampleCn": "我们的工作进程缓慢。"
+    },
+    {
+     "word": "status",
+     "phonetic": "ˈsteitəs",
+     "pos": "n.",
+     "meaning": "地位；身份；状况｜搭 marital status 婚姻状况",
+     "example": "The chart shows the amount of leisure time enjoyed by men and women of different employment status.",
+     "exampleCn": "这张图表显示了不同职业身份的男性和女性所享有的闲暇时间量。"
+    },
+    {
+     "word": "document",
+     "phonetic": "ˈdɔkjumənt",
+     "pos": "n./vt.",
+     "meaning": "公文，文件，证件 用文件（或文献等）证明；记载",
+     "example": "In the English-speaking scientific world, surveys of books and documents consulted in libraries and other information agencies have shown that very little foreign-language material is ever consulted.",
+     "exampleCn": "在以讲英语为主的科学界里，调查显示，科学家们几乎不参考图书馆及其他信息机构中非英语书籍和文献。"
+    },
+    {
+     "word": "mattress",
+     "phonetic": "ˈmætrəs",
+     "pos": "n.",
+     "meaning": "床垫",
+     "example": "A good mattress is a wise investment for people who want to avoid headaches.",
+     "exampleCn": "对那些想避免头疼的人来说，买一张好床垫不失为一项聪明的投资。"
+    },
+    {
+     "word": "hostile",
+     "phonetic": "ˈhɔstail",
+     "pos": "a.",
+     "meaning": "敌方的；不友善的；不利的",
+     "example": "The luxuriant forests of Amazonia seem ageless, unconquerable, a habitat totally hostile to human civilization.",
+     "exampleCn": "茂密的亚马孙丛林似乎是永恒的，无法征服的，是一个完全不利于人类文明存在的地方。"
+    },
+    {
+     "word": "intervene",
+     "phonetic": "ˌintəˈvi:n",
+     "pos": "vi.",
+     "meaning": "干涉，干扰；介于其间",
+     "example": "The bank intervened with a large dollar purchase.",
+     "exampleCn": "那家银行以大量购进美元来进行干预。"
+    },
+    {
+     "word": "promote",
+     "phonetic": "prəˈməut",
+     "pos": "vt.",
+     "meaning": "促进；提升；促销｜搭 promote mutual understanding 促进相互理解；promote the sale of sth. 促销；promote cultural communication 增进文化交流",
+     "example": "The band has gone on tour to promote their new album.",
+     "exampleCn": "这个乐队已开始巡回宣传他们的新唱片。"
+    },
+    {
+     "word": "bump",
+     "phonetic": "bʌmp",
+     "pos": "v./n.",
+     "meaning": "碰，撞；颠簸着前进 碰撞；隆起物｜搭 bump against/into 碰到；bump along/down 颠簸着前进",
+     "example": "The policeman ran after the thief, bumping against people in his hurry.",
+     "exampleCn": "那个警察追赶小偷，匆忙中撞到了人。"
+    },
+    {
+     "word": "reunion",
+     "phonetic": "ri:ˈju:niən",
+     "pos": "n.",
+     "meaning": "重聚，团聚；（久别后的）聚会，联谊活动｜搭 annual reunion 年度聚会；family reunion 家庭聚会",
+     "example": "All the members of the club gathered to have a reunion dinner last weekend.",
+     "exampleCn": "上周末，这个俱乐部的所有成员进行了一次聚餐。"
+    },
+    {
+     "word": "digestive",
+     "phonetic": "daiˈʤestiv; diˈʤestiv",
+     "pos": "a.",
+     "meaning": "消化的；和消化有关的｜搭 digestive tract 消化道",
+     "example": "Professor introduced the feeding habits and digestive systems of starfish.",
+     "exampleCn": "教授介绍了海星摄取食物的习惯以及它们的消化系统。"
+    },
+    {
+     "word": "homestay",
+     "phonetic": "ˈhəumstei",
+     "pos": "n.",
+     "meaning": "在当地居民家居住的时期｜搭 homestay family 寄宿家庭",
+     "example": "A: I've heard that you want to move into a homestay family. Is that correct? B: Yes, that's right. A",
+     "exampleCn": "：我听说你想搬入一个寄宿家庭，是吗？B：是的。"
+    },
+    {
+     "word": "commit",
+     "phonetic": "kəˈmit",
+     "pos": "v.",
+     "meaning": "把…交托给，提交；犯（错误），干（坏事）｜搭 commit crimes 犯罪；commit suicide 自杀；commit oneself to 使自己承担",
+     "example": "The drivers refused to commit themselves to the traffic accident.",
+     "exampleCn": "司机们拒绝承担这起交通事故的责任。"
+    },
+    {
+     "word": "practically",
+     "phonetic": "ˈpræktikli",
+     "pos": "ad.",
+     "meaning": "几乎，简直；实际上",
+     "example": "There is evidence that the reaction principle was applied practically well before the rocket was invented.",
+     "exampleCn": "有证据证明，反作用原理在火箭发明前就得到了很好的实际应用。"
+    },
+    {
+     "word": "acrobat",
+     "phonetic": "ˈækrəbæt",
+     "pos": "n.",
+     "meaning": "特技演员；杂技演员",
+     "example": "They are acrobats with the Albanian State Circus.",
+     "exampleCn": "他们是阿尔巴尼亚国家马戏团的杂技演员。"
+    },
+    {
+     "word": "revenue",
+     "phonetic": "ˈrevənju:",
+     "pos": "n.",
+     "meaning": "（尤指大宗的）收入；税收｜搭 anticipated revenue 预期收入；financial revenue 财政收入；tax revenue 税收",
+     "example": "A new strategy for pricing known as \"revenue management\" is now being used by many large companies.",
+     "exampleCn": "现在许多大公司都采用一项名为“收入管理”的新定价策略。"
+    },
+    {
+     "word": "nickel",
+     "phonetic": "ˈnikl",
+     "pos": "n.",
+     "meaning": "镍；（美国和加拿大的）五分镍币",
+     "example": "Nickel can be used to make batteries.",
+     "exampleCn": "镍可以用来制造电池。"
+    },
+    {
+     "word": "limp",
+     "phonetic": "limp",
+     "pos": "a.",
+     "meaning": "软的；无力的",
+     "example": "Some of you may come from cultures that accept limp handshakes as normal.",
+     "exampleCn": "你们有些人的文化习俗可能认为无力的握手很正常。"
+    },
+    {
+     "word": "spit",
+     "phonetic": "spit",
+     "pos": "v./n.",
+     "meaning": "吐唾沫（或痰）；喷出 唾液，唾沫｜搭 spit out 吐出",
+     "example": "Don't spit at random.",
+     "exampleCn": "不要随地吐痰。"
+    },
+    {
+     "word": "irregularity",
+     "phonetic": "iˌregjəˈlærəti",
+     "pos": "n.",
+     "meaning": "不规则，无规律",
+     "example": "To date, the most widely used commercial biometric system is the handkey, a type of hand scanner which reads the unique shape, size and irregularities of people's hands.",
+     "exampleCn": "迄今为止，在商业生物测定系统中应用最广泛的是掌形识别仪，这是一种读取人们手掌独有的形状、大小和不规则性的手掌扫描仪。"
+    },
+    {
+     "word": "breeze",
+     "phonetic": "bri:z",
+     "pos": "n.",
+     "meaning": "微风，和风",
+     "example": "The systems mix light, sounds, breezes and scents to stimulate people who spend long periods below ground.",
+     "exampleCn": "该系统综合了光线、声音、微风和香味来刺激长期待在地下的人。"
+    },
+    {
+     "word": "avenue",
+     "phonetic": "ˈævənju:",
+     "pos": "n.",
+     "meaning": "林阴道，大街；方法，途径",
+     "example": "They explored every avenue to cure his cancer.",
+     "exampleCn": "他们寻找各种方法来治疗他的癌症。"
+    },
+    {
+     "word": "magnify",
+     "phonetic": "ˈmægnifai",
+     "pos": "vt.",
+     "meaning": "放大，扩大",
+     "example": "This microscope can magnify an object 100,000 times.",
+     "exampleCn": "这个显微镜可将物体放大10万倍。"
+    },
+    {
+     "word": "hive",
+     "phonetic": "haiv",
+     "pos": "n./v.",
+     "meaning": "蜂房，蜂箱；蜂房内的蜂群；闹市，忙碌之地 （使）入蜂箱；群居",
+     "example": "For the three-week long bloom, beekeepers can hire out their hives for $32 each.",
+     "exampleCn": "在长达三周的花期里，养蜂人可以将他们的蜂箱以每个32美元的价格租出去。"
+    },
+    {
+     "word": "oxide",
+     "phonetic": "ˈɔksaid",
+     "pos": "n.",
+     "meaning": "氧化物",
+     "example": "The greenhouse effect is a natural phenomenon due to the presence of greenhouse gases—water vapour, carbon dioxide and nitrous oxide—in the atmosphere.",
+     "exampleCn": "温室效应是一种由大气中的水蒸气、二氧化碳和一氧化氮这些温室气体形成的自然现象。"
+    },
+    {
+     "word": "calf",
+     "phonetic": "kɑ:f",
+     "pos": "n.",
+     "meaning": "牛犊；崽，幼兽",
+     "example": "A cow produces only one calf a year.",
+     "exampleCn": "牛一年只生一胎。"
+    },
+    {
+     "word": "foremost",
+     "phonetic": "ˈfɔ:məust",
+     "pos": "a.",
+     "meaning": "最好的；最重要的",
+     "example": "The foremost research center of the day is in the USA.",
+     "exampleCn": "当今最先进的研究中心在美国。"
+    },
+    {
+     "word": "procedure",
+     "phonetic": "prəˈsi:ʤə(r)",
+     "pos": "n.",
+     "meaning": "程序，手续；过程｜搭 regular procedure 正规手续；the registration procedure登记手续；emergency procedure 紧急状况的处理程序；follow accepted procedure 遵循惯用的步骤",
+     "example": "I hate the cumbersome administrative procedures.",
+     "exampleCn": "我讨厌这些麻烦的行政手续。"
+    },
+    {
+     "word": "assemble",
+     "phonetic": "əˈsembl",
+     "pos": "v.",
+     "meaning": "集合；装配",
+     "example": "All components were assembled in the front workshop.",
+     "exampleCn": "所有部件都是在前面的车间组装的。"
+    },
+    {
+     "word": "plagiarism",
+     "phonetic": "ˈpleiʤərizəm",
+     "pos": "n.",
+     "meaning": "（文章、学说等的）剽窃，抄袭；剽窃物",
+     "example": "I'd like to mention the question of plagiarism in particular.",
+     "exampleCn": "我想特别提一下剽窃问题。"
+    },
+    {
+     "word": "gallop",
+     "phonetic": "ˈgæləp",
+     "pos": "v./n.",
+     "meaning": "奔驰，飞跑，飞驰｜搭 at a gallop 以最快速度，急速地",
+     "example": "My sister set off at a gallop this morning.",
+     "exampleCn": "今天早上我姐姐匆忙出发。"
+    },
+    {
+     "word": "pledge",
+     "phonetic": "pleʤ",
+     "pos": "v./n.",
+     "meaning": "正式承诺；发誓，保证；抵押，典当 誓约，保证；抵押｜搭 fulfill one's pledge 履行诺言；make/give a pledge to do sth. 保证做某事",
+     "example": "The prime minister has pledged today that he will make 250 million dollars available to help the drought-stricken farmers.",
+     "exampleCn": "总理今天承诺将拨25亿美元帮助受旱灾影响的农民。"
+    },
+    {
+     "word": "effective",
+     "phonetic": "iˈfektiv",
+     "pos": "a.",
+     "meaning": "有效的，生效的；给人深刻印象的，显著的｜搭 effective measures 有效措施；an effective remedy 有效药物",
+     "example": "Which advertisement is the most effective?",
+     "exampleCn": "哪一种广告最有效？"
+    },
+    {
+     "word": "appreciate",
+     "phonetic": "əˈpri:ʃieit",
+     "pos": "v.",
+     "meaning": "赏识，鉴赏；感激；涨价，增值｜搭 appreciate doing sth. 对…表示感激",
+     "example": "I deeply appreciate your care, but I'm fine now.",
+     "exampleCn": "我对你的关心深表感激，但是现在我很好。"
+    },
+    {
+     "word": "deny",
+     "phonetic": "diˈnai",
+     "pos": "v.",
+     "meaning": "否认，否定；拒绝｜搭 deny oneself 节制，戒绝，摒弃；deny doing sth. 否认做过某事；deny a charge 否认控告",
+     "example": "If you don't acknowledge the source of your information, you might be denied entry into the university.",
+     "exampleCn": "如果你不供认信息的来源，你可能会被这所大学拒收。"
+    },
+    {
+     "word": "union",
+     "phonetic": "ˈju:niən",
+     "pos": "n.",
+     "meaning": "协会，工会，同盟；联合，合并｜搭 the European Union 欧洲联盟；labour union 工会",
+     "example": "The speech contest is presided by the Student Union.",
+     "exampleCn": "这个演讲比赛是由学生会主办的。"
+    },
+    {
+     "word": "responsibility",
+     "phonetic": "riˌspɔnsəˈbiləti",
+     "pos": "n.",
+     "meaning": "责任，责任心；职责，任务｜搭 perform one's responsibilities 履行或行使职责；assume the responsibility 承担责任",
+     "example": "The company needs a sales manager with responsibility for North American market.",
+     "exampleCn": "该公司需要一位负责北美市场的销售经理。"
+    },
+    {
+     "word": "conform",
+     "phonetic": "kənˈfɔ:m",
+     "pos": "vi.",
+     "meaning": "遵守，服从；适应，顺应；相一致，相符合｜搭 conform to the custom of society 遵从社会习俗；conform with the regulations 遵守规章制度",
+     "example": "All students must conform to the school rules.",
+     "exampleCn": "所有的学生都必须遵守校规。"
+    },
+    {
+     "word": "handy",
+     "phonetic": "ˈhændi",
+     "pos": "a.",
+     "meaning": "方便的；手边的；手巧的",
+     "example": "To do this work needs handy men.",
+     "exampleCn": "做这项工作需要些手巧的人。// Scissors are a handy tool to have in the kitchen. 剪刀是厨房里的一种便利工具。"
+    },
+    {
+     "word": "notify",
+     "phonetic": "ˈnəutifai",
+     "pos": "vt.",
+     "meaning": "通知，报告",
+     "example": "If the library is not notified and you are 15 minutes late, your time can be given to someone else.",
+     "exampleCn": "如果你没有通知图书馆，那么在你迟到15分钟后，你的时间就会给其他人。"
+    },
+    {
+     "word": "splendid",
+     "phonetic": "ˈsplendid",
+     "pos": "a.",
+     "meaning": "壮观的，壮丽的，极好的；堂皇的，豪华的；灿烂的，辉煌的｜搭 a splendid scene 壮观的场面",
+     "example": "They marry rich men merely because they are rich and have splendid houses.",
+     "exampleCn": "她们嫁给富人，仅仅是因为富人有钱和豪华的房子。"
+    },
+    {
+     "word": "direction",
+     "phonetic": "daiˈrekʃn; diˈrekʃn",
+     "pos": "n.",
+     "meaning": "方向；趋势，动向；[pl.]用法说明；指导",
+     "example": "Shall we ask somebody for directions again?",
+     "exampleCn": "我们还要找人问一下路吗？"
+    },
+    {
+     "word": "execute",
+     "phonetic": "ˈeksikju:t",
+     "pos": "vt.",
+     "meaning": "将…处死；实施，执行",
+     "example": "We execute company policy for homeowners.",
+     "exampleCn": "我们执行公司针对业主的政策。"
+    },
+    {
+     "word": "witness",
+     "phonetic": "ˈwitnəs",
+     "pos": "n./v.",
+     "meaning": "证据；目击者 目击；为…作证",
+     "example": "Tom witnessed the accident.",
+     "exampleCn": "汤姆目睹了那起意外事故。"
+    },
+    {
+     "word": "elbow",
+     "phonetic": "ˈelbəu",
+     "pos": "n.",
+     "meaning": "肘；（衣服的）肘部",
+     "example": "His forearms were black and blue from wrist to elbow.",
+     "exampleCn": "他的小臂从手腕到肘部又青又紫。"
+    },
+    {
+     "word": "limited",
+     "phonetic": "ˈlimitid",
+     "pos": "a.",
+     "meaning": "有限的",
+     "example": "Some banks open for a limited time on Saturdays.",
+     "exampleCn": "一些银行在周六限时开放。"
+    },
+    {
+     "word": "vessel",
+     "phonetic": "ˈvesl",
+     "pos": "n.",
+     "meaning": "〈总称〉船只；容器；血管",
+     "example": "Sea ports have been transformed by the advent of powered vessels.",
+     "exampleCn": "机动船只的出现改变了海港的外观。"
+    },
+    {
+     "word": "private",
+     "phonetic": "ˈpraivət",
+     "pos": "a.",
+     "meaning": "私人的；私下的；私立的",
+     "example": "May I ask you a private question?",
+     "exampleCn": "我能问你一个私人问题吗？"
+    },
+    {
+     "word": "stereo",
+     "phonetic": "ˈsteriəu",
+     "pos": "a./n.",
+     "meaning": "立体声的 立体声（装置）｜搭 personal stereos 随身听",
+     "example": "I've got a fridge and a stereo system which I've just bought from a friend.",
+     "exampleCn": "我刚从一个朋友那里买了一台冰箱和一套立体声音响。"
+    },
+    {
+     "word": "soak",
+     "phonetic": "səuk",
+     "pos": "v.",
+     "meaning": "浸泡",
+     "example": "We'll get you up to your room and soak your feet; you'll be okay.",
+     "exampleCn": "我们带你到房间里泡泡脚，这样你会感觉舒服些。"
+    },
+    {
+     "word": "stout",
+     "phonetic": "staut",
+     "pos": "a.",
+     "meaning": "发胖的，肥胖的，强壮的；结实的，牢固的；顽强的，坚毅的｜搭 stout wind 暴风；a stout ship 牢固的船",
+     "example": "This machine was completely encased in a stout, iron cylinder.",
+     "exampleCn": "这台机器完全置于一个结实的铁筒内。"
+    },
+    {
+     "word": "greasy",
+     "phonetic": "ˈgri:si; ˈgri:zi",
+     "pos": "a.",
+     "meaning": "多脂的；油滑的",
+     "example": "Fish contains a lot of protein, and is not greasy.",
+     "exampleCn": "鱼肉富含蛋白质且脂肪含量低。"
+    },
+    {
+     "word": "boast",
+     "phonetic": "bəust",
+     "pos": "n./v.",
+     "meaning": "自夸；夸耀",
+     "example": "She is always boasting about how wonderful her children are.",
+     "exampleCn": "她总是夸耀她的孩子们多么出色。"
+    },
+    {
+     "word": "swift",
+     "phonetic": "swift",
+     "pos": "a.",
+     "meaning": "快的；敏捷的，迅速的",
+     "example": "Hong Kong has cheap, swift and effective public transport.",
+     "exampleCn": "香港的公共交通便宜、快捷且高效。"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "title": "Word List 10",
+   "words": [
+    {
+     "word": "ignorance",
+     "phonetic": "ˈignərəns",
+     "pos": "n.",
+     "meaning": "无知，愚昧；不知道｜搭 ignorance about 不知…",
+     "example": "Not ignorance, but the ignorance of ignorance, is the death of knowledge.",
+     "exampleCn": "知识的死亡不是无知本身，而是对无知的无知。"
+    },
+    {
+     "word": "aesthetic",
+     "phonetic": "i:sˈθetik",
+     "pos": "a.",
+     "meaning": "美学的；审美的",
+     "example": "What are utilitarian objects to a Westerner may be prized aesthetic objects in other cultures.",
+     "exampleCn": "被西方人视为功利性的东西，在其他文化中可能会因其美学价值而备受推崇。"
+    },
+    {
+     "word": "screen",
+     "phonetic": "skri:n",
+     "pos": "n./vt.",
+     "meaning": "屏幕，银幕；遮蔽；屏风，帘；筛子 掩蔽，遮蔽；包庇；筛选；放映（电影），播放（电视节目）",
+     "example": "Everything on the screen interests those children.",
+     "exampleCn": "那些孩子觉得屏幕上的一切都很有趣。"
+    },
+    {
+     "word": "absent",
+     "phonetic": "ˈæbsənt",
+     "pos": "a.",
+     "meaning": "不在场的；心不在焉的",
+     "example": "Why were you absent from my birthday party yesterday?",
+     "exampleCn": "你昨天怎么没来参加我的生日派对呢？"
+    },
+    {
+     "word": "scrape",
+     "phonetic": "skreip",
+     "pos": "v./n.",
+     "meaning": "刮，擦",
+     "example": "He scraped the mud off his shoes with the knife.",
+     "exampleCn": "他用小刀刮去鞋上的泥土。"
+    },
+    {
+     "word": "promotion",
+     "phonetic": "prəˈməuʃn",
+     "pos": "n.",
+     "meaning": "提升，晋级；促进，增进；发起，发扬；宣传，推销",
+     "example": "Would you be willing to attend any of the special promotions for the new channel?",
+     "exampleCn": "你愿意参加新频道的任何特别宣传活动吗？"
+    },
+    {
+     "word": "recreation",
+     "phonetic": "ˌrekriˈeiʃn",
+     "pos": "n.",
+     "meaning": "娱乐，消遣｜搭 recreation area 娱乐休闲区；open-air/outdoor recreation户外娱乐活动",
+     "example": "As you can see, the building you are in now contains this main lounge, the dining room and the recreation room.",
+     "exampleCn": "如你所见，你现在所在的这幢大楼包括主休息室、餐厅和娱乐室。"
+    },
+    {
+     "word": "specialise",
+     "phonetic": "ˈspeʃəlaiz",
+     "pos": "v.",
+     "meaning": "专门研究，专攻；专用于，使适应特殊目的｜搭 specialised equipment 专用设备",
+     "example": "Two years later, we will specialise and take courses in one or two subjects.",
+     "exampleCn": "两年后，我们将专攻一两门学科并学习这些学科的课程。// As the brain evolved, one side became specialised for fine control of movement. 随着大脑的进化，大脑的一边开始专门负责对运动进行精密控制。"
+    },
+    {
+     "word": "magnificent",
+     "phonetic": "mægˈnifisnt",
+     "pos": "a.",
+     "meaning": "壮丽的，宏伟的，华丽的；高尚的｜搭 magnificent performance 出色表演",
+     "example": "The garage around the corner contains the magnificent old Rolls-Royce which used to belong to George.",
+     "exampleCn": "街角的车库里停着一辆漂亮的老式劳斯莱斯，它曾经是乔治的。"
+    },
+    {
+     "word": "spasmodic",
+     "phonetic": "spæzˈmɔdik",
+     "pos": "a.",
+     "meaning": "痉挛的；间歇性的",
+     "example": "Since the arrival of Europeans, the region experienced a period of spasmodic activity, between 1831 and 1857.",
+     "exampleCn": "自从欧洲人来到这个地区，在1831到1857年间它经历了一个间歇性的活跃时期。"
+    },
+    {
+     "word": "fund",
+     "phonetic": "fʌnd",
+     "pos": "n./vt.",
+     "meaning": "基金，专款；储备，蕴藏；[pl.]存款，资金 为…提供资金，给…拨款｜搭 raise funds 筹集资金；additional/extra fund 额外款项；mutual fund 互助基金",
+     "example": "They provide funds for zoos in underdeveloped countries.",
+     "exampleCn": "他们为不发达国家的动物园提供资金。"
+    },
+    {
+     "word": "perceive",
+     "phonetic": "pəˈsi:v",
+     "pos": "vt.",
+     "meaning": "感知，察觉；认识到，理解",
+     "example": "While I was examining the small stars, I perceived one that appeared visibly larger than the rest.",
+     "exampleCn": "我观察那些小星星时，发现有一颗明显比其他的大。// Tom perceived Mary's comment as a challenge. 汤姆认为玛丽的批评是对他的一种激励。"
+    },
+    {
+     "word": "manufacturer",
+     "phonetic": "ˌmænjuˈfækʧərə(r)",
+     "pos": "n.",
+     "meaning": "制造商，制造厂，生产者",
+     "example": "Manufacturers must sell these cleaner cars.",
+     "exampleCn": "制造商必须卖掉这些清洁车。"
+    },
+    {
+     "word": "specification",
+     "phonetic": "ˌspesifiˈkeiʃn",
+     "pos": "n.",
+     "meaning": "[常pl.]规格，规范；明确说明；（产品等的）说明书｜搭 the specification of a microwave oven 微波炉说明书",
+     "example": "The house has been built exactly to our specifications.",
+     "exampleCn": "房子完全是按照我们的工程设计书建造的。"
+    },
+    {
+     "word": "schedule",
+     "phonetic": "ˈʃedju:əl",
+     "pos": "vt./n.",
+     "meaning": "安排；列入，收进（清单等） 时刻表；清单｜搭 ahead of schedule 提前；a train/flight schedule 火车／航班时刻表；on schedule 按约定时间，按时，准时；behind schedule 落后于计划进度，晚于规定时间，晚点；be scheduled for 定在某时（进行）",
+     "example": "The lectures are scheduled for Tuesday and Thursday.",
+     "exampleCn": "讲座安排在星期二和星期四。"
+    },
+    {
+     "word": "arrangement",
+     "phonetic": "əˈreinʤmənt",
+     "pos": "n.",
+     "meaning": "安排；[常pl.]准备工作｜搭 course arrangement 课程安排；seat arrangement 座位安排",
+     "example": "Larger firms appear to be more willing to experiment with flexible working arrangements.",
+     "exampleCn": "较大型的企业似乎更愿意尝试弹性工作制。"
+    },
+    {
+     "word": "destruction",
+     "phonetic": "diˈstrʌkʃn",
+     "pos": "n.",
+     "meaning": "破坏，毁灭，摧毁｜搭 environmental destruction 环境破坏",
+     "example": "The importation of cheap goods has often contributed to the destruction of local skills and indigenous markets.",
+     "exampleCn": "进口廉价商品常常会给当地的手工业和本土市场带来毁灭性的打击。"
+    },
+    {
+     "word": "extinguisher",
+     "phonetic": "ikˈstiŋgwiʃə(r)",
+     "pos": "n.",
+     "meaning": "灭火器；灭火者",
+     "example": "If you discover a fire, shout \"FIRE\" and activate the nearest fire alarm. Attack the fire with an extinguisher but do not take any risks.",
+     "exampleCn": "如果发现火情，应大喊“着火了”，并按响离你最近的火警铃。使用灭火器去灭火，但不要冒险。"
+    },
+    {
+     "word": "assume",
+     "phonetic": "əˈsju:m",
+     "pos": "vt.",
+     "meaning": "假定，设想；承担（责任），就（职）｜搭 assume an obligation 承担义务；assume responsibility 承担责任",
+     "example": "Ecologists have assumed that tropical ecosystems were shaped entirely by natural forces.",
+     "exampleCn": "生态学家设想热带生态系统完全是由自然的力量形成的。"
+    },
+    {
+     "word": "proportion",
+     "phonetic": "prəˈpɔ:ʃn",
+     "pos": "n.",
+     "meaning": "比例；部分；相称｜搭 in proportion (to)（与…）成比例；out of proportion to sth. 与某物不成比例；proportion of …的比例；take a small proportion 占少量比例",
+     "example": "The proportion of the population still speaking this language is very small.",
+     "exampleCn": "只有少数人还在说这种语言。"
+    },
+    {
+     "word": "forth",
+     "phonetic": "fɔ:θ",
+     "pos": "ad.",
+     "meaning": "离去，外出；向前；向某处｜搭 call forth 使产生，引起；bring forth 提出；set forth 阐明，陈述；and so forth 等等；back and forth 来回地，往返，来来往往地",
+     "example": "From this day forth I will study much harder.",
+     "exampleCn": "从今以后我将更加努力学习。"
+    },
+    {
+     "word": "referee",
+     "phonetic": "ˌrefəˈri:",
+     "pos": "v./n.",
+     "meaning": "裁判；仲裁，调停 裁判（员）；仲裁人，调停人；证明人，介绍人｜搭 to be the referee of a game 成为一项运动的裁判",
+     "example": "Instead of spending much time refereeing between the two students, I went to the library.",
+     "exampleCn": "我没有花太多时间调停这两名学生，而是去了图书馆。"
+    },
+    {
+     "word": "forgo",
+     "phonetic": "fɔ:ˈgəu",
+     "pos": "vt.",
+     "meaning": "放弃，抛弃；作罢",
+     "example": "Jack has to forgo his vacation so as to take a summer English course.",
+     "exampleCn": "杰克为了参加暑期英语班只好放弃他的假期。"
+    },
+    {
+     "word": "assistantship",
+     "phonetic": "əˈsistənˌʃip",
+     "pos": "n.",
+     "meaning": "（给研究生的）半工半读助学金，（大学）研究生助教奖学金",
+     "example": "The organization has contributed a lot to the social welfare activities such as assistantship programs.",
+     "exampleCn": "这个组织为社会福利作了很多贡献，比如给学生提供助教学金。"
+    },
+    {
+     "word": "conversation",
+     "phonetic": "ˌkɔnvəˈseiʃn",
+     "pos": "n.",
+     "meaning": "会话，谈话",
+     "example": "The conversation between the new students touched on many new subjects.",
+     "exampleCn": "新同学之间的对话涉及很多新话题。"
+    },
+    {
+     "word": "recommendation",
+     "phonetic": "ˌrekəmenˈdeiʃn",
+     "pos": "n.",
+     "meaning": "推荐，推荐信；劝告，建议｜搭 letter of recommendation 推荐信；on sb.'s recommendation在某人的推荐下",
+     "example": "The skills of making presentation are on the recommendation of a professor.",
+     "exampleCn": "这些做报告的技巧是一位教授推荐的。"
+    },
+    {
+     "word": "graph",
+     "phonetic": "grɑ:f; græf",
+     "pos": "n.",
+     "meaning": "图，图表，曲线图｜搭 bar graph 条形图",
+     "example": "The graph below shows the population growth over the past several years.",
+     "exampleCn": "下图显示了过去几年的人口增长情况。"
+    },
+    {
+     "word": "offset",
+     "phonetic": "ˈɔfset",
+     "pos": "vt.",
+     "meaning": "抵消，补偿，弥补",
+     "example": "Prices have risen in order to offset the increased cost of materials.",
+     "exampleCn": "为弥补原料成本的增加而提高了价格。"
+    },
+    {
+     "word": "humanity",
+     "phonetic": "hju:ˈmænəti",
+     "pos": "n.",
+     "meaning": "人类，人；人性；人道，仁慈；[pl.]人文学科",
+     "example": "The control of fire was the first and perhaps greatest of humanity's steps towards a life-enhancing technology.",
+     "exampleCn": "人类在迈向提高生活质量的技术旅途中，对火的支配是迈出的第一步，可能也是最重要的一步。"
+    },
+    {
+     "word": "intact",
+     "phonetic": "inˈtækt",
+     "pos": "a.",
+     "meaning": "完整无缺的；完好无损的",
+     "example": "She hopes that her honor could remain intact.",
+     "exampleCn": "她希望自己的名誉依旧能完好无损。"
+    },
+    {
+     "word": "stripe",
+     "phonetic": "straip",
+     "pos": "n.",
+     "meaning": "条纹",
+     "example": "This skirt has a red stripe around the edge.",
+     "exampleCn": "这条裙子的边上有一圈红色条纹。"
+    },
+    {
+     "word": "mechanical",
+     "phonetic": "məˈkænikl",
+     "pos": "a.",
+     "meaning": "机械的，机械制造的；呆板的；习惯性的；体力的｜搭 mechanical labour 体力劳动",
+     "example": "Practise that and stop until it becomes mechanical.",
+     "exampleCn": "坚持练习，直到习惯成自然。"
+    },
+    {
+     "word": "junction",
+     "phonetic": "ˈʤʌŋkʃn",
+     "pos": "n.",
+     "meaning": "连接；联结点；交叉路口",
+     "example": "The power station was built at the junction of two rivers.",
+     "exampleCn": "那座发电站建于两河的交汇处。"
+    },
+    {
+     "word": "siesta",
+     "phonetic": "siˈestə",
+     "pos": "n.",
+     "meaning": "午睡，午休",
+     "example": "These workers have no time for a siesta in summer.",
+     "exampleCn": "这些工人在夏天都没有时间午睡。"
+    },
+    {
+     "word": "detect",
+     "phonetic": "diˈtekt",
+     "pos": "vt.",
+     "meaning": "发现，察觉；侦查，探测",
+     "example": "The robots can detect unauthorised personnel and alert security staff immediately.",
+     "exampleCn": "机器人能够发现未经允许擅自闯入的人员，并马上向保安人员发出警报。"
+    },
+    {
+     "word": "detour",
+     "phonetic": "ˈdi:tuə(r)",
+     "pos": "n./v.",
+     "meaning": "弯路，便道 迂回，绕道",
+     "example": "You can take a detour to get there and avoid Black Street.",
+     "exampleCn": "你可以绕道去那，不走布莱克大街。"
+    },
+    {
+     "word": "staircase",
+     "phonetic": "ˈsteəkeis",
+     "pos": "n.",
+     "meaning": "楼梯",
+     "example": "On hearing the fire alarm, all people in the building should evacuate via the staircase.",
+     "exampleCn": "听到火警后，楼里的所有人都应该通过楼梯撤出大楼。"
+    },
+    {
+     "word": "arthritis",
+     "phonetic": "ɑ:ˈθraitis",
+     "pos": "n.",
+     "meaning": "关节炎",
+     "example": "Rheumatoid arthritis belongs to the family of autoimmune diseases.",
+     "exampleCn": "类风湿性关节炎属于自体免疫系统类疾病。"
+    },
+    {
+     "word": "barrier",
+     "phonetic": "ˈbæriə(r)",
+     "pos": "n.",
+     "meaning": "栅栏；关卡，检票口；障碍，隔阂；屏障｜搭 language barrier 语言障碍；trade barrier 贸易壁垒",
+     "example": "The language barrier presents itself in stark form to firms who wish to market their products in other countries.",
+     "exampleCn": "对于那些希望在其他国家销售自己产品的公司来说，语言成了他们明显的障碍。"
+    },
+    {
+     "word": "replace",
+     "phonetic": "riˈpleis",
+     "pos": "vt.",
+     "meaning": "代替；更换；把…放回原处",
+     "example": "The new fuel is as inefficient as the one they have replaced.",
+     "exampleCn": "这种新型燃料和被它们取代的燃料一样效率低下。"
+    },
+    {
+     "word": "justice",
+     "phonetic": "ˈʤʌstis",
+     "pos": "n.",
+     "meaning": "正义，公正；司法",
+     "example": "Where might is master, justice is servant.",
+     "exampleCn": "有强权，就没有正义。"
+    },
+    {
+     "word": "diploma",
+     "phonetic": "diˈpləumə",
+     "pos": "n.",
+     "meaning": "毕业文凭（或证书）；资格证书",
+     "example": "Tim got a diploma at a private college.",
+     "exampleCn": "蒂姆拿到了一所私立学院的毕业证书。"
+    },
+    {
+     "word": "visa",
+     "phonetic": "ˈvi:zə",
+     "pos": "n.",
+     "meaning": "签证｜搭 exit visa 出境签证；entry visa 入境签证；transit visa 过境签证；work visa 工作签证；study visa 学习签证",
+     "example": "If you want to re-enter the island, you must get a multi-entry visa.",
+     "exampleCn": "如果你想要重新进入这个岛屿，就必须持有多次入境签证。"
+    },
+    {
+     "word": "cosmic",
+     "phonetic": "ˈkɔzmik",
+     "pos": "a.",
+     "meaning": "宇宙的｜搭 cosmic dust 宇宙尘埃",
+     "example": "The surface of Earth contains tons of cosmic dust.",
+     "exampleCn": "地球表面存有大量的宇宙尘埃。"
+    },
+    {
+     "word": "extendable",
+     "phonetic": "ikˈstendəbl",
+     "pos": "a.",
+     "meaning": "可延伸的，可展开的，可扩张的｜搭 extendable rod 拉杆；extendable bond 可延长债券",
+     "example": "The visa is for 15 days, extendable to one month.",
+     "exampleCn": "此签证有效期为15天，可延期到一个月。"
+    },
+    {
+     "word": "abundance",
+     "phonetic": "əˈbʌndəns",
+     "pos": "n.",
+     "meaning": "大量，丰富，充足，充裕｜搭 in abundance 丰富",
+     "example": "At the party, there was food and drink in abundance.",
+     "exampleCn": "宴会上，食品和饮料供应充足。"
+    },
+    {
+     "word": "supervisor",
+     "phonetic": "ˈsu:pəvaizə(r)",
+     "pos": "n.",
+     "meaning": "监督人，管理人，指导者；主管",
+     "example": "We have to put ourselves into the role of the manager or supervisor.",
+     "exampleCn": "我们必须要融入经理或主管的角色。"
+    },
+    {
+     "word": "jumble",
+     "phonetic": "ˈʤʌmbl",
+     "pos": "n./vt.",
+     "meaning": "混杂，掺杂；供义卖的旧杂货 混杂，掺杂｜搭 a jumble of 杂乱的一堆；jumble sale 废旧杂货廉价义卖；jumble sth. together/up 使乱堆，使杂乱",
+     "example": "Here is a jumble of books and newspaper.",
+     "exampleCn": "这有一堆杂乱的书和报纸。"
+    },
+    {
+     "word": "equip",
+     "phonetic": "iˈkwip",
+     "pos": "vt.",
+     "meaning": "装备，配备；使有能力，使有准备｜搭 be equipped with 配备有，装备有",
+     "example": "Underground offices in Japan are equipped with \"virtual\" windows and mirrors.",
+     "exampleCn": "日本的地下办公室装有虚拟的窗户和镜子。"
+    },
+    {
+     "word": "permanent",
+     "phonetic": "ˈpɜ:mənənt",
+     "pos": "a.",
+     "meaning": "永久的，持久的｜搭 an permanent address 永久住址",
+     "example": "Instead of moving from place to place the family needed permanent dwellings.",
+     "exampleCn": "这家人需要一个长期的居住地，而不是不断地搬家。"
+    },
+    {
+     "word": "embed",
+     "phonetic": "imˈbed",
+     "pos": "vt.",
+     "meaning": "把…嵌入（或埋入、插入），扎牢；使深留脑中｜搭 be embedded in 植根于",
+     "example": "The traditional idea is deeply embedded in our university.",
+     "exampleCn": "这个传统的想法在我们大学根深蒂固。"
+    },
+    {
+     "word": "orientation",
+     "phonetic": "ˌɔ:rienˈteiʃn",
+     "pos": "n.",
+     "meaning": "定位；方向，方位；情况介绍；培训，训练｜搭 an orientation meeting 介绍会；an orientation course 上岗培训课",
+     "example": "Now that everyone knows what team they're in, we'll get on with the orientation programme.",
+     "exampleCn": "既然每个人都明确了自己所在的小组，我们接着就开始进行培训项目。"
+    },
+    {
+     "word": "deprive",
+     "phonetic": "diˈpraiv",
+     "pos": "vt.",
+     "meaning": "剥夺；使丧失｜搭 deprive sb. of sth. 剥夺某人某物",
+     "example": "The accident deprived him of his feet.",
+     "exampleCn": "这场意外事故使他失去了双脚。"
+    },
+    {
+     "word": "amaze",
+     "phonetic": "əˈmeiz",
+     "pos": "vt.",
+     "meaning": "使惊奇，使惊愕",
+     "example": "We are amazed at the perfect symmetry of the building.",
+     "exampleCn": "我们惊诧于这座建筑物完美的对称。"
+    },
+    {
+     "word": "dividend",
+     "phonetic": "ˈdividend",
+     "pos": "n.",
+     "meaning": "红利，股息；回报，效益；被除数",
+     "example": "We pay a dividend of 15 percent.",
+     "exampleCn": "我们所付的股息为15％。"
+    },
+    {
+     "word": "preference",
+     "phonetic": "ˈprefrəns",
+     "pos": "n.",
+     "meaning": "喜爱；偏爱的事物（或人）；优先",
+     "example": "Many people expressed a strong preference for the original plan.",
+     "exampleCn": "许多人强烈表示喜欢原先的计划。"
+    },
+    {
+     "word": "contract",
+     "phonetic": "ˈkɔntrækt",
+     "pos": "n./v.",
+     "meaning": "契约，合同[kənˈtrækt] 缩小；签约",
+     "example": "Both sides should abide by the contract.",
+     "exampleCn": "双方都应该遵守合同。"
+    },
+    {
+     "word": "uneasy",
+     "phonetic": "ˌʌnˈi:zi",
+     "pos": "a.",
+     "meaning": "心神不安的；担心的",
+     "example": "He was uneasy about the results of the final exams.",
+     "exampleCn": "他为期末考试成绩忧心忡忡。"
+    },
+    {
+     "word": "automatically",
+     "phonetic": "ɔ:təˈmætikli",
+     "pos": "ad.",
+     "meaning": "自动地；无意识地",
+     "example": "Cars will be automatically controlled by computer in the future.",
+     "exampleCn": "未来的汽车将由计算机自动控制。"
+    },
+    {
+     "word": "female",
+     "phonetic": "ˈfi:meil",
+     "pos": "a./n.",
+     "meaning": "女（性）的；雌的 女子",
+     "example": "A cow produces only one calf a year whereas a female ostrich can lay an egg every other day.",
+     "exampleCn": "一头奶牛一年只能生一头小牛，而一只雌鸵鸟每隔一天就下一个蛋。"
+    },
+    {
+     "word": "asset",
+     "phonetic": "ˈæset",
+     "pos": "n.",
+     "meaning": "财产；优点",
+     "example": "Organizations",
+     "exampleCn": "should recognize that their employees are a significant part of their financial assets. 公司应该承认员工是其财产的重要组成部分。"
+    },
+    {
+     "word": "athlete",
+     "phonetic": "ˈæθli:t",
+     "pos": "n.",
+     "meaning": "运动员；体育家",
+     "example": "The young athlete trains hard every day to prepare for the games.",
+     "exampleCn": "这位年轻的运动员每天刻苦训练，为比赛做准备。"
+    },
+    {
+     "word": "clarity",
+     "phonetic": "ˈklærəti",
+     "pos": "n.",
+     "meaning": "清楚",
+     "example": "This article was written with clarity.",
+     "exampleCn": "这篇文章思路清晰。"
+    },
+    {
+     "word": "swap",
+     "phonetic": "swɔp",
+     "pos": "v./n.",
+     "meaning": "交换",
+     "example": "Don't swap horses when crossing a stream.",
+     "exampleCn": "过河勿换马／危难之时不宜作大变动。"
+    },
+    {
+     "word": "sophisticated",
+     "phonetic": "səˈfistikeitid",
+     "pos": "a.",
+     "meaning": "老于世故的，老练的；精密的，尖端的，先进的；复杂的；高雅的，有教养的｜搭 a sophisticated columnist 老练的专栏作家",
+     "example": "Space management is now a highly sophisticated method of manipulating the way we shop to ensure maximum profit.",
+     "exampleCn": "空间管理现在已成为一种非常尖端的技术，它通过控制我们的购物方式来实现利润最大化。"
+    },
+    {
+     "word": "bulk",
+     "phonetic": "bʌlk",
+     "pos": "n.",
+     "meaning": "大量；大批",
+     "example": "Ports take advantage of the need for breaking up bulk material.",
+     "exampleCn": "港口充分利用了分解大宗原料的需求。"
+    },
+    {
+     "word": "machinery",
+     "phonetic": "məˈʃi:nəri",
+     "pos": "n.",
+     "meaning": "〈总称〉机械；机构｜搭 industrial machinery 工业机械",
+     "example": "The new mayor reformed the machinery of the government.",
+     "exampleCn": "新市长对市政府机构进行了改革。"
+    },
+    {
+     "word": "intimate",
+     "phonetic": "ˈintimət",
+     "pos": "a./n./vt.",
+     "meaning": "亲密的，密切的；私人的，个人的；小圈子内的 至交，密友[ˈintimeit] 暗示，提示，透露｜搭 be intimate with sb. 与某人关系亲密；intimate details 隐私；intimate knowledge of sth. 对…非常了解，熟悉；on intimate terms with sb. 与某人保持亲密关系",
+     "example": "The dance studio provides a smaller, more intimate space, which we use for ballet, modern dance and martial arts.",
+     "exampleCn": "舞蹈室为我们练习芭蕾、现代舞和武术提供了一个更小更私密的空间。"
+    },
+    {
+     "word": "restrict",
+     "phonetic": "riˈstrikt",
+     "pos": "vt.",
+     "meaning": "限制，约束",
+     "example": "A student loan is not restricted to those who receive a maintenance grant in this school.",
+     "exampleCn": "在这所学校，学生贷款并不限于那些领生活补助金的学生。"
+    },
+    {
+     "word": "waist",
+     "phonetic": "weist",
+     "pos": "n.",
+     "meaning": "腰，腰部｜搭 strip to the waist 光着上半身",
+     "example": "Tom tied a walkman recorder to his waist.",
+     "exampleCn": "汤姆在腰上别了一台随身听。"
+    },
+    {
+     "word": "calibre",
+     "phonetic": "ˈkælibə(r)",
+     "pos": "n.",
+     "meaning": "质量，才干，能力；口径",
+     "example": "They suggest that the calibre of these institutions be carefully examined.",
+     "exampleCn": "他们建议要仔细调查这些机构的资质。"
+    },
+    {
+     "word": "harsh",
+     "phonetic": "hɑ:ʃ",
+     "pos": "a.",
+     "meaning": "严厉的，严酷的；粗糙的，毛糙的；刻薄的；（天气或生活环境）恶劣的；刺耳的，刺目的｜搭 harsh measures 严厉的措施；a harsh climate 恶劣的气候",
+     "example": "The report has harsh words for the countries that sold these weapons.",
+     "exampleCn": "这篇报道严厉谴责了出售这些武器的国家。"
+    },
+    {
+     "word": "parliament",
+     "phonetic": "ˈpɑ:ləmənt",
+     "pos": "n.",
+     "meaning": "议会，国会",
+     "example": "The exhibition met with great opposition from Parliament.",
+     "exampleCn": "这次展览遭到了国会的强烈反对。"
+    },
+    {
+     "word": "flight",
+     "phonetic": "flait",
+     "pos": "n.",
+     "meaning": "航班｜搭 flight attendant（客机的）乘务员；flight crew 机组人员；flight path（飞机的）飞行路线",
+     "example": "She's already booked a flight to Queensland.",
+     "exampleCn": "她已经预订了去昆士兰的航班。"
+    },
+    {
+     "word": "remind",
+     "phonetic": "riˈmaind",
+     "pos": "vt.",
+     "meaning": "提醒，使想起；使发生联想｜搭 remind sb. of sth. 提醒，使想起",
+     "example": "The notice reminds students that if they park a motor vehicle on university premises without a valid permit, they will be fined.",
+     "exampleCn": "这个通知提醒学生们：未经允许就在校园里停放机动车会被罚款。"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "title": "Word List 11",
+   "words": [
+    {
+     "word": "aquarium",
+     "phonetic": "əˈkweəriəm",
+     "pos": "n.",
+     "meaning": "养鱼池；玻璃缸；水族馆",
+     "example": "We are going to take the kids to the new aquarium this weekend.",
+     "exampleCn": "这周末我们打算带孩子们去新开的水族馆。"
+    },
+    {
+     "word": "cell",
+     "phonetic": "sel",
+     "pos": "n.",
+     "meaning": "细胞；小房间；电池｜搭 blood cells 血细胞",
+     "example": "Scientists are doing cellular research, looking at changes in cells when the body is under stress.",
+     "exampleCn": "科学家正在进行细胞研究，观察身体在压力下细胞内部发生的变化。"
+    },
+    {
+     "word": "dweller",
+     "phonetic": "ˈdwelə(r)",
+     "pos": "n.",
+     "meaning": "居住者，居民",
+     "example": "An underground dweller himself, Carpenter has never paid a heating bill, thanks to solar panels and natural insulation.",
+     "exampleCn": "作为地下居住者，得益于太阳能板和天然的保温条件，卡彭特从未交过取暖费。"
+    },
+    {
+     "word": "declare",
+     "phonetic": "diˈkleə(r)",
+     "pos": "v.",
+     "meaning": "正式宣布；声明；断言",
+     "example": "The government declared that the ballots cast were inconclusive.",
+     "exampleCn": "政府宣布这次投票不具有决定性。"
+    },
+    {
+     "word": "suitcase",
+     "phonetic": "ˈsu:tkeis; ˈsju:tkeis",
+     "pos": "n.",
+     "meaning": "手提箱；衣箱",
+     "example": "Tom travelled by plane last week and his suitcase was lost.",
+     "exampleCn": "汤姆上周坐飞机去旅行，把手提箱弄丢了。"
+    },
+    {
+     "word": "graduate",
+     "phonetic": "ˈgræʤuət",
+     "pos": "n./v.",
+     "meaning": "（尤指大学）毕业生；研究生[ˈgræʤueit] （使）毕业；获得学位｜搭 graduate school 研究生院；college graduates 大学毕业生；graduate from 从…毕业",
+     "example": "Nowadays, there are not many job opportunities which graduates can look forward to.",
+     "exampleCn": "现在，本科毕业生所能期望的就业机会并不多。"
+    },
+    {
+     "word": "predict",
+     "phonetic": "priˈdikt",
+     "pos": "v.",
+     "meaning": "预言；预告",
+     "example": "The United Nations predicts that the global population may stabilise between 8 and 14 billion in the twenty-first century.",
+     "exampleCn": "联合国预言，在21世纪全球人口将稳定在80亿到140亿之间。"
+    },
+    {
+     "word": "headquarters",
+     "phonetic": "ˌhedˈkwɔ:təz",
+     "pos": "n.",
+     "meaning": "总部，总公司；大本营；司令部",
+     "example": "The daily paper is compiled at the editorial headquarters.",
+     "exampleCn": "日报由编辑部总部编纂。"
+    },
+    {
+     "word": "coverage",
+     "phonetic": "ˈkʌvəriʤ",
+     "pos": "n.",
+     "meaning": "新闻报道；覆盖范围",
+     "example": "We all watch for live coverage of the results of the bombing trial.",
+     "exampleCn": "我们都等着看这起爆炸审判结果的现场报道。"
+    },
+    {
+     "word": "enforce",
+     "phonetic": "inˈfɔ:s",
+     "pos": "vt.",
+     "meaning": "实施，执行；强制，迫使｜搭 enforce laws 执法；enforce a demand 竭力要求",
+     "example": "Do they enforce that rule?",
+     "exampleCn": "他们执行那条规则了吗？// The teacher did not like to enforce rigid rules on the children. 那个老师不喜欢将陈规旧条强加到孩子们身上。"
+    },
+    {
+     "word": "specialty",
+     "phonetic": "ˈspeʃəlti",
+     "pos": "n.",
+     "meaning": "特产；特长",
+     "example": "Cross-country skiing events are a specialty of cold- weather countries.",
+     "exampleCn": "越野滑雪赛事是气候寒冷的国家中一道独特的风景线。"
+    },
+    {
+     "word": "intrinsic",
+     "phonetic": "inˈtrinsik",
+     "pos": "a.",
+     "meaning": "固有的，内在的；本质的｜搭 intrinsic nature 本质",
+     "example": "Students should realize the intrinsic value of education.",
+     "exampleCn": "学生应该认识到教育的内在价值。"
+    },
+    {
+     "word": "medical",
+     "phonetic": "ˈmedikl",
+     "pos": "a.",
+     "meaning": "医学的，医疗的；内科的｜搭 medical centre 医疗中心；medical science 医学；medical service 医疗服务；family medical history 家族病史",
+     "example": "The injured students required emergent medical attention.",
+     "exampleCn": "那些受伤的学生急需医疗护理。"
+    },
+    {
+     "word": "stick",
+     "phonetic": "stik",
+     "pos": "v.",
+     "meaning": "刺，戳；黏贴，黏住；卡住，陷住｜搭 be stuck on 被…迷住，特别喜欢；get stuck 被迷住",
+     "example": "The pictures on the wall were simply stuck on and so could easily become detached.",
+     "exampleCn": "墙上的画只是被简单地固定住，所以很容易摘下来。"
+    },
+    {
+     "word": "realistic",
+     "phonetic": "ˌriəˈlistik; ˌri:əˈlistik",
+     "pos": "a.",
+     "meaning": "现实（主义）的，实际的；恰如其分的；逼真的",
+     "example": "We must be more realistic towards the tough problem.",
+     "exampleCn": "面对这个棘手的问题，我们应该更现实一点。"
+    },
+    {
+     "word": "indifferent",
+     "phonetic": "inˈdifrənt",
+     "pos": "a.",
+     "meaning": "冷漠的，不关心的｜搭 be indifferent to 对…漠不关心",
+     "example": "Tina seems to be totally indifferent to the exam result of the higher language course.",
+     "exampleCn": "蒂娜似乎对高级语言课程的考试结果毫不关心。"
+    },
+    {
+     "word": "retailer",
+     "phonetic": "ˈri:teilə(r)",
+     "pos": "n.",
+     "meaning": "零售商人；复述者，传播者",
+     "example": "Many retailers are facing their slowest business period during the financial crisis.",
+     "exampleCn": "在金融危机中，许多零售商正处在最低迷时期。"
+    },
+    {
+     "word": "turnover",
+     "phonetic": "ˈtɜ:nəuvə(r)",
+     "pos": "n.",
+     "meaning": "营业额；人事变动率；货物周转率",
+     "example": "The company tried its best to decrease the turnover.",
+     "exampleCn": "公司竭尽全力降低人事变动率。"
+    },
+    {
+     "word": "brand",
+     "phonetic": "brænd",
+     "pos": "n./vt.",
+     "meaning": "商标；品牌 铭刻，打烙印于；丑化｜搭 name brand 名牌；leading brand 驰名品牌；brand image 品牌形象；co-branded card 联名卡",
+     "example": "What brand of cola do you like?",
+     "exampleCn": "你喜欢喝什么牌子的可乐？"
+    },
+    {
+     "word": "accompany",
+     "phonetic": "əˈkʌmpəni",
+     "pos": "vt.",
+     "meaning": "陪伴；伴随，与…同时发生；伴奏｜搭 accompany training 陪练；accompany a singer 伴唱",
+     "example": "Your enrolment form must be accompanied by the course deposit of $100.",
+     "exampleCn": "你的登记表和100美元的课程押金必须一起上交。"
+    },
+    {
+     "word": "cheat",
+     "phonetic": "ʧi:t",
+     "pos": "v./n.",
+     "meaning": "欺骗；作弊 欺骗；骗子",
+     "example": "Tour operators try to cheat tourists.",
+     "exampleCn": "旅行社的工作人员试图欺骗游客。"
+    },
+    {
+     "word": "mention",
+     "phonetic": "ˈmenʃn",
+     "pos": "n./v.",
+     "meaning": "提及，说起｜搭 not to mention 更不用说；更不必说",
+     "example": "He mentioned in his letter that he might be moving abroad.",
+     "exampleCn": "他在信中提到他可能要移居国外。"
+    },
+    {
+     "word": "level",
+     "phonetic": "ˈlevl",
+     "pos": "n./a./v.",
+     "meaning": "水平面，水平线；高度，水平；等级 平的，水平的；同高度的，同等程度的；平稳的；冷静的 （使）变平坦｜搭 at the level of 在…水平上",
+     "example": "The noise levels at the site can reach 45 decibels.",
+     "exampleCn": "在这种场所，噪声值可达45分贝。"
+    },
+    {
+     "word": "lateral",
+     "phonetic": "ˈlætərəl",
+     "pos": "a.",
+     "meaning": "侧面的，旁边的",
+     "example": "Not even our closest relatives among the apes possess such decided lateral asymmetry, as zoologists call it.",
+     "exampleCn": "正如动物学家所认为的那样，即便是和我们有着最近的血缘关系的猿类也不具备这样明显的侧向不对称性。"
+    },
+    {
+     "word": "dense",
+     "phonetic": "dens",
+     "pos": "a.",
+     "meaning": "密集的；浓厚的",
+     "example": "The airport was closed because of the dense fog.",
+     "exampleCn": "机场因为大雾而关闭了。"
+    },
+    {
+     "word": "flash",
+     "phonetic": "flæʃ",
+     "pos": "v./n.",
+     "meaning": "闪光，闪耀 闪烁；闪光灯｜搭 a flash of lightning 一道闪电；a flash in the pan 昙花一现的人物，一时的成功",
+     "example": "The air can",
+     "exampleCn": "become slightly positively charged when"
+    },
+    {
+     "word": "snack",
+     "phonetic": "snæk",
+     "pos": "n.",
+     "meaning": "快餐，小吃；点心｜搭 snack bar 小吃店，快餐店",
+     "example": "The sandwich shop for quick snacks is nearby.",
+     "exampleCn": "出售快餐的三明治店离这很近。"
+    },
+    {
+     "word": "marvellous",
+     "phonetic": "ˈmɑ:vələs",
+     "pos": "n.",
+     "meaning": "令人惊奇的；奇特的，非凡的；奇迹般的，不可思议的；绝妙的",
+     "example": "We'll come to a picture gallery where we've got a marvellous collection of paintings all by Australian artists.",
+     "exampleCn": "接下来我们会来到一个画廊，这里有绝好的画作收藏，全都出自澳大利亚画家之手。"
+    },
+    {
+     "word": "export",
+     "phonetic": "ikˈspɔ:t",
+     "pos": "v./n.",
+     "meaning": "出口；输出，传播[ˈekspɔ:t] 出口；输出；出口商品｜搭 export rebates 出口退税；export finance 出口信贷；export restriction 出口限制",
+     "example": "In Africa, the feathers of ostriches were used for tribal ceremonial dress and they were also exported to Europe and America.",
+     "exampleCn": "在非洲鸵鸟毛经常用在部落的典礼服饰上，同时也出口到欧洲和美洲。"
+    },
+    {
+     "word": "tribute",
+     "phonetic": "ˈtribju:t",
+     "pos": "n.",
+     "meaning": "贡品；颂词，称赞；（表示敬意的）礼物",
+     "example": "In ancient times, people had to pay tribute to the king.",
+     "exampleCn": "在古代，人们必须向国王进贡。"
+    },
+    {
+     "word": "sanitary",
+     "phonetic": "ˈsænətri",
+     "pos": "a./n.",
+     "meaning": "清洁的；保健的，卫生的 （有卫生设备的）公共厕所｜搭 sanitary facilities 卫生设施；sanitary conditions 卫生条件",
+     "example": "People living in the district suffered from appalling sanitary conditions.",
+     "exampleCn": "住在这一区域的人们卫生条件差得出奇。"
+    },
+    {
+     "word": "submit",
+     "phonetic": "səbˈmit",
+     "pos": "v.",
+     "meaning": "屈从；提交｜搭 submit to 递交；屈服",
+     "example": "After many failures, I submitted to fate.",
+     "exampleCn": "多次失败后，我向命运屈服了。"
+    },
+    {
+     "word": "archive",
+     "phonetic": "ˈɑ:kaiv",
+     "pos": "n./vt.",
+     "meaning": "档案；档案室 存档",
+     "example": "The museum drew on its archive collection for its exhibition.",
+     "exampleCn": "博物馆为举办展览使用了收藏的档案文件。"
+    },
+    {
+     "word": "anecdotal",
+     "phonetic": "ˌænikˈdəutl",
+     "pos": "a.",
+     "meaning": "轶话的，轶闻趣事的",
+     "example": "There is only anecdotal evidence of life on Mars.",
+     "exampleCn": "火星上存在生命仅仅是传言。"
+    },
+    {
+     "word": "shorthand",
+     "phonetic": "ˈʃɔ:thænd",
+     "pos": "n.",
+     "meaning": "速记法；速记",
+     "example": "The book contained some strange shorthand symbols.",
+     "exampleCn": "这本书上有一些奇怪的速记符号。"
+    },
+    {
+     "word": "exceptional",
+     "phonetic": "ikˈsepʃənl",
+     "pos": "a.",
+     "meaning": "例外的；异常的",
+     "example": "Kate has quite an exceptional music ability.",
+     "exampleCn": "凯特具有非凡的音乐才能。"
+    },
+    {
+     "word": "rude",
+     "phonetic": "ru:d",
+     "pos": "a.",
+     "meaning": "粗鲁的；粗糙的",
+     "example": "Across the room stand three rude and high-backed chairs.",
+     "exampleCn": "房间的那头放着三把做工粗糙的高背椅。"
+    },
+    {
+     "word": "resume",
+     "phonetic": "riˈzju:m",
+     "pos": "v.",
+     "meaning": "（中断后）重新开始，继续恢复",
+     "example": "He resumed his reading after a nap.",
+     "exampleCn": "小睡了一会儿后，他继续阅读。"
+    },
+    {
+     "word": "bookrest",
+     "phonetic": "ˈbukrest",
+     "pos": "n.",
+     "meaning": "阅书架",
+     "example": "Using a bookrest which raises the material you are reading 45 degrees to the desk will help reduce your chance of a headache.",
+     "exampleCn": "阅书架可以将阅读材料呈45度地摆放在桌子上，使用它可以降低因阅读引起头疼的几率。"
+    },
+    {
+     "word": "primitive",
+     "phonetic": "ˈprimətiv",
+     "pos": "a./n.",
+     "meaning": "原始的，上古的；简单的，粗糙的 原始人；原始事物｜搭 primitive society 原始社会；a primitive measuring method原始的测量方法",
+     "example": "Studies of primitive societies suggest that the earliest method of making fire was through friction.",
+     "exampleCn": "对原始社会的研究表明，人们最早是通过摩擦生火的。"
+    },
+    {
+     "word": "craft",
+     "phonetic": "krɑ:ft",
+     "pos": "n.",
+     "meaning": "工艺，手艺；船；航空器",
+     "example": "This region is a diverse agricultural area, rich in historic sites, arts and crafts.",
+     "exampleCn": "该地区为多种农作物种植带，且具有众多的历史遗址，艺术形式丰富，手工艺发达。"
+    },
+    {
+     "word": "hire",
+     "phonetic": "ˈhaiə(r)",
+     "pos": "v./n.",
+     "meaning": "租用；雇用",
+     "example": "She was hired three years ago.",
+     "exampleCn": "她是三年前录用的。"
+    },
+    {
+     "word": "goggles",
+     "phonetic": "ˈgɔglz",
+     "pos": "n.",
+     "meaning": "护目镜；风镜；游泳镜",
+     "example": "Racecar drivers all wear goggles when they are in a race.",
+     "exampleCn": "赛车选手比赛时都佩戴护目镜。"
+    },
+    {
+     "word": "thereby",
+     "phonetic": "ˌðeəˈbai",
+     "pos": "ad.",
+     "meaning": "因此，从而",
+     "example": "Mary became an American citizen, thereby gaining the right to vote.",
+     "exampleCn": "玛丽成了美国公民，因此得到了投票权。"
+    },
+    {
+     "word": "stake",
+     "phonetic": "steik",
+     "pos": "n./vt.",
+     "meaning": "桩；火刑柱；利害关系；股份；赌金 以…打赌；拿…冒险｜搭 at stake 在危险中，处于成败关头",
+     "example": "They burned this man at the stake as a heretic.",
+     "exampleCn": "他们将这个人当作异教徒，对其处以火刑。"
+    },
+    {
+     "word": "barge",
+     "phonetic": "bɑ:ʤ",
+     "pos": "n./v.",
+     "meaning": "驳船 猛撞；闯｜搭 barge in 闯入；barge into 与…相撞",
+     "example": "Beekeepers moved beehives on barges along the river to their next destination.",
+     "exampleCn": "养蜂人用驳船载着蜂箱顺流而下，驶往下一个目的地。"
+    },
+    {
+     "word": "aerobics",
+     "phonetic": "eəˈrəubiks",
+     "pos": "n.",
+     "meaning": "有氧运动",
+     "example": "This room is used mainly for badminton and aerobics.",
+     "exampleCn": "这间屋子主要用作羽毛球室和有氧运动室。"
+    },
+    {
+     "word": "shrub",
+     "phonetic": "ʃrʌb",
+     "pos": "n.",
+     "meaning": "灌木｜搭 shrub layer 灌木层",
+     "example": "The volunteers raked around shrubs and trees to look for the lost children.",
+     "exampleCn": "志愿者在灌木丛和树林里四处寻找迷路的孩子。"
+    },
+    {
+     "word": "slat",
+     "phonetic": "slæt",
+     "pos": "n./vt.",
+     "meaning": "板条，狭板 用板条制作",
+     "example": "Try out an orthopaedic mattress or a spring slatted bed which can be beneficial for certain types of back pain.",
+     "exampleCn": "你可以尝试使用矫形床垫或是板条弹簧床，这有助于缓解某些背痛。"
+    },
+    {
+     "word": "legal",
+     "phonetic": "ˈli:gl",
+     "pos": "a.",
+     "meaning": "法律的；合法的",
+     "example": "The Union has its own officers who can give advice on legal problems.",
+     "exampleCn": "该协会拥有自己的人员，负责给法律事务提供建议。"
+    },
+    {
+     "word": "cinematography",
+     "phonetic": "ˌsinəməˈtɔgrəfi",
+     "pos": "n.",
+     "meaning": "电影摄影术",
+     "example": "The new film provided the raw material for the introduction of cinematography a few years later.",
+     "exampleCn": "新的电影胶片为几年后电影摄影术的诞生提供了原材料。"
+    },
+    {
+     "word": "contribute",
+     "phonetic": "kənˈtribju:t; ˈkɔntribju:t",
+     "pos": "v.",
+     "meaning": "捐赠，捐助；起作用，影响｜搭 contribute to 有助于；捐助，贡献；a contributing factor起作用的因素",
+     "example": "Industrial emissions and automobile exhausts contribute to high pollution.",
+     "exampleCn": "工业排放物和汽车尾气共同造成了重污染。"
+    },
+    {
+     "word": "imagination",
+     "phonetic": "iˌmæʤiˈneiʃn",
+     "pos": "n.",
+     "meaning": "想象（力）；想象出来的事物",
+     "example": "They need to train their powers of imagination.",
+     "exampleCn": "他们需要训练自己的想象力。"
+    },
+    {
+     "word": "bronchitis",
+     "phonetic": "brɔŋˈkaitis",
+     "pos": "n.",
+     "meaning": "【医】支气管炎",
+     "example": "Smoking can cause problems such as pneumonia, bronchitis and influenza.",
+     "exampleCn": "吸烟能引起肺炎、支气管炎和流行性感冒等疾病。"
+    },
+    {
+     "word": "exacerbate",
+     "phonetic": "igˈzæsəbeit",
+     "pos": "vt.",
+     "meaning": "恶化，加剧",
+     "example": "More intensive farming and the abandonment of fallow periods tend to exacerbate soil erosion.",
+     "exampleCn": "更密集的耕种和取消休耕期会加剧土壤的侵蚀。"
+    },
+    {
+     "word": "intrusion",
+     "phonetic": "inˈtru:ʒn",
+     "pos": "n.",
+     "meaning": "闯入；打搅；侵扰",
+     "example": "In fact, there are people who dislike any kind of perfume and think it's an intrusion.",
+     "exampleCn": "实际上，有些人讨厌所有香水的气味，并认为别人使用香水是对自己的侵犯。"
+    },
+    {
+     "word": "cancel",
+     "phonetic": "ˈkænsl",
+     "pos": "v.",
+     "meaning": "取消，废除；抵消，对消；删去，划掉｜搭 cancel out 抵偿",
+     "example": "Could you please call the dentist at 816-25285 and cancel the appointment for me?",
+     "exampleCn": "你能拨打816-25285帮我取消和牙医的预约吗？"
+    },
+    {
+     "word": "cork",
+     "phonetic": "kɔ:k",
+     "pos": "n./vt.",
+     "meaning": "软木塞 用软木塞塞住",
+     "example": "When a volcano erupts, the shattered summit is ejected like a cork from a shaken soda bottle.",
+     "exampleCn": "火山喷发时，被炸碎的山峰喷射而出，就像是装有苏打水的瓶子经过摇晃，上面的软木塞被顶飞出去一样。"
+    },
+    {
+     "word": "data",
+     "phonetic": "ˈdeitə",
+     "pos": "n.",
+     "meaning": "数据；资料",
+     "example": "You have to spend a bit of time making the data a lot clearer.",
+     "exampleCn": "你要花一点时间把这些数据整理得更清晰些。"
+    },
+    {
+     "word": "buffalo",
+     "phonetic": "ˈbʌfələu",
+     "pos": "n.",
+     "meaning": "水牛；（北美）野牛",
+     "example": "The Native Americans followed the wounded buffalo until it fell dead.",
+     "exampleCn": "这些印第安人紧追这头受伤的水牛不放，直到它倒地死去。"
+    },
+    {
+     "word": "insufficient",
+     "phonetic": "ˌinsəˈfiʃnt",
+     "pos": "a.",
+     "meaning": "不足的，不够的｜搭 insufficient for 不够做…；不能胜任…",
+     "example": "The company's funds for research were insufficient.",
+     "exampleCn": "那家公司没有足够的研究资金。"
+    },
+    {
+     "word": "grocery",
+     "phonetic": "ˈgrəusəri",
+     "pos": "n.",
+     "meaning": "杂货店；食品，杂货",
+     "example": "I assisted in a grocery store last semester.",
+     "exampleCn": "上学期，我在一家杂货店帮忙。"
+    },
+    {
+     "word": "humid",
+     "phonetic": "ˈhju:mid",
+     "pos": "a.",
+     "meaning": "湿的，潮湿的，湿润的，多潮气的｜搭 humid air 潮湿的空气；humid atmosphere 潮湿的大气；humid climate 湿润的气候",
+     "example": "Summers in that city are extremely hot and humid.",
+     "exampleCn": "那个城市的夏天非常湿热。"
+    },
+    {
+     "word": "relation",
+     "phonetic": "riˈleiʃn",
+     "pos": "n.",
+     "meaning": "关系，联系；亲属，亲戚｜搭 in/with relation to 关系到；have no relation to 与…没有关系；diplomatic relations 外交关系；international relations 国际关系",
+     "example": "The relation between students and teachers is generally good in this university.",
+     "exampleCn": "这所大学里师生间的关系总体来说很好。"
+    },
+    {
+     "word": "confuse",
+     "phonetic": "kənˈfju:z",
+     "pos": "vt.",
+     "meaning": "使混乱，混淆；使迷惑，使糊涂｜搭 confuse...with 把…和…混淆，把…和…混为一谈",
+     "example": "I'm afraid I'm a bit confused by what you said just now.",
+     "exampleCn": "恐怕我被你刚才说的话弄得有点糊涂。"
+    },
+    {
+     "word": "correspondence",
+     "phonetic": "ˌkɔrəˈspɔndəns",
+     "pos": "n.",
+     "meaning": "通信，信件；符合，一致；对应｜搭 keep correspondence with sb. 与某人保持通信；commercial correspondence 商业信函",
+     "example": "I have kept correspondence with my former classmates.",
+     "exampleCn": "我一直和以前的同学保持通信。"
+    },
+    {
+     "word": "allocation",
+     "phonetic": "ˌæləˈkeiʃn",
+     "pos": "n.",
+     "meaning": "配给，分配，安置；配给量",
+     "example": "People approved the allocation of food to those who need it most.",
+     "exampleCn": "人们赞成把食物分给那些最需要的人。"
+    },
+    {
+     "word": "entertainment",
+     "phonetic": "ˌentəˈteinmənt",
+     "pos": "n.",
+     "meaning": "招待，款待；娱乐（业）；供消遣的事物｜搭 the entertainment industry 娱乐产业",
+     "example": "The use of some entertainment can be addicted.",
+     "exampleCn": "参与一些娱乐项目是会上瘾的。"
+    },
+    {
+     "word": "conquer",
+     "phonetic": "ˈkɔŋkə(r)",
+     "pos": "vt.",
+     "meaning": "征服，战胜，占领；克服，破除（坏习惯等）｜搭 conquer your fear 战胜恐惧",
+     "example": "Many people have made attempts to conquer the peaks of Everest.",
+     "exampleCn": "许多人都试图征服珠穆朗玛峰。"
+    },
+    {
+     "word": "decoration",
+     "phonetic": "ˌdekəˈreiʃn",
+     "pos": "n.",
+     "meaning": "装饰，装潢；装饰品｜搭 for decoration 具有装饰功能",
+     "example": "The restaurant will offer decoration balloons.",
+     "exampleCn": "餐厅会提供装饰气球。"
+    },
+    {
+     "word": "reward",
+     "phonetic": "riˈwɔ:d",
+     "pos": "n./vt.",
+     "meaning": "奖赏；报酬 酬谢；奖励",
+     "example": "Those employees who never take sick leave think that they should be rewarded.",
+     "exampleCn": "那些从来不请病假的员工认为他们应该因此得到奖励。"
+    },
+    {
+     "word": "larva",
+     "phonetic": "ˈlɑ:və",
+     "pos": "n.",
+     "meaning": "[pl. larvae]幼虫，幼体",
+     "example": "Once the beetle larvae have finished pupation, the residue is a first-rate source of fertiliser.",
+     "exampleCn": "一旦甲虫的幼虫完成了化蛹过程，其残留物就是最好的肥料来源。"
+    },
+    {
+     "word": "semester",
+     "phonetic": "siˈmestə(r)",
+     "pos": "n.",
+     "meaning": "学期",
+     "example": "In the first semester, you'll be taking four subjects.",
+     "exampleCn": "你在第一学期要选四门课。"
+    },
+    {
+     "word": "offspring",
+     "phonetic": "ˈɔfspriŋ",
+     "pos": "n.",
+     "meaning": "子女，后代；产物",
+     "example": "With one right- and one left-handed parent, 15 to 20 percent of the offspring will be left-handed.",
+     "exampleCn": "如果父母中有一个是左撇子，另一个惯用右手，那么他们的后代是左撇子的概率是15％到20％。"
+    },
+    {
+     "word": "occasional",
+     "phonetic": "əˈkeiʒənl",
+     "pos": "a.",
+     "meaning": "偶尔的，间或发生的",
+     "example": "There will be occasional congruity between prophecy and fact.",
+     "exampleCn": "预言与事实偶尔会一致。"
+    },
+    {
+     "word": "crater",
+     "phonetic": "ˈkreitə(r)",
+     "pos": "n.",
+     "meaning": "火山口；坑",
+     "example": "After the volcano erupted, lava domes formed inside the new crater, and have periodically burst.",
+     "exampleCn": "火山喷发后，新形成的火山口内部会形成熔岩穹丘，这些熔岩穹丘会周期性地爆发。"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "title": "Word List 12",
+   "words": [
+    {
+     "word": "ensue",
+     "phonetic": "inˈsju:",
+     "pos": "vi.",
+     "meaning": "继而发生；接着发生",
+     "example": "If a forest fire cannot be extinguished, devastation is sure to ensue.",
+     "exampleCn": "如果不能扑灭森林火灾，毁坏一定会随之发生。"
+    },
+    {
+     "word": "instruct",
+     "phonetic": "inˈstrʌkt",
+     "pos": "vt.",
+     "meaning": "教导；指示，命令",
+     "example": "PE teachers instruct students how to exercise, play sports, and do other recreational activities correctly and safely.",
+     "exampleCn": "体育老师指导学生们如何安全正确地锻炼、做运动以及进行其他娱乐活动。"
+    },
+    {
+     "word": "declaration",
+     "phonetic": "ˌdekləˈreiʃn",
+     "pos": "n.",
+     "meaning": "宣布；宣言，声明（书）",
+     "example": "This declaration seemed to calm the discontented party members somewhat.",
+     "exampleCn": "这项声明似乎让那些心存不满的党派成员稍微平静了点。"
+    },
+    {
+     "word": "flexibility",
+     "phonetic": "ˌfleksəˈbiləti",
+     "pos": "n.",
+     "meaning": "柔韧，有弹性；柔顺，温顺；灵活性；适应性｜搭 flexibility of mind 头脑的灵活性",
+     "example": "PE teachers help the development of coordination, balance, posture, and flexibility with activities like simple catching and throwing.",
+     "exampleCn": "体育老师利用简单抓取和投掷等活动帮助学生提高身体的协调性、平衡度以及改善他们的体态和柔韧性。"
+    },
+    {
+     "word": "native",
+     "phonetic": "ˈneitiv",
+     "pos": "a./n.",
+     "meaning": "当地（人）的 本地人，本国人",
+     "example": "All teachers in this school have specialist qualifications in teaching English to foreign students, and are all native speakers.",
+     "exampleCn": "这所学校所有的老师都具备教外籍学生英语的专业资格，且均为英语国家人士。"
+    },
+    {
+     "word": "significant",
+     "phonetic": "sigˈnifikənt",
+     "pos": "a.",
+     "meaning": "有意义的；重大的，重要的",
+     "example": "Modifications to houses come at a significant cost to the home buyers.",
+     "exampleCn": "房屋装修对购房人来说是一笔不菲的开销。"
+    },
+    {
+     "word": "loyalty",
+     "phonetic": "ˈlɔiəlti",
+     "pos": "n.",
+     "meaning": "忠诚，忠心｜搭 national loyalty 对国家的忠诚",
+     "example": "In the remote area, family and loyalties are still very important.",
+     "exampleCn": "在偏远地区，家庭和忠诚仍然很重要。"
+    },
+    {
+     "word": "conditioner",
+     "phonetic": "kənˈdiʃənə(r)",
+     "pos": "n.",
+     "meaning": "护发素，护发剂；调节物；调节器，调节装置｜搭 soil conditioner 土壤调节剂；air conditioner 空调",
+     "example": "If your hair is dry in winter, you can use some hair conditioner every day.",
+     "exampleCn": "如果头发在冬天时干燥，可以每天用一些护发素。"
+    },
+    {
+     "word": "reduce",
+     "phonetic": "riˈdju:s",
+     "pos": "v.",
+     "meaning": "减少，缩小；简化",
+     "example": "Catastrophes such as fire, flood, drought or epidemic may reduce population sizes to a small fraction of their average level.",
+     "exampleCn": "火灾、洪水、干旱或流行病之类大灾难会降低人口数量，使其远远低于正常水平。"
+    },
+    {
+     "word": "controversy",
+     "phonetic": "ˈkɔntrəvɜ:si; kənˈtrɔvəsi",
+     "pos": "n.",
+     "meaning": "争论，辩论，论战",
+     "example": "There exists a controversy over a plan for new teaching building.",
+     "exampleCn": "建造新教学楼的计划存在争议。"
+    },
+    {
+     "word": "service",
+     "phonetic": "ˈsɜ:vis",
+     "pos": "n./vt.",
+     "meaning": "服务，帮助；公共设施，公用事业；维修，保养；行政部门，服务机构 维修，保养｜搭 airline coach service 航空公司汽车服务处；Student Service 学生服务中心；door-to-door service 门到门服务；service charge 服务费用；interlibrary service 图书馆馆际服务",
+     "example": "The airline companies want to improve the service.",
+     "exampleCn": "航空公司想提升服务质量。"
+    },
+    {
+     "word": "dwell",
+     "phonetic": "ˈdwel",
+     "pos": "vi.",
+     "meaning": "居住，栖身",
+     "example": "This kind of ground-dwelling herbivore may go extinct within a decade.",
+     "exampleCn": "这种穴居食草动物也许在十年内就会灭绝。"
+    },
+    {
+     "word": "sensation",
+     "phonetic": "senˈseiʃn",
+     "pos": "n.",
+     "meaning": "（感官的）感觉能力；感觉，知觉；轰动，引起轰动的事件（或人物）｜搭 cause a great sensation 引起很大轰动；heat sensation 热觉",
+     "example": "This discovery would cause not much more sensation than Herschel's discovery of Uranus, in 1781.",
+     "exampleCn": "这一发现的影响不会比赫舍尔于1781年首次发现天王星时更轰动。"
+    },
+    {
+     "word": "scrap",
+     "phonetic": "skræp",
+     "pos": "n./vt.",
+     "meaning": "碎屑 废弃；抛弃",
+     "example": "Scrapping farm-price support and protection for coal- mining offers a two-fold bonus: a cleaner environment and a more efficient economy.",
+     "exampleCn": "废除农产品价格补贴和对采煤业的保护有双重好处，可以获得更清洁的环境和更高效的经济。"
+    },
+    {
+     "word": "anxious",
+     "phonetic": "ˈæŋkʃəs",
+     "pos": "a.",
+     "meaning": "渴望的；忧虑的",
+     "example": "He is anxious to enter the competition.",
+     "exampleCn": "他急切希望能加入比赛。"
+    },
+    {
+     "word": "recipient",
+     "phonetic": "riˈsipiənt",
+     "pos": "n.",
+     "meaning": "接受者",
+     "example": "This aritificial heart recipient will recover in three weeks.",
+     "exampleCn": "人造心脏接受者将在三个星期后康复。"
+    },
+    {
+     "word": "identical",
+     "phonetic": "aiˈdentikl",
+     "pos": "a.",
+     "meaning": "完全相同的，同一的",
+     "example": "Even among identical twins, one in six pairs will differ in their handedness.",
+     "exampleCn": "即使是同卵双胞胎，平均六对中也会出现一对在使用左右手习惯上不同的双胞胎。"
+    },
+    {
+     "word": "clay",
+     "phonetic": "klei",
+     "pos": "n.",
+     "meaning": "泥土，黏土｜搭 clay pigeon 泥制飞靶；容易被捉弄的人",
+     "example": "The ancient Egyptians moved clay hives, probably on rafts, down the Nile to follow the bloom.",
+     "exampleCn": "古埃及人带着泥制的蜂箱，可能是乘着筏子，沿尼罗河而下去寻找花源。"
+    },
+    {
+     "word": "rival",
+     "phonetic": "ˈraivl",
+     "pos": "n./a.",
+     "meaning": "竞争者，竞争对手；可与匹敌的人（或物） 竞争的，对抗的vt. 与…竞争；与…匹敌，比得上；竞争，对抗",
+     "example": "The rival team lost by 12 points in the first round.",
+     "exampleCn": "第一轮比赛中，对手队以12分之差败北。"
+    },
+    {
+     "word": "tropospheric",
+     "phonetic": "ˌtrɔpəˈsferik",
+     "pos": "a.",
+     "meaning": "对流层的｜搭 tropospheric ozone 对流层臭氧",
+     "example": "Scientists study tropospheric ozone to understand air pollution near the ground.",
+     "exampleCn": "科学家研究对流层臭氧，以了解地面附近的空气污染。"
+    },
+    {
+     "word": "attraction",
+     "phonetic": "əˈtrækʃn",
+     "pos": "n.",
+     "meaning": "爱慕，吸引；吸引力；具有吸引力的事（或人）｜搭 a tourist attraction 旅游胜地",
+     "example": "The attraction of single-speed cycles is their simplicity and reliability.",
+     "exampleCn": "单速自行车吸引人之处在于其简单性和可靠性。"
+    },
+    {
+     "word": "earthwork",
+     "phonetic": "ˈɜ:θwɜ:k",
+     "pos": "n.",
+     "meaning": "土方（工程）",
+     "example": "Some contemporary tribes still live among the earthworks of earlier cultures.",
+     "exampleCn": "一些同时代的部落依然生活在早期文化风格的建筑里。"
+    },
+    {
+     "word": "surround",
+     "phonetic": "səˈraund",
+     "pos": "vt.",
+     "meaning": "围绕；包围｜搭 be surrounded by sth. 被…围绕；surround yourself with sth. 用…把自己包围住",
+     "example": "We have surrounded this city.",
+     "exampleCn": "我们已经包围了这座城市。"
+    },
+    {
+     "word": "impression",
+     "phonetic": "imˈpreʃn",
+     "pos": "n.",
+     "meaning": "印象，感想；印记，压痕｜搭 first impression 第一印象",
+     "example": "Could you tell us something about your first impression of the town when you arrived?",
+     "exampleCn": "你能不能告诉我当你初到这个小镇时，你的第一印象是什么？"
+    },
+    {
+     "word": "horrify",
+     "phonetic": "ˈhɔrifai",
+     "pos": "vt.",
+     "meaning": "使恐惧，使惊骇；使震惊；使感到厌恶",
+     "example": "I had been horrified by several newspaper reports.",
+     "exampleCn": "我对几篇新闻报道的内容感到震惊。"
+    },
+    {
+     "word": "introduction",
+     "phonetic": "ˌintrəˈdʌkʃn",
+     "pos": "n.",
+     "meaning": "介绍；传入，引进；导言，绪论",
+     "example": "By way of introduction, I shall give you the background of the subject.",
+     "exampleCn": "通过介绍，我将向你讲述该学科的相关背景。"
+    },
+    {
+     "word": "compact",
+     "phonetic": "kəmˈpækt",
+     "pos": "a./vt.",
+     "meaning": "紧密的，结实的；简明的；紧凑的 使紧凑，压缩｜搭 a compact car 小型客车；a compact narration 简明的叙述",
+     "example": "The bag must be compact and light for easy transport.",
+     "exampleCn": "这个包必须轻便结实以便于运输。"
+    },
+    {
+     "word": "enquire",
+     "phonetic": "inˈkwaiə(r)",
+     "pos": "v.",
+     "meaning": "打听，询问；查问，调查",
+     "example": "If you have any question, welcome to call the Students' Union to enquire.",
+     "exampleCn": "有任何问题，欢迎致电学生会询问。"
+    },
+    {
+     "word": "onwards",
+     "phonetic": "ˈɔnwədz",
+     "pos": "ad.",
+     "meaning": "向前地，前进地｜搭 from...onwards 从（某时）起一直",
+     "example": "The Romans left from the country in 410, at the beginning of the fifth century, and from then onwards the country suffered a series of invasions.",
+     "exampleCn": "罗马人在公元410年，也就是五世纪初撤离该国，之后，这个国家遭受了一系列的侵略。"
+    },
+    {
+     "word": "memorandum",
+     "phonetic": "ˌmeməˈrændəm",
+     "pos": "n.",
+     "meaning": "备忘录，摘要",
+     "example": "The manager sent a memorandum to remind everyone of the meeting time.",
+     "exampleCn": "经理发了一份备忘录，提醒大家开会的时间。"
+    },
+    {
+     "word": "rectangular",
+     "phonetic": "rekˈtæŋgjəfə(r)",
+     "pos": "a.",
+     "meaning": "长方形的，矩形的",
+     "example": "In front of the Empire State Building is a long rectangular wading pool.",
+     "exampleCn": "帝国大厦前面是一个长方形的浅水池。"
+    },
+    {
+     "word": "kidney",
+     "phonetic": "ˈkidni",
+     "pos": "n.",
+     "meaning": "肾，肾脏",
+     "example": "The doctor asked Mark whether he had ever suffered from any liver, kidney or heart disease.",
+     "exampleCn": "医生问马克以前是否得过肝、肾或是心脏方面的疾病。"
+    },
+    {
+     "word": "standpoint",
+     "phonetic": "ˈstændpɔint",
+     "pos": "n.",
+     "meaning": "立场；观点",
+     "example": "From a completely economical standpoint, the ad is actually more important than the film itself.",
+     "exampleCn": "单以经济学观点看，这则广告实际上比电影本身更重要。"
+    },
+    {
+     "word": "curative",
+     "phonetic": "ˈkjuərətiv",
+     "pos": "a.",
+     "meaning": "有疗效的；医疗的",
+     "example": "The doctor believed in the curative power of rest and fresh air.",
+     "exampleCn": "医生相信休息和新鲜空气的治疗作用。"
+    },
+    {
+     "word": "predominantly",
+     "phonetic": "priˈdɔminəntli",
+     "pos": "ad.",
+     "meaning": "主要地；重要地；显著地",
+     "example": "Tom grew up in the predominantly black, middle-class suburb of this city.",
+     "exampleCn": "汤姆在这个城市黑人和中产阶级占多数的市郊长大。"
+    },
+    {
+     "word": "clutch",
+     "phonetic": "klʌʧ",
+     "pos": "n./v.",
+     "meaning": "离合器；[常 pl.]控制 企图抓；抓紧",
+     "example": "The driver released the clutch to engage the gears and make his car go.",
+     "exampleCn": "司机松开离合器，挂上挡，这样汽车就开动起来了。"
+    },
+    {
+     "word": "combine",
+     "phonetic": "kəmˈbain",
+     "pos": "v.",
+     "meaning": "联合，结合｜搭 combine...with... 联合…和…",
+     "example": "The next step was to combine the holder with a small camera.",
+     "exampleCn": "下一步是将支架和一台小型相机连接起来。"
+    },
+    {
+     "word": "chart",
+     "phonetic": "ʧɑ:t",
+     "pos": "n./vt.",
+     "meaning": "图，图表；海图 记录；用图表表示；制图｜搭 bar chart 条形图；flow chart 流程图",
+     "example": "The first chart shows the reasons why adults decide to study.",
+     "exampleCn": "第一张图表显示成年人决定进行学习的原因。"
+    },
+    {
+     "word": "asthma",
+     "phonetic": "ˈæsmə",
+     "pos": "n.",
+     "meaning": "哮喘症",
+     "example": "A world-wide rise in asthma, over the past four decades is said to be linked with increased air pollution.",
+     "exampleCn": "据说，在过去的40年里，世界范围内哮喘病发病率升高与越来越严重的空气污染有关。"
+    },
+    {
+     "word": "signature",
+     "phonetic": "ˈsignəʧə(r)",
+     "pos": "n.",
+     "meaning": "签名，签字；签署",
+     "example": "Corbett ran into the bedroom and scribbled his signature on the notebook.",
+     "exampleCn": "科比特冲进卧室，在笔记本上潦草地签上了自己的名字。"
+    },
+    {
+     "word": "occasion",
+     "phonetic": "əˈkeiʒn",
+     "pos": "n./vt.",
+     "meaning": "时刻，时候；场合；重大（或特殊）活动，盛会；时机，机会；起因，理由 引起，惹起",
+     "example": "It should have been an occasion for rejoicing, but she could not feel any real joy.",
+     "exampleCn": "原本应该是高兴的时刻，她却丝毫未感到真正的快乐。"
+    },
+    {
+     "word": "mineral",
+     "phonetic": "ˈminərəl",
+     "pos": "n.",
+     "meaning": "矿物，矿石",
+     "example": "Topaz is a hard and transparent mineral.",
+     "exampleCn": "黄玉是一种坚硬透明的矿石。"
+    },
+    {
+     "word": "invaluable",
+     "phonetic": "inˈvæljuəbl",
+     "pos": "a.",
+     "meaning": "无价的",
+     "example": "Her advice was invaluable to me when I started learning English.",
+     "exampleCn": "在我开始学英语时，她的建议对我非常宝贵。"
+    },
+    {
+     "word": "recover",
+     "phonetic": "riˈkʌvə(r)",
+     "pos": "v.",
+     "meaning": "重新获得，重新得到；使复原，使康复；收回，换回｜搭 recover oneself 使自己振作；recover from 恢复",
+     "example": "After a few days of cough, my roommate began to recover.",
+     "exampleCn": "咳嗽了几天后，我的室友开始康复了。"
+    },
+    {
+     "word": "moderation",
+     "phonetic": "ˌmɔdəˈreiʃn",
+     "pos": "n.",
+     "meaning": "温和，中庸；适度，合理｜搭 in moderation 节制",
+     "example": "In the middle of Health Diet Pyramid we find the things that we can eat in moderation.",
+     "exampleCn": "我们可以适量吃处于健康饮食金字塔中部的食物。"
+    },
+    {
+     "word": "documentation",
+     "phonetic": "ˌdɔkjumenˈteiʃn",
+     "pos": "n.",
+     "meaning": "文件证据，文献资料，文件",
+     "example": "When you open a bank account, you should take some documentation with you.",
+     "exampleCn": "当你去银行开户时，要随身携带一些文件资料。"
+    },
+    {
+     "word": "critical",
+     "phonetic": "ˈkritikl",
+     "pos": "a.",
+     "meaning": "批评的，评论的；危急的，紧要的；临界的；挑剔的｜搭 be critical of 对…吹毛求疵；critical thoughts 批判性思维；be of critical importance 至关重要；critical point 临界点；a critical period 危险期",
+     "example": "The strike has been stopped, but the situation is still critical at the moment.",
+     "exampleCn": "罢工虽然停止了，但是当前形势仍很危急。"
+    },
+    {
+     "word": "vocational",
+     "phonetic": "vəuˈkeiʃənl",
+     "pos": "a.",
+     "meaning": "职业的，业务的",
+     "example": "This is a vocational training institute.",
+     "exampleCn": "这是一个职业培训机构。"
+    },
+    {
+     "word": "summary",
+     "phonetic": "ˈsʌməri",
+     "pos": "n./a.",
+     "meaning": "摘要，概要 概括的，简略的｜搭 in summary 总括",
+     "example": "Tina gave a summary of the activity last night.",
+     "exampleCn": "蒂娜昨晚给出了活动的概要。"
+    },
+    {
+     "word": "remove",
+     "phonetic": "riˈmu:v",
+     "pos": "vt./n.",
+     "meaning": "排除，消除；搬迁，移动；开除，解除 距离，间距｜搭 be far removed from sth. 和…差别很大",
+     "example": "Water soluble vitamins are removed rapidly from the body.",
+     "exampleCn": "水溶性维生素可以很快排出体外。"
+    },
+    {
+     "word": "coffer",
+     "phonetic": "ˈkɔfə(r)",
+     "pos": "n.",
+     "meaning": "保险箱",
+     "example": "The thief managed to open the coffer, but it turned out to be empty.",
+     "exampleCn": "小偷费尽心思打开了保险箱，却发现里面空空如也。"
+    },
+    {
+     "word": "bound",
+     "phonetic": "baund",
+     "pos": "a.",
+     "meaning": "负有义务的；一定的，必然的",
+     "example": "Because these courses start every Monday, there's bound to be one that fits in with your academic, personal or professional commitments.",
+     "exampleCn": "因为这些课程每周一都开，所以一定有适合你学习、针对你个人或工作内容的课程。"
+    },
+    {
+     "word": "mercury",
+     "phonetic": "ˈmɜ:kjəri",
+     "pos": "n.",
+     "meaning": "水银",
+     "example": "The mercury in the thermometer rose to 35℃ yesterday.",
+     "exampleCn": "昨天温度计的水银柱升到了35摄氏度。"
+    },
+    {
+     "word": "trinket",
+     "phonetic": "ˈtriŋkit",
+     "pos": "n.",
+     "meaning": "小装饰品；不值钱的珠宝",
+     "example": "The lady had some trinkets on her dress.",
+     "exampleCn": "这位女士在衣服上挂了一些饰品。"
+    },
+    {
+     "word": "expire",
+     "phonetic": "ikˈspaiə(r)",
+     "pos": "v.",
+     "meaning": "期满；终止",
+     "example": "The lease on this house expires at the end of the year.",
+     "exampleCn": "这房子租约年底到期。"
+    },
+    {
+     "word": "accessible",
+     "phonetic": "əkˈsesəbl",
+     "pos": "a.",
+     "meaning": "能接近的；易达到的",
+     "example": "He pointed his telescope to every accessible part of the sky and recorded what he saw.",
+     "exampleCn": "他将望远镜指向天空中所有可以达到的地方，并记录下所看到的。"
+    },
+    {
+     "word": "turbine",
+     "phonetic": "ˈtɜ:bain",
+     "pos": "n.",
+     "meaning": "涡轮机，汽轮机",
+     "example": "Ultraclean coal can be used in advanced power systems such as coal-fired gas turbines.",
+     "exampleCn": "超纯煤可以用在诸如燃煤的燃气涡轮机之类的先进动力系统中。"
+    },
+    {
+     "word": "backbone",
+     "phonetic": "ˈbækbəun",
+     "pos": "n.",
+     "meaning": "脊椎；骨干；支柱",
+     "example": "The Ottawa Charter for Health Promotion outlined in 1986 remains as the backbone of health action today.",
+     "exampleCn": "1986年起草的《渥太华健康促进宪章》仍是今天健康活动的支柱。"
+    },
+    {
+     "word": "attribute",
+     "phonetic": "əˈtribju:t",
+     "pos": "vt./n.",
+     "meaning": "把…归于[ˈætribju:t] 属性；品质｜搭 attribute to 归结于，归功于，因为",
+     "example": "The global increase in greenhouse gases has been attributed to industrial pollution in developed countries.",
+     "exampleCn": "全球温室气体的增加归咎于发达国家的工业污染。"
+    },
+    {
+     "word": "magnitude",
+     "phonetic": "ˈmægnitju:d",
+     "pos": "n.",
+     "meaning": "广大，巨大；重要，重要性；星体的亮度",
+     "example": "Stargazers were struck by the uncommon magnitude of the newly discovered comet.",
+     "exampleCn": "这颗新发现的彗星尤其亮，令天文学家们非常吃惊。"
+    },
+    {
+     "word": "compatible",
+     "phonetic": "kəmˈpætəbl",
+     "pos": "a.",
+     "meaning": "兼容的；合得来的｜搭 be compatible with 与…相适应／不矛盾",
+     "example": "Accuracy is not always compatible with haste.",
+     "exampleCn": "忙中难免出错。"
+    },
+    {
+     "word": "entrepreneur",
+     "phonetic": "ˌɔntrəprəˈnɜ:(r)",
+     "pos": "n.",
+     "meaning": "企业家；承包人",
+     "example": "The owner of the company is an American entrepreneur.",
+     "exampleCn": "这家公司的老板是一位美国企业家。"
+    },
+    {
+     "word": "proposal",
+     "phonetic": "prəˈpəuzl",
+     "pos": "n.",
+     "meaning": "提议，建议；求婚",
+     "example": "The school master has accepted proposals to renovate the old schoolhouses.",
+     "exampleCn": "校长已经接受了翻新旧校舍的提议。"
+    },
+    {
+     "word": "coach",
+     "phonetic": "kəuʧ",
+     "pos": "n./vt.",
+     "meaning": "教练；指导；长途汽车 训练；辅导",
+     "example": "They play just as important a role as the coach in our team.",
+     "exampleCn": "在我们队里，他们扮演着和教练同等重要的角色。"
+    },
+    {
+     "word": "fatal",
+     "phonetic": "ˈfeitl",
+     "pos": "a.",
+     "meaning": "致命的；重大的；命中注定的；灾难性的｜搭 a fatal accident 一场严重的事故",
+     "example": "The majority of single-gene defects are fatal.",
+     "exampleCn": "大部分的单基因缺陷都是致命的。"
+    },
+    {
+     "word": "currency",
+     "phonetic": "ˈkʌrənsi",
+     "pos": "n.",
+     "meaning": "货币；通用，流行｜搭 paper currency 纸币",
+     "example": "The paper currency of the United States is green and white.",
+     "exampleCn": "美国的纸币由绿色和白色组成。// Many good words just have no currency these days and are useless in conversation. 许多很好的词现在都不太流行，而且交谈中也用不到。"
+    },
+    {
+     "word": "disapprove",
+     "phonetic": "ˌdisəˈpru:v",
+     "pos": "v.",
+     "meaning": "不赞成，反对",
+     "example": "They disapprove of paying farmers for not cultivating the land.",
+     "exampleCn": "他们不赞成付钱给未耕种土地的农民。"
+    },
+    {
+     "word": "complain",
+     "phonetic": "kəmˈplein",
+     "pos": "v.",
+     "meaning": "抱怨；投诉｜搭 complain about 抱怨",
+     "example": "John complains that the resource centre has limited opening hours.",
+     "exampleCn": "约翰抱怨说信息中心的开放时间有限。"
+    },
+    {
+     "word": "audacious",
+     "phonetic": "ɔ:ˈdeiʃəs",
+     "pos": "a.",
+     "meaning": "大胆的；有冒险精神的；鲁莽的；厚颜无耻的｜搭 audacious spirit 冒险精神",
+     "example": "The audacious proposal was quickly denied by the committee.",
+     "exampleCn": "这个冒险的提议很快就被委员会否决了。"
+    },
+    {
+     "word": "disrupt",
+     "phonetic": "disˈrʌpt",
+     "pos": "vt.",
+     "meaning": "使中断；扰乱",
+     "example": "Work of any company may be disrupted by absence of its employees.",
+     "exampleCn": "任何一家公司的工作都可能因员工的旷工而中断。"
+    },
+    {
+     "word": "tramp",
+     "phonetic": "træmp",
+     "pos": "v./n.",
+     "meaning": "跋涉；踩踏 长途跋涉",
+     "example": "Those poor people tramped for miles and miles without finding anywhere to stay.",
+     "exampleCn": "那些可怜的人走啊走，始终找不到栖身之处。"
+    },
+    {
+     "word": "pest",
+     "phonetic": "pest",
+     "pos": "n.",
+     "meaning": "害虫",
+     "example": "Some varieties of food plants are especially vulnerable to pests or diseases.",
+     "exampleCn": "一些粮食作物尤其容易受害虫和疾病的危害。"
+    },
+    {
+     "word": "inflation",
+     "phonetic": "inˈfleiʃn",
+     "pos": "n.",
+     "meaning": "通货膨胀",
+     "example": "Inflation reduced the purchasing power of the families.",
+     "exampleCn": "通货膨胀降低了家庭的购买力。"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "title": "Word List 13",
+   "words": [
+    {
+     "word": "statement",
+     "phonetic": "ˈsteitmənt",
+     "pos": "n.",
+     "meaning": "陈述；声明；报表",
+     "example": "The statement contradicts the views of the writer.",
+     "exampleCn": "这些陈述与作者的观点相反。"
+    },
+    {
+     "word": "amount",
+     "phonetic": "əˈmaunt",
+     "pos": "n./vi.",
+     "meaning": "总额 合计｜搭 amount of 许多；amount to 总计…",
+     "example": "The chart shows the amount spent on six consumer goods in European countries.",
+     "exampleCn": "这张图表显示了欧洲国家在六种消费品上的总花费。"
+    },
+    {
+     "word": "given",
+     "phonetic": "ˈgivn",
+     "pos": "a.",
+     "meaning": "规定的，特定的；假设的",
+     "example": "It is often important that you make it clear what your particular role is at a given time.",
+     "exampleCn": "明确自己在特定时间内的特定角色通常很重要。"
+    },
+    {
+     "word": "advanced",
+     "phonetic": "ədˈvɑ:nst",
+     "pos": "a.",
+     "meaning": "先进的",
+     "example": "Prehistoric Amazonians developed technology and art that were advanced for their time.",
+     "exampleCn": "史前亚马孙人创造了当时先进的技术和艺术。"
+    },
+    {
+     "word": "milestone",
+     "phonetic": "ˈmailstəun",
+     "pos": "n.",
+     "meaning": "里程碑；转折点",
+     "example": "This theory represents one of the great milestones in the history of scientific thought.",
+     "exampleCn": "这一理论是科学思想史上一座伟大的里程碑。"
+    },
+    {
+     "word": "crank",
+     "phonetic": "kræŋk",
+     "pos": "n./vt.",
+     "meaning": "曲柄，曲轴 用曲柄转动某物",
+     "example": "That gear is connected to a crank which changes the motion.",
+     "exampleCn": "那个传动装置与一个能改变运动方式的曲柄连接在一起。"
+    },
+    {
+     "word": "lexicographer",
+     "phonetic": "ˌleksiˈkɔgrəfə(r)",
+     "pos": "n.",
+     "meaning": "词典编纂者",
+     "example": "The reform has transformed the way lexicographers work.",
+     "exampleCn": "这种改革改变了词典编纂者的工作方式。"
+    },
+    {
+     "word": "bunch",
+     "phonetic": "bʌnʧ",
+     "pos": "n./v.",
+     "meaning": "群，伙；束，串，捆 集中，挤在一起；使成一束（或一群等）｜搭 a bunch of 一些",
+     "example": "He picked me a bunch of flowers.",
+     "exampleCn": "他给我采了一束花。"
+    },
+    {
+     "word": "costume",
+     "phonetic": "ˈkɔstju:m",
+     "pos": "n.",
+     "meaning": "戏装；（特定场合穿的）成套服装",
+     "example": "Mom told me that she had a ballet costume.",
+     "exampleCn": "妈妈告诉我她有一套芭蕾舞服。"
+    },
+    {
+     "word": "scare",
+     "phonetic": "skeə(r)",
+     "pos": "n./v.",
+     "meaning": "惊恐，恐慌 吓，使害怕；受惊吓，感到害怕",
+     "example": "The decoy camera can be fixed to the wall to scare off burglars.",
+     "exampleCn": "可以在墙上安装假摄像头来吓走盗贼。"
+    },
+    {
+     "word": "manipulate",
+     "phonetic": "məˈnipjuleit",
+     "pos": "vt.",
+     "meaning": "应付，处理；操纵，控制；影响",
+     "example": "Computers are very efficient at manipulating information.",
+     "exampleCn": "计算机在处理信息方面效率极高。"
+    },
+    {
+     "word": "juvenile",
+     "phonetic": "ˈʤu:vənail",
+     "pos": "a./n.",
+     "meaning": "少年的，少年特有的；幼稚的，不成熟的 未成年人，少年",
+     "example": "Juvenile delinquency has increased remarkably in the last decade.",
+     "exampleCn": "在过去的十年里，未成年人犯罪有明显的增加。"
+    },
+    {
+     "word": "phenomenon",
+     "phonetic": "fəˈnɔminən",
+     "pos": "n.",
+     "meaning": "现象，迹象；非凡的人（或事物）",
+     "example": "The greenhouse effect is a natural phenomenon.",
+     "exampleCn": "温室效应是一种自然现象。"
+    },
+    {
+     "word": "freight",
+     "phonetic": "freit",
+     "pos": "n./vt.",
+     "meaning": "货物 运送（货物）；货运",
+     "example": "Heavy freight could only be carried by water or rail.",
+     "exampleCn": "大型货物只能通过水路或铁路来运输。"
+    },
+    {
+     "word": "vulnerable",
+     "phonetic": "ˈvʌlnərəbl",
+     "pos": "a.",
+     "meaning": "易受攻击的，易受伤的｜搭 be vulnerable to 易受…伤害；vulnerable group 弱势群体",
+     "example": "Women are especially vulnerable to back pain because of pregnancy.",
+     "exampleCn": "由于怀孕，女性尤其容易背痛。"
+    },
+    {
+     "word": "steam",
+     "phonetic": "sti:m",
+     "pos": "n./v.",
+     "meaning": "（蒸）汽，汽雾 发出蒸汽；（火车、轮船）行驶；用蒸汽开动｜搭 steam engine 蒸汽机",
+     "example": "The old train is powered by steam engine.",
+     "exampleCn": "老式火车由蒸汽机驱动。"
+    },
+    {
+     "word": "valuable",
+     "phonetic": "ˈvæljuəbl",
+     "pos": "a./n.",
+     "meaning": "贵重的，有价值的 贵重物品，财宝｜搭 valuable belongings 贵重的财产",
+     "example": "The province is abundant in valuable minerals.",
+     "exampleCn": "该省富含贵重的矿物质。"
+    },
+    {
+     "word": "presumably",
+     "phonetic": "priˈzju:məbli",
+     "pos": "ad.",
+     "meaning": "推测起来，大概",
+     "example": "Presumably consumers have bought such poisonous food.",
+     "exampleCn": "大概消费者已经购买了这种有毒食品。"
+    },
+    {
+     "word": "sanctuary",
+     "phonetic": "ˈsæŋkʧuəri",
+     "pos": "n.",
+     "meaning": "圣堂，圣殿，圣坛；圣地；庇护所，避难所；禁猎区，动物保护区｜搭 bird sanctuary 鸟类保护区；wildlife sanctuary 野生动植物保护区；seek sanctuary 寻找避难所",
+     "example": "Despite living in a sanctuary, which makes them safe from hunters, the animals still face a number of problems that threaten their survival.",
+     "exampleCn": "尽管生活在保护区，得以远离猎人，这些动物仍然面临很多威胁它们生存的问题。"
+    },
+    {
+     "word": "arithmetic",
+     "phonetic": "əˈriθmətik",
+     "pos": "n.",
+     "meaning": "算术",
+     "example": "My little brother is good at arithmetic and can add numbers quickly.",
+     "exampleCn": "我弟弟擅长算术，能很快地加法计算。"
+    },
+    {
+     "word": "request",
+     "phonetic": "riˈkwest",
+     "pos": "n./vt.",
+     "meaning": "要求；请求",
+     "example": "I'd like to make a request for leave.",
+     "exampleCn": "我想请求离开一下。"
+    },
+    {
+     "word": "dash",
+     "phonetic": "dæʃ",
+     "pos": "v./n.",
+     "meaning": "飞奔，猛冲；猛掷；使破灭，使沮丧 飞奔，猛冲；破折号；精力，干劲",
+     "example": "I dashed off the letter.",
+     "exampleCn": "我急急忙忙地把信写完了。"
+    },
+    {
+     "word": "treatment",
+     "phonetic": "ˈtri:tmənt",
+     "pos": "n.",
+     "meaning": "治疗；对待",
+     "example": "People were dissatisfied with the treatment of animals at the zoo.",
+     "exampleCn": "动物园对待动物的方式令人不满。"
+    },
+    {
+     "word": "coarse",
+     "phonetic": "kɔ:s",
+     "pos": "a.",
+     "meaning": "粗的；粗糙的；粗劣的",
+     "example": "It's good for you to walk on the coarse sand with bare feet.",
+     "exampleCn": "光脚在粗沙上走动对你有好处。"
+    },
+    {
+     "word": "insecure",
+     "phonetic": "ˌinsiˈkjuə(r)",
+     "pos": "a.",
+     "meaning": "不安全的，不可靠的｜搭 an insecure investment 一笔不可靠的投资",
+     "example": "The trend towards blurring these roles in dress is probably democratic, but it also makes some people very insecure.",
+     "exampleCn": "淡化服饰角色的趋势或许比较民主，但同时也让一些人觉得很不安全。"
+    },
+    {
+     "word": "linen",
+     "phonetic": "ˈlinin",
+     "pos": "n.",
+     "meaning": "亚麻织品；亚麻布",
+     "example": "All bed linens and towels are clearly embossed with the name of the manufacturer.",
+     "exampleCn": "所有的床上用品和毛巾上都清楚地压印了生产商的名字。"
+    },
+    {
+     "word": "inspiration",
+     "phonetic": "ˌinspəˈreiʃn",
+     "pos": "n.",
+     "meaning": "启示，灵感；鼓舞人心的人（或事），激励",
+     "example": "Hypotheses arise from guesswork, or from inspiration.",
+     "exampleCn": "假说由人们的猜测或灵感引起。"
+    },
+    {
+     "word": "generous",
+     "phonetic": "ˈʤenərəs",
+     "pos": "a.",
+     "meaning": "慷慨的；大量的｜搭 a generous gift 一份慷慨的礼物",
+     "example": "People in disaster-affected areas received generous aid from the government.",
+     "exampleCn": "受灾地区的人民从政府那里得到了大量的救济物资。"
+    },
+    {
+     "word": "cultivate",
+     "phonetic": "ˈkʌltiveit",
+     "pos": "vt.",
+     "meaning": "种植；培养",
+     "example": "This banana is the first type to be cultivated here.",
+     "exampleCn": "这种香蕉是这里最早种植的品种。"
+    },
+    {
+     "word": "campaign",
+     "phonetic": "kæmˈpein",
+     "pos": "vi./n.",
+     "meaning": "参加活动；作战 战役；活动｜搭 launch a campaign 发起活动；campaign funds 竞选经费",
+     "example": "Local authorities in London campaigned to be allowed to enforce anti-pollution laws themselves.",
+     "exampleCn": "伦敦当地政权发起一场要求赋予他们执行反污染法案权力的运动。"
+    },
+    {
+     "word": "disorder",
+     "phonetic": "disˈɔ:də(r)",
+     "pos": "n.",
+     "meaning": "混乱；失调，紊乱，疾病",
+     "example": "The couple knew through the examination that they would have a baby free from the disorder.",
+     "exampleCn": "通过检查，这对夫妇知道自己会生一个健康的宝宝。"
+    },
+    {
+     "word": "spot",
+     "phonetic": "spɔt",
+     "pos": "vt./n.",
+     "meaning": "认出，发现；看见，注意到 地点，处所；斑点，污点；少量｜搭 on the spot 当场，在现场；hot spot 热点；a scenic spot景点",
+     "example": "You'll spot the cinema right next to the underground station.",
+     "exampleCn": "你会在地铁站旁边看到这家电影院。"
+    },
+    {
+     "word": "outcome",
+     "phonetic": "ˈautkʌm",
+     "pos": "n.",
+     "meaning": "结果，成果；后果；结局；出口，输出量",
+     "example": "Some environmentalists worry about this outcome.",
+     "exampleCn": "一些环境保护主义者对这个结果表示担心。"
+    },
+    {
+     "word": "aggravate",
+     "phonetic": "ˈægrəveit",
+     "pos": "vt.",
+     "meaning": "恶化，加重，加剧｜搭 aggravate poverty 加重贫困；aggravate the situation 使环境恶化",
+     "example": "The pollution problems in the area will be further aggravated by the heavy industry.",
+     "exampleCn": "重工业的发展将使该地区的污染问题进一步恶化。"
+    },
+    {
+     "word": "deception",
+     "phonetic": "diˈsepʃn",
+     "pos": "n.",
+     "meaning": "欺骗；诡计｜搭 intentional deception 故意的欺骗行为",
+     "example": "The young boy didn't have the courage to admit his deception.",
+     "exampleCn": "那个男孩没有勇气承认他的欺骗行为。"
+    },
+    {
+     "word": "sharpen",
+     "phonetic": "ˈʃɑ:pən",
+     "pos": "v.",
+     "meaning": "削尖，磨快；使敏锐，使敏捷｜搭 sharpen pencils 削铅笔",
+     "example": "The course can help the students sharpen their oral skills.",
+     "exampleCn": "这门课程可以帮助学生们练就流利的口语表达能力。"
+    },
+    {
+     "word": "practical",
+     "phonetic": "ˈpræktikl",
+     "pos": "a.",
+     "meaning": "实际的，实用的；实践的，应用的｜搭 practical experience 实践经验；practical value 实用价值；practical material 实用材料",
+     "example": "The new invention was very practical.",
+     "exampleCn": "这项新发明很实用。"
+    },
+    {
+     "word": "pliable",
+     "phonetic": "ˈplaiəbl",
+     "pos": "a.",
+     "meaning": "（指人或思想）容易受影响的；顺从的；易弯的，柔韧的",
+     "example": "This pair of shoes are made of pliable leather.",
+     "exampleCn": "这双鞋是用软皮做的。"
+    },
+    {
+     "word": "disposal",
+     "phonetic": "diˈspəuzl",
+     "pos": "n.",
+     "meaning": "处理，处置；布置，安排｜搭 waste disposal 废物处理；at one's disposal 任某人处理，供某人支配",
+     "example": "The main use of water in most families is washing and waste disposal.",
+     "exampleCn": "在大多数家庭中，水的主要用途是洗漱和废物处理。"
+    },
+    {
+     "word": "subsidiary",
+     "phonetic": "səbˈsidiəri",
+     "pos": "n./a.",
+     "meaning": "子公司；附属机构；支流 次要的；辅助的，附设的｜搭 subsidiary unit 从属单位；a subsidiary company 分公司",
+     "example": "Ports attract many subsidiaries and independent industries.",
+     "exampleCn": "港口城市吸引了很多附属公司和独立产业。"
+    },
+    {
+     "word": "cautious",
+     "phonetic": "ˈkɔ:ʃəs",
+     "pos": "a.",
+     "meaning": "十分小心的，谨慎的",
+     "example": "We should be more cautious not to make any mistakes in our papers.",
+     "exampleCn": "我们要更加小心以避免在试卷上出现任何错误。"
+    },
+    {
+     "word": "pattern",
+     "phonetic": "ˈpætn",
+     "pos": "n./vt.",
+     "meaning": "样式；模式 构成图案；使形成，促成",
+     "example": "How do you think the Internet will affect buying patterns in the future?",
+     "exampleCn": "你认为互联网会如何影响未来的购买模式？"
+    },
+    {
+     "word": "terrain",
+     "phonetic": "təˈrein",
+     "pos": "n.",
+     "meaning": "地形，地势",
+     "example": "Five speed bicycles are best suited to riding over long distances or hilly terrain.",
+     "exampleCn": "五档位变速自行车最适用于长途旅行或者崎岖多山的地形。"
+    },
+    {
+     "word": "darkroom",
+     "phonetic": "ˈdɑ:krum",
+     "pos": "n.",
+     "meaning": "暗室",
+     "example": "Plate cameras were heavy, and required access to a darkroom for loading and processing the plates.",
+     "exampleCn": "感光相机很重，而且还需要一间暗室来装载和处理使用过的底片。"
+    },
+    {
+     "word": "kneel",
+     "phonetic": "ni:l",
+     "pos": "vi.",
+     "meaning": "跪",
+     "example": "Mary knelt down to examine the damage to her car.",
+     "exampleCn": "玛丽跪下来仔细查看她汽车的受损情况。"
+    },
+    {
+     "word": "overwhelm",
+     "phonetic": "ˌəuvəˈwelm",
+     "pos": "vt.",
+     "meaning": "征服；淹没",
+     "example": "The village was overwhelmed by the flood.",
+     "exampleCn": "那个村庄被洪水淹没了。"
+    },
+    {
+     "word": "contempt",
+     "phonetic": "kənˈtempt",
+     "pos": "n.",
+     "meaning": "轻视，鄙视，不尊重；蔑视",
+     "example": "The officer's tone of voice towards the stowaway was loaded with contempt.",
+     "exampleCn": "警官对偷渡者说话的语气充满了轻蔑。"
+    },
+    {
+     "word": "recognize",
+     "phonetic": "ˈrekəgnaiz",
+     "pos": "vt.",
+     "meaning": "认出；承认，认可｜搭 be recognized as sth. 被认为某物",
+     "example": "Companies should recognize that their employees are a significant part of their financial assets.",
+     "exampleCn": "公司应该认识到雇员是其金融资产的重要组成部分。"
+    },
+    {
+     "word": "badge",
+     "phonetic": "bæʤ",
+     "pos": "n.",
+     "meaning": "徽章；标记；象征",
+     "example": "Are there any marks or badges on your briefcase that make it stand out?",
+     "exampleCn": "你的公文包上是否有什么记号或标记能让它区别于其他公文包？"
+    },
+    {
+     "word": "economic",
+     "phonetic": "ˌi:kəˈnɔmik",
+     "pos": "a.",
+     "meaning": "经济的；经济上的，经济学的｜搭 economic climate 经济形势，经济气候",
+     "example": "They encouraged farmers to use greater quantities of fertilizers than are needed to get the highest economic crop yield.",
+     "exampleCn": "他们鼓励农民使用远远超过作物实际所需量的化肥，以获得最高的经济作物产量。"
+    },
+    {
+     "word": "feeble",
+     "phonetic": "ˈfi:bl",
+     "pos": "a.",
+     "meaning": "虚弱的；无效的",
+     "example": "I felt feeble when I was ill.",
+     "exampleCn": "我生病的时候感到很虚弱。"
+    },
+    {
+     "word": "virtue",
+     "phonetic": "ˈvɜ:ʧu:",
+     "pos": "n.",
+     "meaning": "美德；优点｜搭 by/in virtue of 凭借，依靠",
+     "example": "The virtue of job descriptions is that they lessen role ambiguity.",
+     "exampleCn": "工作描述的优点是能减少角色模糊性。"
+    },
+    {
+     "word": "fibre",
+     "phonetic": "ˈfaibə(r)",
+     "pos": "n.",
+     "meaning": "纤维",
+     "example": "Today fibre optics are used to obtain a clearer image of smaller objects than ever before—even viruses.",
+     "exampleCn": "现在人们利用纤维光学来获取更小物体的画面，其清晰程度前所未有，甚至病毒的图像都很清楚。"
+    },
+    {
+     "word": "suburb",
+     "phonetic": "ˈsʌbɜ:b",
+     "pos": "n.",
+     "meaning": "郊区",
+     "example": "The hotel in Sydney's southern suburbs is the closest to Sydney Airport.",
+     "exampleCn": "位于悉尼南郊的这家酒店是距悉尼机场最近的酒店。"
+    },
+    {
+     "word": "pulverise",
+     "phonetic": "ˈpʌlvəraiz",
+     "pos": "vt.",
+     "meaning": "碾磨成粉，粉碎",
+     "example": "Pulverised rock will climb as a dust cloud into the atmosphere.",
+     "exampleCn": "石粉会像尘雾一样上升到大气中。"
+    },
+    {
+     "word": "fertilise",
+     "phonetic": "ˈfɜ:təlaiz",
+     "pos": "vt.",
+     "meaning": "使肥沃，使多产；施肥于；使受精｜搭 fertilised eggs 受精卵；cross-fertilise 异花受精",
+     "example": "Mature breeding birds are very expensive—even a fertilised ostrich egg isn't cheap.",
+     "exampleCn": "这种鸟的成鸟很贵，甚至一个受精的鸵鸟蛋都不便宜。"
+    },
+    {
+     "word": "ration",
+     "phonetic": "ˈræʃn",
+     "pos": "n./vt.",
+     "meaning": "配给量，定量；给养，口粮 配给，定量供应｜搭 the weekly meat ration 每周的食肉量；be on ration 定量",
+     "example": "Eggs are on ration during the war.",
+     "exampleCn": "战争期间，鸡蛋都实行定量供应。"
+    },
+    {
+     "word": "debt",
+     "phonetic": "det",
+     "pos": "n.",
+     "meaning": "债，债务｜搭 be in debt 欠债，欠情；in debt to sb./in one's debt 欠某人的债",
+     "example": "The freshman misconducted his expenditure so he's deep in debt.",
+     "exampleCn": "这名大一新生没有合理地规划开销，所以债台高筑。"
+    },
+    {
+     "word": "attractive",
+     "phonetic": "əˈtræktiv",
+     "pos": "a.",
+     "meaning": "吸引的，有吸引力的；引起注意的｜搭 an attractive offer 有吸引力的工作；attractive personality 有魅力的个性",
+     "example": "My landlord is a slender attractive woman in her mid- thirties.",
+     "exampleCn": "我的房东35岁，身材苗条，魅力四射。"
+    },
+    {
+     "word": "conquest",
+     "phonetic": "ˈkɔŋkwest",
+     "pos": "n.",
+     "meaning": "征服；战利品｜搭 military conquest 军事征服",
+     "example": "The king completed the conquest of the country.",
+     "exampleCn": "国王彻底征服了那个国家。"
+    },
+    {
+     "word": "sophisticate",
+     "phonetic": "səˈfistikeit",
+     "pos": "n.",
+     "meaning": "久经世故的人；精通者",
+     "example": "Susan isn't the sophisticate that her classmates imagine her to be.",
+     "exampleCn": "苏珊并不像她的同学们想的那样是个久经世故的人。"
+    },
+    {
+     "word": "snap",
+     "phonetic": "snæp",
+     "pos": "v./n./a.",
+     "meaning": "咔嚓折断，啪地绷断；（啪的一声）打开（或关上）；咬；厉声说话，怒声责斥 咔嚓声 突然的，匆忙的｜搭 snap out 厉声说出；snap up 迅速抓住；抢购",
+     "example": "The heavy snow storm snapped tree branches and power lines.",
+     "exampleCn": "暴风雪折断了树枝和电线。"
+    },
+    {
+     "word": "express",
+     "phonetic": "ikˈspres",
+     "pos": "vt./a./n.",
+     "meaning": "表达，表示 特快的，快速的；明确的 快车，快运，快递",
+     "example": "The chart on the wall expresses the economic movements differently from the last year.",
+     "exampleCn": "墙上的这张图表反映了经济趋势与去年的不同。"
+    },
+    {
+     "word": "identifiable",
+     "phonetic": "aiˈdentiˈfaiəbl",
+     "pos": "a.",
+     "meaning": "可辨认的，可识别的；可确定的，可证明是同一的｜搭 identifiable characteristics 可识别的特征",
+     "example": "The bird is easily identifiable by its bright red feathers.",
+     "exampleCn": "这种鸟有鲜红的羽毛，很容易辨认。"
+    },
+    {
+     "word": "nominal",
+     "phonetic": "ˈnɔminl",
+     "pos": "a.",
+     "meaning": "名义上的；（金额、租金等）微不足道的｜搭 nominal head 名义上的领导；nominal assets 名义资产；nominal fee 很少的费用",
+     "example": "The bonus to employees is merely a nominal sum.",
+     "exampleCn": "雇员们只得到了一笔象征性的奖金。"
+    },
+    {
+     "word": "acquire",
+     "phonetic": "əˈkwaiə(r)",
+     "pos": "vt.",
+     "meaning": "取得，获得",
+     "example": "In the process of evolution, monkeys have not acquired the art of speech.",
+     "exampleCn": "在进化的过程中，猴子未能获得语言能力。"
+    },
+    {
+     "word": "graphology",
+     "phonetic": "græˈfɔləʤi",
+     "pos": "n.",
+     "meaning": "笔迹学，笔相学",
+     "example": "Graphology is not a good predictor of future job performance.",
+     "exampleCn": "笔相学并不是预测未来工作成就的好方法。"
+    },
+    {
+     "word": "register",
+     "phonetic": "ˈreʤistə(r)",
+     "pos": "n./v.",
+     "meaning": "注册，登记；登记表 注册，登记｜搭 registered capital 注册资本；register a trademark 注册一个商标；register for 登记参加，报名参加；register with 向…登",
+     "example": "You must remember to bring the ID card with you when you come to register.",
+     "exampleCn": "你来登记的时候一定要记得带上身份证。"
+    },
+    {
+     "word": "extremely",
+     "phonetic": "ikˈstri:mli",
+     "pos": "ad.",
+     "meaning": "极端地；非常地",
+     "example": "Long hours of hot sunshine and searing winds give Australia an extremely high rate of evaporation.",
+     "exampleCn": "长时间的烈日曝晒和炙热的风使澳大利亚的蒸发率极高。"
+    },
+    {
+     "word": "rot",
+     "phonetic": "rɔt",
+     "pos": "n./v.",
+     "meaning": "腐烂 （使）腐烂",
+     "example": "Root rot is a serious problem in such a situation.",
+     "exampleCn": "在这种情况下根部腐烂是一个很严重的问题。"
+    },
+    {
+     "word": "ambulance",
+     "phonetic": "ˈæmbjələns",
+     "pos": "n.",
+     "meaning": "救护车；野战医院",
+     "example": "There is a car accident, please send an ambulance as soon as possible.",
+     "exampleCn": "这里发生了一起车祸，请尽快派救护车来。"
+    },
+    {
+     "word": "miserable",
+     "phonetic": "ˈmizrəbl",
+     "pos": "a.",
+     "meaning": "悲惨的，痛苦的；令人难受的｜搭 as miserable as sin 非常悲惨；a miserable failure 可悲的失败",
+     "example": "Many female patients have completely given up exercise because the pain makes them so miserable.",
+     "exampleCn": "很多女病人已经完全放弃了锻炼，因为疼痛让她们极其痛苦。"
+    },
+    {
+     "word": "continuous",
+     "phonetic": "kənˈtinjuəs",
+     "pos": "a.",
+     "meaning": "连续的，不断的｜搭 continuous flow 持续气流；continuous performance cinema循环场电影院",
+     "example": "There's a continuous video showing today about the voyages of Captain Cook.",
+     "exampleCn": "今日将连续放映有关库克船长航海的录像。"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "title": "Word List 14",
+   "words": [
+    {
+     "word": "divide",
+     "phonetic": "diˈvaid",
+     "pos": "v./n.",
+     "meaning": "分开，分隔；分配，分享；除（以） 分歧，差异；分界线，分水岭｜搭 divide into 分成；divide sth. from sth. 把某物和某物分开",
+     "example": "All the students will be divided into groups of 12 to 15 students.",
+     "exampleCn": "所有的学生将被分组，每组12到15人。// I divided the candies in even proportions among the children. 我把糖果平均分给了孩子们。"
+    },
+    {
+     "word": "gross",
+     "phonetic": "grəus",
+     "pos": "a.",
+     "meaning": "总的，毛的｜搭 Gross Domestic Product (GDP) 国内生产总值；Gross National Product (GNP) 国民生产总值",
+     "example": "Agriculture and its supporting industries account for around 20% of our Gross National Product.",
+     "exampleCn": "农业及其辅助产业占我国国民生产总值的20％左右。"
+    },
+    {
+     "word": "cloakroom",
+     "phonetic": "ˈkləukru:m",
+     "pos": "n.",
+     "meaning": "衣帽间；〈英〉洗手间",
+     "example": "The cloakroom where you can hang your coat or leave your bags is just behind us here.",
+     "exampleCn": "衣帽间就在我们后面，你可以在那儿挂大衣或放包。"
+    },
+    {
+     "word": "short-term",
+     "phonetic": "ˈʃɔ:ttɜ:m",
+     "pos": "a.",
+     "meaning": "短期的",
+     "example": "Such short-term increases in production are obtained only at a substantial and serious cost to the organisation.",
+     "exampleCn": "产量的这种短期增长只能以公司的巨额成本为代价。"
+    },
+    {
+     "word": "refusal",
+     "phonetic": "riˈfju:zl",
+     "pos": "n.",
+     "meaning": "拒绝",
+     "example": "The journalists received outright refusal of the foreign spokesman.",
+     "exampleCn": "记者们遭到了外交发言人的断然拒绝。"
+    },
+    {
+     "word": "coupon",
+     "phonetic": "ˈku:pɔn",
+     "pos": "n.",
+     "meaning": "优惠券；票证；配给券；参赛表，订货单",
+     "example": "Please fill out the attached coupon.",
+     "exampleCn": "请把附上的参赛表填写好。"
+    },
+    {
+     "word": "tome",
+     "phonetic": "təum",
+     "pos": "n.",
+     "meaning": "册，大部头书；（有学术价值的）巨著",
+     "example": "They love to pore over weighty tomes.",
+     "exampleCn": "他们喜欢钻研巨著。"
+    },
+    {
+     "word": "toxin",
+     "phonetic": "ˈtɔksin",
+     "pos": "n.",
+     "meaning": "毒素，毒质",
+     "example": "Intake of nicotine encourages activity of other toxins in the blood.",
+     "exampleCn": "吸入的尼古丁会激活血液中的其他毒素。"
+    },
+    {
+     "word": "simultaneously",
+     "phonetic": "ˌsimlˈteiniəsli",
+     "pos": "ad.",
+     "meaning": "同时地",
+     "example": "Where the mining is underground, the surface area can be simultaneously used for forests, cattle grazing and crop raising.",
+     "exampleCn": "在地下采矿的同时，其表层的土地可以用来造林、放牧和种庄稼。"
+    },
+    {
+     "word": "ridiculous",
+     "phonetic": "riˈdikjələs",
+     "pos": "a.",
+     "meaning": "荒谬的；可笑的",
+     "example": "The fat old man looked ridiculous in his tight pink trousers.",
+     "exampleCn": "那个胖老头穿着粉色的紧身裤，显得滑稽可笑。"
+    },
+    {
+     "word": "chip",
+     "phonetic": "ʧip",
+     "pos": "n./v.",
+     "meaning": "碎片；芯片；瑕疵 削（或凿）下（屑片或碎片）",
+     "example": "Electronic chips recorded the presence of a vehicle in a given high traffic area at a given time.",
+     "exampleCn": "电子芯片记录了特定时间内，车辆在某一繁忙路段的通行情况。"
+    },
+    {
+     "word": "polish",
+     "phonetic": "ˈpɔliʃ",
+     "pos": "v./n.",
+     "meaning": "磨光，擦亮；使优美，润饰 擦光剂，上光蜡｜搭 polish one's English 补习英语；polish furniture 抛光家具",
+     "example": "After the axe had been chipped into shape, the workers needed water and sand for grinding and polishing.",
+     "exampleCn": "在斧子被削成形之后，工人们需要用水和沙子来打磨和抛光。// The stone should be cut and polished. 这块石头应该被切开并打磨。"
+    },
+    {
+     "word": "wonder",
+     "phonetic": "ˈwʌndə(r)",
+     "pos": "v./n.",
+     "meaning": "诧异，奇怪；纳闷，想知道 惊奇，惊异；奇迹，奇事｜搭 no wonder 难怪，怪不得",
+     "example": "Excuse me, I'm wondering if you'd mind answering a few questions?",
+     "exampleCn": "打扰了，我想知道你是否介意回答几个问题？"
+    },
+    {
+     "word": "scholarship",
+     "phonetic": "ˈskɔləʃip",
+     "pos": "n.",
+     "meaning": "奖学金；学问，学识",
+     "example": "Susan won a scholarship to study at Harvard.",
+     "exampleCn": "苏珊获得了在哈佛大学学习的奖学金。"
+    },
+    {
+     "word": "familiarise",
+     "phonetic": "fəˈmiliəraiz",
+     "pos": "vt.",
+     "meaning": "使熟悉，使通晓；使家喻户晓｜搭 familiarise yourself with sth. 使自己熟悉某事物",
+     "example": "Read the flow chart to familiarise yourself with the task.",
+     "exampleCn": "阅读流程图以使你熟悉自己的任务。"
+    },
+    {
+     "word": "expectancy",
+     "phonetic": "ikˈspektənsi",
+     "pos": "n.",
+     "meaning": "期待，期望；预期数额（如寿命等）｜搭 life expectancy 平均寿命",
+     "example": "Smoking will cause a shortened life expectancy.",
+     "exampleCn": "吸烟会导致寿命缩短。"
+    },
+    {
+     "word": "shilling",
+     "phonetic": "ˈʃiliŋ",
+     "pos": "n.",
+     "meaning": "先令",
+     "example": "Those matches cost a shilling a box.",
+     "exampleCn": "那些火柴一先令一盒。"
+    },
+    {
+     "word": "blueprint",
+     "phonetic": "ˈblu:print",
+     "pos": "n.",
+     "meaning": "蓝图；方案",
+     "example": "The plans for improving the financial system have only reached the blueprint stage so far.",
+     "exampleCn": "改善金融体系的计划目前尚处于筹划阶段。"
+    },
+    {
+     "word": "interplay",
+     "phonetic": "ˈintəplei",
+     "pos": "vi./n.",
+     "meaning": "相互作用，相互影响",
+     "example": "Social factors have interplayed with one another over the past hundred years and made the Middle East what it is today.",
+     "exampleCn": "在过去的一百年间，诸多社会因素相互影响，造成了今天的中东局势。"
+    },
+    {
+     "word": "convenient",
+     "phonetic": "kənˈvi:niənt",
+     "pos": "a.",
+     "meaning": "方便的，便利的；适宜的｜搭 be convenient for... 对…来说方便；be convenient to do方便做…",
+     "example": "Cars easily surpass trains or buses as a flexible and convenient mode of personal transport.",
+     "exampleCn": "小汽车轻而易举地就超过火车及公共汽车，成为一种灵活便捷的个人交通工具。"
+    },
+    {
+     "word": "genuine",
+     "phonetic": "ˈʤenjuin",
+     "pos": "a.",
+     "meaning": "真正的；真实的",
+     "example": "Sixteen American states now use biometric fingerprint verification systems to check that people claiming welfare payments are genuine.",
+     "exampleCn": "现在美国的16个州利用生物指纹识别系统来确保要求领取福利金的人们的信息真实无误。"
+    },
+    {
+     "word": "attentive",
+     "phonetic": "əˈtentiv",
+     "pos": "a.",
+     "meaning": "注意的，专心的；关心的，体贴的；留意的",
+     "example": "Kate is attentive to her work.",
+     "exampleCn": "凯特工作很专心。"
+    },
+    {
+     "word": "observation",
+     "phonetic": "ˌɔbzəˈveiʃn",
+     "pos": "n.",
+     "meaning": "观察，观测；监视；评述，评论",
+     "example": "Can we mail out a questionnaire, or do face-to-face interviews, or maybe even observation?",
+     "exampleCn": "我们是邮寄调查表，还是面对面采访，亦或是进行观察？"
+    },
+    {
+     "word": "personal",
+     "phonetic": "ˈpɜ:sənl",
+     "pos": "a.",
+     "meaning": "个人的，私人的；亲自的，本人的；身体的，人身的｜搭 personal loan 个人贷款；personal item 个人物品；personal information 个人信息",
+     "example": "The woman who lost her briefcase gave the policeman some personal details.",
+     "exampleCn": "丢失公文包的那个妇女向警察提供了一些个人信息。"
+    },
+    {
+     "word": "vitality",
+     "phonetic": "vaiˈtæləti",
+     "pos": "n.",
+     "meaning": "生命力，活力｜搭 be full of vitality 充满活力；exceptional vitality 精力旺盛",
+     "example": "When you see the Asiatic lion in India, what you sense is enormous vitality.",
+     "exampleCn": "当你在印度看到亚洲狮时，你能感觉到的就是它们旺盛的生命力。"
+    },
+    {
+     "word": "requirement",
+     "phonetic": "riˈkwaiəmənt",
+     "pos": "n.",
+     "meaning": "需要，需求，要求；需要的东西；必要条件",
+     "example": "The Director of Studies will talk to you about the courses and different requirements for each.",
+     "exampleCn": "教务主管将和你谈论课程问题以及每门课程的不同要求。"
+    },
+    {
+     "word": "advisable",
+     "phonetic": "ədˈvaizəbl",
+     "pos": "n.",
+     "meaning": "可取的，适当的；明智的",
+     "example": "A: Do I have to book the seat in advance? B: Oh, yes, it's advisable. A",
+     "exampleCn": "：我必须提前预订座位吗？B：哦，是的，这样更好。"
+    },
+    {
+     "word": "bankrupt",
+     "phonetic": "ˈbæŋkrʌpt",
+     "pos": "a.",
+     "meaning": "破产的",
+     "example": "The theatre went bankrupt with over ten billion dollars of debt last January.",
+     "exampleCn": "去年一月份，那家剧院因负债超过一百亿美元而破产。"
+    },
+    {
+     "word": "deplete",
+     "phonetic": "diˈpli:t",
+     "pos": "vt.",
+     "meaning": "倒空；（使）枯竭；消耗",
+     "example": "When local resources became depleted, the tribe moved on.",
+     "exampleCn": "当地资源濒临枯竭时，部落会迁往他处。"
+    },
+    {
+     "word": "influence",
+     "phonetic": "ˈinfluəns",
+     "pos": "vt./n.",
+     "meaning": "影响 影响力；产生影响力的人",
+     "example": "What factors do you think influence these decisions?",
+     "exampleCn": "你认为影响这些决定的因素有哪些？"
+    },
+    {
+     "word": "fantasy",
+     "phonetic": "ˈfæntəsi",
+     "pos": "n.",
+     "meaning": "想象",
+     "example": "Those pleasures were produced through daydreaming and fantasy.",
+     "exampleCn": "那些快乐是通过白日梦和想象产生的。"
+    },
+    {
+     "word": "tragic",
+     "phonetic": "ˈtræʤik",
+     "pos": "a.",
+     "meaning": "悲惨的；悲剧（性）的",
+     "example": "His trip to America is a tragic story.",
+     "exampleCn": "他的美国之行就是个悲剧。"
+    },
+    {
+     "word": "splint",
+     "phonetic": "splint",
+     "pos": "n./vt.",
+     "meaning": "细木梗；【医】（用于固定受伤肢体的）夹板 用夹板夹",
+     "example": "These kinds of matches were splints coated with sulphur and tipped with potassium chlorate.",
+     "exampleCn": "这种火柴是由涂上了硫磺、头部黏有氯酸钾的细木梗制成的。"
+    },
+    {
+     "word": "foam",
+     "phonetic": "fəum",
+     "pos": "n./vi.",
+     "meaning": "泡沫；泡沫材料 起泡沫",
+     "example": "The orange juice in its foam overflew.",
+     "exampleCn": "橙汁冒着泡，溢了出来。"
+    },
+    {
+     "word": "occupation",
+     "phonetic": "ˌɔkjuˈpeiʃn",
+     "pos": "n.",
+     "meaning": "占领；职业；消遣｜搭 a regular occupation 固定职业",
+     "example": "Please state your name, age and occupation on the form.",
+     "exampleCn": "请在表格里填写姓名、年龄和职业。"
+    },
+    {
+     "word": "format",
+     "phonetic": "ˈfɔ:mæt",
+     "pos": "vt./n.",
+     "meaning": "使格式化 安排，计划；版式；格式",
+     "example": "You can use a computer to format your disc.",
+     "exampleCn": "你可以用计算机将磁盘格式化。"
+    },
+    {
+     "word": "bachelor",
+     "phonetic": "ˈbæʧələ(r)",
+     "pos": "n.",
+     "meaning": "学士；单身汉｜搭 bachelor's degree 学士学位；Bachelor of Arts 文学士；Bachelor of Science 理学士",
+     "example": "Tom is working towards a Bachelor of Social Science degree in the university of Cambridge.",
+     "exampleCn": "汤姆正在剑桥大学攻读社会学的学士学位。"
+    },
+    {
+     "word": "typhoon",
+     "phonetic": "taiˈfu:n",
+     "pos": "n.",
+     "meaning": "台风",
+     "example": "The brunt of a typhoon will be deflected by the neighbouring islands.",
+     "exampleCn": "来袭的台风会因为邻近的岛屿而偏离方向。"
+    },
+    {
+     "word": "appointment",
+     "phonetic": "əˈpɔintmənt",
+     "pos": "n.",
+     "meaning": "约会｜搭 make an appointment 约会",
+     "example": "if for some reason you cannot keep your appointment, please telephone.",
+     "exampleCn": "如果由于某种原因不能赴约，请您电话告知。"
+    },
+    {
+     "word": "slope",
+     "phonetic": "sləup",
+     "pos": "n./vi.",
+     "meaning": "斜坡；倾斜 倾斜",
+     "example": "Steps were taken to evacuate the population. Most campers, hikers and timbercutters left the slopes of the mountain.",
+     "exampleCn": "已经采取措施疏散人群。大多数露营者、徒步旅行者和伐木工人都离开了山坡。// This tower slopes to the north. 这座塔向北倾斜。"
+    },
+    {
+     "word": "complex",
+     "phonetic": "ˈkɔmpleks",
+     "pos": "n./a.",
+     "meaning": "综合体，集合体；建筑群；情结 合成的，综合的；复杂的，难懂的｜搭 inferiority complex 自卑感，自卑情结",
+     "example": "The new sports complex has everything needed for many different activities.",
+     "exampleCn": "新建的综合体育馆能为多种活动提供所需的一切设施。"
+    },
+    {
+     "word": "overhead",
+     "phonetic": "ˈəuvəhed",
+     "pos": "a./n./ad.",
+     "meaning": "在头顶上的；高架的 天花板；企业管理费用[ˌəuvəˈhed] 在空中，在头顶上，在高处｜搭 overhead projector 高射投影仪",
+     "example": "The overhead cable will be harmful to the transport security.",
+     "exampleCn": "高架电缆会危及交通安全。"
+    },
+    {
+     "word": "population",
+     "phonetic": "ˌpɔpjuˈleiʃn",
+     "pos": "n.",
+     "meaning": "人口｜搭 population explosion 人口爆炸；population control 人口控制",
+     "example": "There is still a large portion of the world population living in poverty.",
+     "exampleCn": "世界上还有一大部分人生活在贫困之中。// By the year 2021, the world population will increase by 24%. 到2021年，世界人口将增加24％。"
+    },
+    {
+     "word": "prey",
+     "phonetic": "prei",
+     "pos": "n./vi.",
+     "meaning": "猎物，捕获物；牺牲品，战利品 捕食；折磨，使烦恼；掠夺｜搭 prey on insects 捕食昆虫为生",
+     "example": "Most animals hunt their prey by means of their eyesight.",
+     "exampleCn": "大多数动物靠视力进行捕猎。"
+    },
+    {
+     "word": "catalogue",
+     "phonetic": "ˈkætəlɔg",
+     "pos": "n./vt.",
+     "meaning": "目录；系列 编目录；记载",
+     "example": "It is a new catalogue of the language books in the library.",
+     "exampleCn": "这是图书馆语言类图书的新目录。"
+    },
+    {
+     "word": "prerequisite",
+     "phonetic": "ˌpri:ˈrekwəzit",
+     "pos": "n./a.",
+     "meaning": "先决条件，前提；必备条件 必备的",
+     "example": "A degree is an essential prerequisite for employment.",
+     "exampleCn": "学位是就业必备的条件。"
+    },
+    {
+     "word": "assessment",
+     "phonetic": "əˈsesmənt",
+     "pos": "n.",
+     "meaning": "判定，评定；核定的付款额；看法，评价｜搭 research assessment 研究评估；assessment methods 评估方法",
+     "example": "The teacher made a careful assessment of the exam.",
+     "exampleCn": "老师对本次考试作了细致的评估。"
+    },
+    {
+     "word": "suggest",
+     "phonetic": "səˈʤest",
+     "pos": "v.",
+     "meaning": "建议，提出；暗示",
+     "example": "The research suggests that women avoid dealing effectively with their economic situation because of a lack of confidence.",
+     "exampleCn": "研究表明女性由于缺乏信心而不能有效地处理自己的经济状况。"
+    },
+    {
+     "word": "volt",
+     "phonetic": "vəult",
+     "pos": "n.",
+     "meaning": "伏特",
+     "example": "He removed a medium sized, 20 volt battery from the machine.",
+     "exampleCn": "他从机器中拿掉了一节20伏特的中号电池。"
+    },
+    {
+     "word": "weed",
+     "phonetic": "wi:d",
+     "pos": "n.",
+     "meaning": "杂草",
+     "example": "Bugs and weeds become resistant to poisons, so next year's poisons must be more lethal.",
+     "exampleCn": "害虫和杂草会产生抗药性，所以来年的农药必须更加致命。"
+    },
+    {
+     "word": "screw",
+     "phonetic": "skru:",
+     "pos": "v./n.",
+     "meaning": "用螺钉固定 螺丝（钉）",
+     "example": "He screwed the painting onto the wall.",
+     "exampleCn": "他用螺丝钉把画固定在墙上。"
+    },
+    {
+     "word": "enlighten",
+     "phonetic": "inˈlaitn",
+     "pos": "vt.",
+     "meaning": "启发；开导；阐明",
+     "example": "Would you enlighten me on your plans for the future?",
+     "exampleCn": "能否给我讲讲你未来的计划？"
+    },
+    {
+     "word": "textile",
+     "phonetic": "ˈtekstail",
+     "pos": "n.",
+     "meaning": "纺织品",
+     "example": "From the seventeenth century, the company began to export textiles to North America.",
+     "exampleCn": "从17世纪起，这家公司就开始向北美出口纺织品。"
+    },
+    {
+     "word": "hesitate",
+     "phonetic": "ˈheziteit",
+     "pos": "vi.",
+     "meaning": "犹豫；不情愿",
+     "example": "Mary hesitated before she answered this question because she didn't know what to say.",
+     "exampleCn": "玛丽在回答这个问题前犹豫了一下，因为她不知道要说什么。"
+    },
+    {
+     "word": "tutor",
+     "phonetic": "ˈtju:tə(r)",
+     "pos": "v./n.",
+     "meaning": "（给…）当家庭教师 导师；家庭教师",
+     "example": "Jane tutored this little girl in English.",
+     "exampleCn": "简给这个小女孩当英文家教。"
+    },
+    {
+     "word": "topsoil",
+     "phonetic": "ˈtɔpsɔil",
+     "pos": "n.",
+     "meaning": "表层土",
+     "example": "The United States discovered in 1982 that about one- fifth of its farmland was losing topsoil.",
+     "exampleCn": "美国于1982年发现其约有五分之一的耕地存在极为严重的表层土流失现象。"
+    },
+    {
+     "word": "background",
+     "phonetic": "ˈbækgraund",
+     "pos": "n.",
+     "meaning": "背景；经历；后台；不重要或不引人注目的地方｜搭 educational/cultural/family background 教育／文化／家庭背景；theoretical background 理论背景；background music 背景音乐",
+     "example": "The job requires applicants with a business background.",
+     "exampleCn": "这份工作要求求职者有商业背景。"
+    },
+    {
+     "word": "impossible",
+     "phonetic": "imˈpɔsəbl",
+     "pos": "a.",
+     "meaning": "不可能的，办不到的",
+     "example": "This kind of research would be impossible without computers.",
+     "exampleCn": "没有计算机就无法进行这种研究。"
+    },
+    {
+     "word": "surgeon",
+     "phonetic": "ˈsɜ:ʤən",
+     "pos": "n.",
+     "meaning": "外科医生｜搭 a dental surgeon 牙医",
+     "example": "The surgeon sewed up the wound.",
+     "exampleCn": "外科医生缝合了伤口。"
+    },
+    {
+     "word": "promise",
+     "phonetic": "ˈprɔmis",
+     "pos": "n./v.",
+     "meaning": "允诺，保证；预兆，预示",
+     "example": "The dark clouds promise rain.",
+     "exampleCn": "乌云密布预示有雨。"
+    },
+    {
+     "word": "battery",
+     "phonetic": "ˈbætəri",
+     "pos": "n.",
+     "meaning": "电池（组），蓄电池（组）",
+     "example": "When your car's battery run low, you can go to the nearest battery maintenance point for a replacement.",
+     "exampleCn": "当你的汽车电池电量不足时，你可以到最近的电池给养站换电池。"
+    },
+    {
+     "word": "thunder",
+     "phonetic": "ˈθʌndə(r)",
+     "pos": "n./v.",
+     "meaning": "雷；雷声 打雷；轰隆响",
+     "example": "Thunder accompanies lightning.",
+     "exampleCn": "雷电交加。"
+    },
+    {
+     "word": "delicate",
+     "phonetic": "ˈdelikət",
+     "pos": "a.",
+     "meaning": "纤细的；精巧的；微妙的",
+     "example": "Cowhide can be treated to produce about half a square metre of very delicate leather.",
+     "exampleCn": "牛皮可以被加工成面积约为0.5平方米且极其精致的皮革。"
+    },
+    {
+     "word": "account",
+     "phonetic": "əˈkaunt",
+     "pos": "v./n.",
+     "meaning": "说明，解释；（在数量、比例方面）占；导致 账，账户；叙述，说明｜搭 take...into account 考虑…；account for 解释，说明（原因等）；（数量等）占；on account of 因为，由于；give sb. an account of 给某人说明或解释（理由）；not on any account 绝对不",
+     "example": "Coal is expected to account for almost 27 percent of the world's energy needs.",
+     "exampleCn": "预计对煤炭的需求将几乎占世界能源需求的27％。"
+    },
+    {
+     "word": "booklet",
+     "phonetic": "ˈbuklət",
+     "pos": "n.",
+     "meaning": "小册子",
+     "example": "If you look on the back of the booklet, you'll see a map of the school.",
+     "exampleCn": "看一下这本小册子的背面，你就会看到这所学校的地图。"
+    },
+    {
+     "word": "layout",
+     "phonetic": "ˈleiaut",
+     "pos": "n.",
+     "meaning": "布局，安排，设计｜搭 layout of an office 办公室布局；layout of a CV 简历的版面设计；product layout of a supermarket 超市的货品摆放",
+     "example": "The noise factor will have to be taken into consideration with the layout of the houses.",
+     "exampleCn": "噪音因素必须被纳入房屋设计的考虑范围之内。"
+    },
+    {
+     "word": "venture",
+     "phonetic": "ˈvenʧə(r)",
+     "pos": "v./n.",
+     "meaning": "敢于去；拿…冒险，冒…的险 风险投资，（商业等的）风险项目｜搭 venture into the unknown 闯入未知的领域；venture into/on sth. 冒险做…",
+     "example": "Allan, a doctoral student in anthropology, ventured deep into the jungle to search for the primitive natives.",
+     "exampleCn": "艾伦是一名人类学博士生，他冒险深入丛林腹地寻找原始土著。"
+    },
+    {
+     "word": "shrink",
+     "phonetic": "ʃriŋk",
+     "pos": "v.",
+     "meaning": "（使）收缩；萎缩",
+     "example": "Employees found their time on the job shrinking to 10 hours daily.",
+     "exampleCn": "雇员们发现他们的工作时间已经减少到每天十小时。"
+    },
+    {
+     "word": "gland",
+     "phonetic": "glænd",
+     "pos": "n.",
+     "meaning": "腺",
+     "example": "This type of hormone is only produced in the pineal gland in the brain.",
+     "exampleCn": "只有脑部的松果腺才分泌这类荷尔蒙。"
+    },
+    {
+     "word": "curriculum",
+     "phonetic": "kəˈrikjələm",
+     "pos": "n.",
+     "meaning": "课程，（学校等的）全部课程",
+     "example": "The teacher expects that the curriculum will successfully attract students.",
+     "exampleCn": "老师希望这种课程安排能成功地吸引学生。"
+    },
+    {
+     "word": "shortage",
+     "phonetic": "ˈʃɔ:tiʤ",
+     "pos": "n.",
+     "meaning": "不足，缺少｜搭 financial shortage 缺钱；shortage of spare time 缺少空闲时间",
+     "example": "The development project was greeted because of Holland's chronic shortage of land.",
+     "exampleCn": "由于荷兰土地长期短缺，这一开发项目在荷兰大受欢迎。"
+    },
+    {
+     "word": "accreditation",
+     "phonetic": "əˌkrediˈteiʃn",
+     "pos": "n.",
+     "meaning": "证明合格，鉴定合格",
+     "example": "Our school has already reached the standards for the accreditation of colleges.",
+     "exampleCn": "我们学校已经达到了学院资格认定的标准。"
+    },
+    {
+     "word": "clerk",
+     "phonetic": "klɑ:k",
+     "pos": "n.",
+     "meaning": "办事员；职员",
+     "example": "The clerks aren't allowed to accept any collect long- distance calls.",
+     "exampleCn": "职员不允许接听由接听方付费的长途电话。"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "title": "Word List 15",
+   "words": [
+    {
+     "word": "attach",
+     "phonetic": "əˈtæʧ",
+     "pos": "v.",
+     "meaning": "系，贴；认为有重要性（或意义、价值等）；使附属，附加｜搭 attach to 使依恋；把…贴在，附加",
+     "example": "They attached the coupon to the front of the letter.",
+     "exampleCn": "他们把优惠券附在信的正面。"
+    },
+    {
+     "word": "flip",
+     "phonetic": "flip",
+     "pos": "v.",
+     "meaning": "轻抛；轻弹",
+     "example": "A switch was flipped and the machine began to operate.",
+     "exampleCn": "轻弹开关，机器便开始运作。"
+    },
+    {
+     "word": "comment",
+     "phonetic": "ˈkɔment",
+     "pos": "n./v.",
+     "meaning": "注释，评论，意见 注释，评论｜搭 comment on/about... 评论…",
+     "example": "Customer's comments, both positive and negative, are recorded by staff and are collated regularly to identify opportunities for improvement of products.",
+     "exampleCn": "员工记录来自顾客的正"
+    },
+    {
+     "word": "emphasize",
+     "phonetic": "ˈemfəsaiz",
+     "pos": "vt.",
+     "meaning": "强调，着重",
+     "example": "This report emphasizes that cancer is not caused by a single element in cigarette smoke.",
+     "exampleCn": "这一报告强调，癌症并不是由香烟烟雾中的某单一成分导致的。"
+    },
+    {
+     "word": "flame",
+     "phonetic": "fleim",
+     "pos": "n./v.",
+     "meaning": "火焰；强烈的感情 发火焰，燃烧",
+     "example": "The house was in flames.",
+     "exampleCn": "房子失火了。// After hearing the news, her cheeks flamed with rage. 听到消息后，她愤怒得两颊通红。"
+    },
+    {
+     "word": "foresee",
+     "phonetic": "fɔ:ˈsi:",
+     "pos": "vt.",
+     "meaning": "预见，预知",
+     "example": "What changes do you foresee in the educational field in the next 50 years?",
+     "exampleCn": "在未来的50年里，你认为教育界会发生什么变化？"
+    },
+    {
+     "word": "historic",
+     "phonetic": "hiˈstɔrik",
+     "pos": "a.",
+     "meaning": "有历史意义的；历史的，历史性的｜搭 historic moment 历史性的时刻",
+     "example": "There are a number of historic ships docked in the habour.",
+     "exampleCn": "这个港湾停泊了很多具有历史意义的船舶。"
+    },
+    {
+     "word": "provision",
+     "phonetic": "prəˈviʒn",
+     "pos": "n.",
+     "meaning": "供应，（一批）供应品；准备，预备；条款，规定；给养，口粮｜搭 make provision 做好准备，预先采取措施；under the provision of sth. 依据…条款",
+     "example": "The country has enough provisions of grain for the future several years.",
+     "exampleCn": "这个国家为未来几年备有足够的粮食储备。"
+    },
+    {
+     "word": "president",
+     "phonetic": "ˈprezidənt",
+     "pos": "n.",
+     "meaning": "总统，校长，会长，（大会）主席",
+     "example": "A lecture will be given by the president of the Union.",
+     "exampleCn": "该协会主席将发表演讲。"
+    },
+    {
+     "word": "internist",
+     "phonetic": "inˈtɜ:nist",
+     "pos": "n.",
+     "meaning": "内科医师",
+     "example": "The professor who teaches us is a respected internist.",
+     "exampleCn": "教我们的那个教授是一位受人尊敬的内科医师。"
+    },
+    {
+     "word": "reception",
+     "phonetic": "riˈsepʃn",
+     "pos": "n.",
+     "meaning": "接收，接受；接待，招待会；接收效果｜搭 reception center/desk 接待处",
+     "example": "The students' dormitory is to the right of the reception desk.",
+     "exampleCn": "学生宿舍在接待处的右边。"
+    },
+    {
+     "word": "suspend",
+     "phonetic": "səˈspend",
+     "pos": "vt.",
+     "meaning": "吊，悬挂；推迟；暂停，中止｜搭 suspend a driving license 吊销驾照；suspend payment 暂停付款",
+     "example": "The party representative suspended the talk with the government.",
+     "exampleCn": "该党代表暂停了和政府的对话。"
+    },
+    {
+     "word": "explorer",
+     "phonetic": "ikˈsplɔ:rə(r)",
+     "pos": "n.",
+     "meaning": "勘探者，探险者",
+     "example": "Underground reservoirs were rare sources of permanent water and were vital to early explorers of inland Australia.",
+     "exampleCn": "地下含水层是罕见的长期水源，对早期进入澳大利亚腹地的探险者至关重要。"
+    },
+    {
+     "word": "untrustworthy",
+     "phonetic": "ʌnˈtrʌstwə:ði",
+     "pos": "a.",
+     "meaning": "不值得信任的，靠不住的",
+     "example": "They think left-handed people are untrustworthy.",
+     "exampleCn": "他们认为惯用左手的人不可靠。"
+    },
+    {
+     "word": "prospective",
+     "phonetic": "prəˈspektiv",
+     "pos": "a.",
+     "meaning": "预期的；未来的；可能的｜搭 prospective damage 预计损失",
+     "example": "Department heads composed prospective teams using a combination of people from all three categories.",
+     "exampleCn": "部门领导从现有所有三组人中选出一些人组成未来的团队。"
+    },
+    {
+     "word": "percentage",
+     "phonetic": "pəˈsentiʤ",
+     "pos": "n.",
+     "meaning": "百分比，百分率",
+     "example": "What percentage of the workforce was employed in agriculture in this country in the mid 1900s?",
+     "exampleCn": "在20世纪中期，这个国家从事农业的劳动力在总劳动力中占多大比例？"
+    },
+    {
+     "word": "clue",
+     "phonetic": "klu:",
+     "pos": "n.",
+     "meaning": "线索；提示",
+     "example": "If you do not know a word, you can look to the picture in this book for a clue to its meaning.",
+     "exampleCn": "如果你碰到不认识的单词，可以通过书中的插图来推测它的意思。"
+    },
+    {
+     "word": "stammer",
+     "phonetic": "ˈstæmə(r)",
+     "pos": "n./v.",
+     "meaning": "结巴，口吃 口吃",
+     "example": "Left-handed children, forced to use their right hand, often develop a stammer.",
+     "exampleCn": "本来惯用左手的小孩在被迫改用右手后，通常会患口吃。"
+    },
+    {
+     "word": "hawk",
+     "phonetic": "hɔ:k",
+     "pos": "n.",
+     "meaning": "鹰，隼",
+     "example": "The hawk swooped on its prey.",
+     "exampleCn": "老鹰向猎物猛扑过去。"
+    },
+    {
+     "word": "swamp",
+     "phonetic": "swɔmp",
+     "pos": "vt./n.",
+     "meaning": "淹没；使应接不暇 沼泽",
+     "example": "The tsunami swamped the port city.",
+     "exampleCn": "海啸吞没了这座港口城市。"
+    },
+    {
+     "word": "jealous",
+     "phonetic": "ˈʤeləs",
+     "pos": "a.",
+     "meaning": "嫉妒的；猜疑的",
+     "example": "Tom is jealous of anyone who talks to his girlfriend.",
+     "exampleCn": "汤姆对每个和她女友说话的人都心存猜疑。"
+    },
+    {
+     "word": "favour",
+     "phonetic": "ˈfeivə(r)",
+     "pos": "n./vt.",
+     "meaning": "帮忙；偏爱；赞同；恩惠 赞同；较喜欢，偏袒；有利于",
+     "example": "Darkness favoured their escape.",
+     "exampleCn": "黑暗有利于他们逃跑。// I favour a state income tax over a raise in the sales tax. 我赞成用收取所得税来代替提高营业税。"
+    },
+    {
+     "word": "fickle",
+     "phonetic": "ˈfikl",
+     "pos": "a.",
+     "meaning": "易变的，无常的",
+     "example": "I knew that he was a fickle man, and one you could never rely on.",
+     "exampleCn": "我知道他是个反复无常的人，你绝不能依赖他。"
+    },
+    {
+     "word": "uphill",
+     "phonetic": "ˌʌpˈhil",
+     "pos": "ad.",
+     "meaning": "向上，往上；上坡；艰难地",
+     "example": "We cycled uphill for over an hour.",
+     "exampleCn": "我们骑自行车爬了一个多小时的山坡。"
+    },
+    {
+     "word": "succeed",
+     "phonetic": "səkˈsi:d",
+     "pos": "v.",
+     "meaning": "成功；接着发生｜搭 succeed in (doing) sth. 在…中取得成功",
+     "example": "One Winter Olympics has succeeded another every four years since 1924, with a break only for the Second World War.",
+     "exampleCn": "从1924年开始冬奥会每四年举办一次，只在二战期间中断过一次。"
+    },
+    {
+     "word": "gender",
+     "phonetic": "ˈʤendə(r)",
+     "pos": "n.",
+     "meaning": "性别；（语法中的）性｜搭 gender equality 男女平等",
+     "example": "The gender gap is being attenuated in modern society.",
+     "exampleCn": "在现代社会里，性别差距正在弱化。"
+    },
+    {
+     "word": "consecutive",
+     "phonetic": "kənˈsekjətiv",
+     "pos": "a.",
+     "meaning": "连续不断的，连贯的｜搭 consecutive days 连续几天；consecutive years 连年",
+     "example": "You should give a clear and consecutive narrative for your report.",
+     "exampleCn": "你应该就你的报告给出一个清晰、连贯的陈述。"
+    },
+    {
+     "word": "diversion",
+     "phonetic": "daiˈvɜ:ʃn",
+     "pos": "n.",
+     "meaning": "转向，转移，转换；转移视线的事物；娱乐｜搭 create a diversion 转移注意力",
+     "example": "Most water diversion projects are harmful to the fish population.",
+     "exampleCn": "大多数的水系改道工程都会危及鱼群。"
+    },
+    {
+     "word": "donate",
+     "phonetic": "dəuˈneit",
+     "pos": "vt.",
+     "meaning": "捐赠，赠送｜搭 donate money and materials 捐赠钱和物资",
+     "example": "I should also like to say if you do have a bike to donate, it doesn't matter what condition it is in.",
+     "exampleCn": "我还想说如果你有自行车可以捐赠，那么不管它是什么状况都没关系。"
+    },
+    {
+     "word": "defence",
+     "phonetic": "diˈfens",
+     "pos": "n.",
+     "meaning": "防御，保护；辩护；答辩；[pl.]防务工事｜搭 natural defence mechanisms 先天性防御机制；defence against 防御…",
+     "example": "The defence of the country must be reinforced.",
+     "exampleCn": "该国的防务工事必须加强。"
+    },
+    {
+     "word": "volume",
+     "phonetic": "ˈvɔlju:m",
+     "pos": "n.",
+     "meaning": "卷，册；体积；音量",
+     "example": "This liquid was 10 litres in volume.",
+     "exampleCn": "这一液体的体积为十升。// Would you turn down the volume, please? 你能将音量开小点吗？"
+    },
+    {
+     "word": "refund",
+     "phonetic": "ˈri:fʌnd",
+     "pos": "n./vt.",
+     "meaning": "退款[riˈfʌnd] 退还（钱款），偿付｜搭 full refund 全额偿还；give sb. a refund 给某人退款",
+     "example": "You can't get a refund if you don't have any invoices.",
+     "exampleCn": "如果你没有发票就不能获得退款。"
+    },
+    {
+     "word": "regardless",
+     "phonetic": "riˈgɑ:dləs",
+     "pos": "ad.",
+     "meaning": "不顾后果地；无论如何｜搭 regardless of 不管",
+     "example": "Regardless of the theory or model that we choose, a reduction in population size decreases the genetic diversity of a population.",
+     "exampleCn": "无论我们选择何种理论或研究样本，人口减少都会降低该种群的基因多样性。"
+    },
+    {
+     "word": "emboss",
+     "phonetic": "imˈbɔs",
+     "pos": "vt.",
+     "meaning": "使…凸出；压花（纹）",
+     "example": "The hotel's name was embossed on all the towels.",
+     "exampleCn": "所有毛巾上都压印有旅馆的名字。"
+    },
+    {
+     "word": "internationalist",
+     "phonetic": "ˌintəˈnæʃnəlist",
+     "pos": "n./a.",
+     "meaning": "国际主义者 国际主义者的",
+     "example": "We established links and access to the internationalist organisations and their resources.",
+     "exampleCn": "我们与国际主义者组织建立了联系，并有权使用他们的资源。"
+    },
+    {
+     "word": "scatter",
+     "phonetic": "ˈskætə(r)",
+     "pos": "v.",
+     "meaning": "（使人或动物）散开，驱散；撒；撒播｜搭 scatter...over... 把…撒在…；scatter strength 分散精力",
+     "example": "The farmer scattered the seeds on the field.",
+     "exampleCn": "农民在地里播种。"
+    },
+    {
+     "word": "appetite",
+     "phonetic": "ˈæpitait",
+     "pos": "n.",
+     "meaning": "食欲，胃口；欲望｜搭 appetite for... 对…的食欲；对…的兴趣",
+     "example": "My supper by this time was cold, and my appetite was gone.",
+     "exampleCn": "我的晚餐这时候已经凉了，我也没胃口了。"
+    },
+    {
+     "word": "prevail",
+     "phonetic": "priˈveil",
+     "pos": "vi.",
+     "meaning": "流行，盛行；占优势，战胜｜搭 prevail on/upon 说服，劝说",
+     "example": "The use of horses for ploughing still prevails in this area.",
+     "exampleCn": "在这一地区用马耕地还很普遍。"
+    },
+    {
+     "word": "glossary",
+     "phonetic": "ˈglɔsəri",
+     "pos": "n.",
+     "meaning": "词汇表；术语表",
+     "example": "You'll find the meaning of the difficult words used on this website in the glossary.",
+     "exampleCn": "你能在词汇表中查到此网页上难词的意思。"
+    },
+    {
+     "word": "consolidation",
+     "phonetic": "kənˌsɔliˈdeiʃn",
+     "pos": "n.",
+     "meaning": "合并；巩固",
+     "example": "The global airline industry was heading towards more consolidation.",
+     "exampleCn": "全球航空业的合并之风日益盛行。"
+    },
+    {
+     "word": "goodwill",
+     "phonetic": "ˌgudˈwil",
+     "pos": "n.",
+     "meaning": "友好，善意；信誉",
+     "example": "The manufacturer will lose customers and goodwill if word gets around that the product is unreliable.",
+     "exampleCn": "一旦产品不可靠的消息传了出去，生产商便会失去顾客及信誉。"
+    },
+    {
+     "word": "amass",
+     "phonetic": "əˈmæs",
+     "pos": "vt.",
+     "meaning": "积聚",
+     "example": "The monopoly capitalists amassed fabulous wealth during World War Ⅱ.",
+     "exampleCn": "二战期间，垄断资本家大发横财。"
+    },
+    {
+     "word": "federal",
+     "phonetic": "ˈfedərəl",
+     "pos": "a.",
+     "meaning": "联邦的，联盟的",
+     "example": "I opened a current account at the Federal Bank.",
+     "exampleCn": "我在联邦银行开了一个活期账户。"
+    },
+    {
+     "word": "consideration",
+     "phonetic": "kənˌsidəˈreiʃn",
+     "pos": "n.",
+     "meaning": "考虑；思考；体谅｜搭 in consideration of 考虑到…；由于…",
+     "example": "After a few moments' consideration, they refused the invitation.",
+     "exampleCn": "他们考虑片刻后，拒绝了邀请。"
+    },
+    {
+     "word": "grip",
+     "phonetic": "grip",
+     "pos": "v./n.",
+     "meaning": "握紧，抓牢；吸引住…的注意力（或想象力等） 紧握，抓牢；掌握，控制｜搭 be in the grip of 在…的掌控下",
+     "example": "She gripped on to the railing with both hands.",
+     "exampleCn": "她双手紧紧抓住栏杆。"
+    },
+    {
+     "word": "mansion",
+     "phonetic": "ˈmænʃn",
+     "pos": "n.",
+     "meaning": "大厦；（豪华的）宅邸",
+     "example": "Mary and her family lived in a mansion.",
+     "exampleCn": "玛丽一家住在一座大房子里。"
+    },
+    {
+     "word": "galaxy",
+     "phonetic": "ˈgæləksi",
+     "pos": "n.",
+     "meaning": "[the G-]银河；星系；群英",
+     "example": "Scientists intend to discover a sun-like fixed star in remote galaxies.",
+     "exampleCn": "科学家们试图在遥远的星系中找到一颗类似太阳的恒星。"
+    },
+    {
+     "word": "route",
+     "phonetic": "ru:t; raut",
+     "pos": "n.",
+     "meaning": "路线；路程｜搭 cycling route 骑自行车游览路线；shipping route 海运航线；air route 空运航线",
+     "example": "This map will show the route across the mountains.",
+     "exampleCn": "这张地图上有穿越群山的路线。"
+    },
+    {
+     "word": "deficiency",
+     "phonetic": "diˈfiʃnsi",
+     "pos": "n.",
+     "meaning": "缺乏，不足",
+     "example": "The short child of tall parents very likely had a hormone deficiency early in life.",
+     "exampleCn": "父母个子高而孩子个子矮，极有可能是由幼年分泌的荷尔蒙不足造成的。"
+    },
+    {
+     "word": "opposite",
+     "phonetic": "ˈɔpəzit",
+     "pos": "prep./a./n.",
+     "meaning": "在…对面 对面的，对立的；相反的，相对的 对立面，对立物",
+     "example": "The classroom is near the main entrance, just opposite the reception desk.",
+     "exampleCn": "教室位于主入口附近，正对着接待处。"
+    },
+    {
+     "word": "sensational",
+     "phonetic": "senˈseiʃənl",
+     "pos": "a.",
+     "meaning": "轰动性的，引起哗然的；耸人听闻的；极好的；绝妙的｜搭 sensational discovery 轰动性的发现；sensational headlines 耸人听闻的头条新闻",
+     "example": "The performance given by the newcomers is a sensational success.",
+     "exampleCn": "新来者的表演相当成功。"
+    },
+    {
+     "word": "participation",
+     "phonetic": "pɑ:ˌtisiˈpeiʃn",
+     "pos": "n.",
+     "meaning": "分享；参与",
+     "example": "The students below 20 years old are not given the participation in the ball.",
+     "exampleCn": "20岁以下的学生不允许参加舞会。"
+    },
+    {
+     "word": "relief",
+     "phonetic": "riˈli:f",
+     "pos": "n.",
+     "meaning": "（痛苦等）减轻，解除；援救，救济；安慰；缓合剂｜搭 to one's relief 令人感到放心的是",
+     "example": "The relief material was flown to the flood-hit districts.",
+     "exampleCn": "救灾物资被空运至洪灾区。"
+    },
+    {
+     "word": "cultivation",
+     "phonetic": "ˌkʌltiˈveiʃn",
+     "pos": "n.",
+     "meaning": "耕种，耕作；培养，教育",
+     "example": "Now, the cultivation of crops and the husbandry of livestock can bring great profit.",
+     "exampleCn": "如今，种植农作物和饲养牲畜能获得丰厚的利润。"
+    },
+    {
+     "word": "pretension",
+     "phonetic": "priˈtenʃn",
+     "pos": "n.",
+     "meaning": "声称，自命；自负，自命不凡",
+     "example": "The woman, having fewer pretensions, is far more willing to learn.",
+     "exampleCn": "这个女人并没有自命不凡，而是非常愿意学东西。"
+    },
+    {
+     "word": "harness",
+     "phonetic": "ˈhɑ:nis",
+     "pos": "vt./n.",
+     "meaning": "控制，利用；上马具 马具｜搭 harness a river 治理河流；harness nuclear energy 利用核能",
+     "example": "The dam stores water for such functions as the irrigation of crops and the harnessing of the force of gravity for the generation of electricity.",
+     "exampleCn": "大坝的存水可以用来灌溉农作物或利用重力来发电等。"
+    },
+    {
+     "word": "bent",
+     "phonetic": "bent",
+     "pos": "a./n.",
+     "meaning": "被弄弯的，弯曲的 爱好，天赋｜搭 a bent nail 弯曲的钉子；be bent on doing sth. 决意做某事",
+     "example": "If you are buying a cot, do make sure that any metal present is not rusted or bent in any way.",
+     "exampleCn": "购买婴儿床的时候，一定要确保床的金属不能生锈或怎么都不会被弄弯。"
+    },
+    {
+     "word": "dormitory",
+     "phonetic": "ˈdɔ:mətri",
+     "pos": "n.",
+     "meaning": "（集体）宿舍",
+     "example": "The club has long-term dormitory accommodation.",
+     "exampleCn": "俱乐部提供长期的宿舍住宿服务。"
+    },
+    {
+     "word": "stitch",
+     "phonetic": "stiʧ",
+     "pos": "vt./n.",
+     "meaning": "缝，缝合 一针，针脚｜搭 drop a stitch（织毛衣时）掉针了；cross stitch 十字绣；back stitch 回针，返针；stitch sth. up 把某物缝合",
+     "example": "Susan is stitching her old clothes.",
+     "exampleCn": "苏珊正在缝旧衣服。"
+    },
+    {
+     "word": "manual",
+     "phonetic": "ˈmænjuəl",
+     "pos": "n./a.",
+     "meaning": "手册，指南 手的，手工的，体力的｜搭 manual workers 手工劳动者；manual labour 体力劳动",
+     "example": "You should read the manual instruction carefully before fixing the air-conditioner.",
+     "exampleCn": "安装空调前你应该仔细阅读指导手册。"
+    },
+    {
+     "word": "mite",
+     "phonetic": "mait",
+     "pos": "n.",
+     "meaning": "极小量；螨虫",
+     "example": "The hives will be replaced because of mites or an ageing or dead queen.",
+     "exampleCn": "蜂箱会因为螨虫或者蜂后的衰老或死亡等情况而被更换。"
+    },
+    {
+     "word": "burglar",
+     "phonetic": "ˈbɜ:glə(r)",
+     "pos": "n.",
+     "meaning": "窃贼",
+     "example": "When you leave the house, make sure the windows and doors are shut, and set the burglar alarm.",
+     "exampleCn": "当你离开房子时，务必关好门窗，并打开防盗报警器。"
+    },
+    {
+     "word": "scheme",
+     "phonetic": "ski:m",
+     "pos": "n./v.",
+     "meaning": "计划，方案；体系，体制；阴谋 计划，策划；密谋",
+     "example": "The government has been funding a loans scheme for students in higher education since September 1990.",
+     "exampleCn": "自1990年9月起，政府就开始为大学生贷款计划提供资金。"
+    },
+    {
+     "word": "addition",
+     "phonetic": "əˈdiʃn",
+     "pos": "n.",
+     "meaning": "加，增加（物）｜搭 in addition 另外；in addition to... 除…之外",
+     "example": "This fruit is a welcome addition to the English diet.",
+     "exampleCn": "这种添加在英式食谱中的水果很受欢迎。"
+    },
+    {
+     "word": "sensory",
+     "phonetic": "ˈsensəri",
+     "pos": "a.",
+     "meaning": "感觉的，感官的｜搭 a sensory organ 感觉器官",
+     "example": "Mr. Roger is a scientist working in the field of sensory perception.",
+     "exampleCn": "罗杰先生是感官知觉领域的一名科学家。"
+    },
+    {
+     "word": "grove",
+     "phonetic": "grəuv",
+     "pos": "n.",
+     "meaning": "树丛，小树林",
+     "example": "At this time, beehives are in particular demand by farmers who have almond groves.",
+     "exampleCn": "这时，拥有杏树林的农民就尤其需要蜂箱。"
+    },
+    {
+     "word": "materialistic",
+     "phonetic": "məˌtiəriəˈlistik",
+     "pos": "a.",
+     "meaning": "唯物主义的；物质享乐主义的，贪图享乐的",
+     "example": "Modern society is often called materialistic.",
+     "exampleCn": "现代社会通常被称为是物质享乐主义的。"
+    },
+    {
+     "word": "detach",
+     "phonetic": "diˈtæʧ",
+     "pos": "v.",
+     "meaning": "分开，分离；分遣｜搭 detach from... 从…分离；拆下；使分开；semi-detached house 半独立式住宅",
+     "example": "The mechanic detached the oil filter.",
+     "exampleCn": "机工拆开了滤油器。"
+    },
+    {
+     "word": "torrent",
+     "phonetic": "ˈtɔrənt",
+     "pos": "n.",
+     "meaning": "洪流；爆发；（话语等的）连发",
+     "example": "As ice and snow melted, they touched off devastating torrents of mud and debris.",
+     "exampleCn": "冰雪融化引发了破坏力极大的泥石流。"
+    },
+    {
+     "word": "clarify",
+     "phonetic": "ˈklærəfai",
+     "pos": "vt.",
+     "meaning": "澄清；阐明",
+     "example": "Talking to students about the requirements of a course helps to clarify what needs to be done.",
+     "exampleCn": "告诉学生课程要求有助于他们了解自己所需要完成的工作。"
+    },
+    {
+     "word": "thirsty",
+     "phonetic": "ˈθɜ:sti",
+     "pos": "a.",
+     "meaning": "口渴的；饥渴的",
+     "example": "The moisture is absorbed by thirsty plants.",
+     "exampleCn": "饥渴的植物吸收了水汽。"
+    },
+    {
+     "word": "inspect",
+     "phonetic": "inˈspekt",
+     "pos": "vt.",
+     "meaning": "检查，检阅",
+     "example": "The general inspected the troops.",
+     "exampleCn": "将军检阅了军队。"
+    },
+    {
+     "word": "seam",
+     "phonetic": "si:m",
+     "pos": "n.",
+     "meaning": "缝，接缝；煤层",
+     "example": "The sailors couldn't find anything to caulk the seams in the boat.",
+     "exampleCn": "水手们找不到任何东西来填塞船上的裂缝。"
+    },
+    {
+     "word": "agriculture",
+     "phonetic": "ˈægrikʌlʧə(r)",
+     "pos": "n.",
+     "meaning": "农业；农学",
+     "example": "Many people in this area make a living from agriculture.",
+     "exampleCn": "这个地区的许多人以务农为生。"
+    },
+    {
+     "word": "microcosm",
+     "phonetic": "ˈmaikrəukɔzəm",
+     "pos": "n.",
+     "meaning": "微观世界；缩影",
+     "example": "Malaysia's universities have always been a microcosm of Malaysian society.",
+     "exampleCn": "马来西亚的大学往往是整个马来西亚社会的缩影。"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "title": "Word List 16",
+   "words": [
+    {
+     "word": "surgery",
+     "phonetic": "ˈsɜ:ʤəri",
+     "pos": "n.",
+     "meaning": "外科学；外科手术；手术室，诊疗室｜搭 heart bypass surgery 心脏搭桥手术",
+     "example": "They perform surgery between 9:00 and 11:30 every weekday.",
+     "exampleCn": "他们在每个工作日的9:00到11:30做手术。"
+    },
+    {
+     "word": "catastrophe",
+     "phonetic": "kəˈtæstrəfi",
+     "pos": "n.",
+     "meaning": "大灾难",
+     "example": "The flood was a major catastrophe, reducing population sizes in areas involved.",
+     "exampleCn": "洪水是一场大灾难，使受灾地区的人口减少。"
+    },
+    {
+     "word": "overwork",
+     "phonetic": "ˌəuvəˈwɜ:k",
+     "pos": "v./n.",
+     "meaning": "使劳累过分；对…使用过度；滥用（词等） 过重的工作；工作过度",
+     "example": "He has been overworking for two months, at last he fell ill in the workplace.",
+     "exampleCn": "他已经连续劳累工作两个月之久，最后病倒在了工作岗位上。"
+    },
+    {
+     "word": "parental",
+     "phonetic": "pəˈrentl",
+     "pos": "a.",
+     "meaning": "父的；母的；父母（般）的",
+     "example": "The government repeatedly stressed its support for parental choice in the selection of a child's school.",
+     "exampleCn": "政府一再重申其支持家长对孩子教育的选择权。"
+    },
+    {
+     "word": "sediment",
+     "phonetic": "ˈsedimənt",
+     "pos": "n.",
+     "meaning": "沉淀物；沉积物（如沙、砾、石、泥等）",
+     "example": "There was heavy brown sediment in the bottom of the bottle.",
+     "exampleCn": "水壶的底部有厚厚的棕色沉淀物。"
+    },
+    {
+     "word": "various",
+     "phonetic": "ˈveəriəs",
+     "pos": "a.",
+     "meaning": "各种各样的；不同的；多方面的",
+     "example": "The professor has studied the languages of various countries.",
+     "exampleCn": "这位教授研究过多个国家的语言。"
+    },
+    {
+     "word": "resit",
+     "phonetic": "ˌri:ˈsit",
+     "pos": "v./n.",
+     "meaning": "重修，补考｜搭 resit the exam 参加补考",
+     "example": "The four students resat the final examinations and passed this time.",
+     "exampleCn": "这四名学生参加了期末考试补考，这次都通过了。"
+    },
+    {
+     "word": "menace",
+     "phonetic": "ˈmenəs",
+     "pos": "n./vt.",
+     "meaning": "威胁；危险的人（或物） 威胁到，危及｜搭 a menace to sb./sth. 对…的威胁",
+     "example": "Let's look at some of the reasons why back pain is developing into such a unique menace.",
+     "exampleCn": "让我们来看一看为什么背疼会演变成一种顽疾。"
+    },
+    {
+     "word": "contain",
+     "phonetic": "kənˈtein",
+     "pos": "vt.",
+     "meaning": "包含，容纳，装有；控制，阻止，遏制｜搭 contain oneself 自制",
+     "example": "It is traditionally accepted that children's books should contain a few pictures.",
+     "exampleCn": "从传统意义上来说，人们普遍认为儿童读物中应该配有一些插图。"
+    },
+    {
+     "word": "fasten",
+     "phonetic": "ˈfɑ:sn",
+     "pos": "v.",
+     "meaning": "扎牢，扣住",
+     "example": "The driver must fasten his seat belt before driving.",
+     "exampleCn": "司机在开车前必须系好安全带。"
+    },
+    {
+     "word": "establish",
+     "phonetic": "iˈstæbliʃ",
+     "pos": "vt.",
+     "meaning": "建立；确立；安置，使定居｜搭 establish goals 树立目标；establish relations 建立联系",
+     "example": "You may have to establish new eating habits in order to keep healthy.",
+     "exampleCn": "为了保持健康，你需要养成一些新的饮食习惯。"
+    },
+    {
+     "word": "position",
+     "phonetic": "pəˈziʃn",
+     "pos": "n./vt.",
+     "meaning": "位置，方位；职位，职务；姿势，姿态；见解，立场 安放，安置｜搭 be in a position to do sth. 能够做…，有做…的机会；leave sth./sb. in the position of 使…处于…",
+     "example": "The position of women in society has changed markedly in the last twenty years.",
+     "exampleCn": "在过去的20年间，妇女的社会地位有了显著的改变。"
+    },
+    {
+     "word": "simulate",
+     "phonetic": "ˈsimjuleit",
+     "pos": "vt.",
+     "meaning": "模仿，模拟；假装，伪装；扮演",
+     "example": "The experiment simulated a natural environment.",
+     "exampleCn": "这个试验模拟了一种自然环境。"
+    },
+    {
+     "word": "scratch",
+     "phonetic": "skræʧ",
+     "pos": "n./v.",
+     "meaning": "划伤，抓痕 抓，搔；划破，划损｜搭 from scratch 从头做起，从零开始；up to scratch 达到应有的水平",
+     "example": "There is a small scratch on my bag.",
+     "exampleCn": "我的包上有一道不长的划痕。"
+    },
+    {
+     "word": "flexitime",
+     "phonetic": "ˈfleksitaim",
+     "pos": "n.",
+     "meaning": "弹性工作制",
+     "example": "Flexitime is one good method to reduce the number of vehicles traveling together at rush hour.",
+     "exampleCn": "采用弹性工作制是降低交通高峰期时车流量的好方法。"
+    },
+    {
+     "word": "assist",
+     "phonetic": "əˈsist",
+     "pos": "v.",
+     "meaning": "帮助，援助，协助｜搭 assist with/in 帮助",
+     "example": "The Student Union is intended to assist in teachers' work.",
+     "exampleCn": "学生会旨在协助老师工作。"
+    },
+    {
+     "word": "mammal",
+     "phonetic": "ˈmæml",
+     "pos": "n.",
+     "meaning": "哺乳动物｜搭 marine mammals 海洋哺乳动物",
+     "example": "The insect lives on small mammals and birds.",
+     "exampleCn": "这种小虫子寄生在小型哺乳动物和鸟类身上。"
+    },
+    {
+     "word": "illegal",
+     "phonetic": "iˈli:gl",
+     "pos": "a.",
+     "meaning": "不合法的，违法的｜搭 illegal profit 非法利润；illegal drugs 毒品；illegal activities 非法活动",
+     "example": "The police arrested the old lady for illegal possession of drugs.",
+     "exampleCn": "警方以非法持有毒品为由逮捕了这位老妇人。"
+    },
+    {
+     "word": "ultimately",
+     "phonetic": "ˈʌltimətli",
+     "pos": "ad.",
+     "meaning": "最终地",
+     "example": "The paper was written, edited, typeset and ultimately printed.",
+     "exampleCn": "报纸经过编写、编辑、排版最后被印刷出来。"
+    },
+    {
+     "word": "sinew",
+     "phonetic": "ˈsinju:",
+     "pos": "n.",
+     "meaning": "肌腱；力量的来源",
+     "example": "The athletes were so nervous that we could see all their sinews tense.",
+     "exampleCn": "运动员非常紧张，以致我们能看到他们紧绷的肌肉。"
+    },
+    {
+     "word": "artificial",
+     "phonetic": "ˌɑ:tiˈfiʃl",
+     "pos": "a.",
+     "meaning": "人工的，人造的；假的，矫揉造作的；模拟的｜搭 artificial color 人工色素，合成色素；artificial intelligence 人工智能",
+     "example": "We use no artificial additives of any kind in our products.",
+     "exampleCn": "我们的产品绝不含任何人工添加剂。"
+    },
+    {
+     "word": "veil",
+     "phonetic": "veil",
+     "pos": "n./vt.",
+     "meaning": "面纱；遮蔽物 蒙着面纱；掩饰",
+     "example": "They lifted the veil of this ancient tomb.",
+     "exampleCn": "他们揭开了这座古代陵墓的神秘面纱。"
+    },
+    {
+     "word": "tend",
+     "phonetic": "tend",
+     "pos": "v.",
+     "meaning": "倾向于，趋于；照料；招待",
+     "example": "Women tend to research thoroughly before applying for positions or attending interviews.",
+     "exampleCn": "在申请职位或是参加面试前，女性往往会（对应聘公司及职位）进行全面彻底的了解。"
+    },
+    {
+     "word": "removal",
+     "phonetic": "riˈmu:vl",
+     "pos": "n.",
+     "meaning": "除去；免职；搬迁",
+     "example": "I saw a removal van outside your house yesterday afternoon.",
+     "exampleCn": "昨天下午我看见你家屋外停着一辆搬家卡车。"
+    },
+    {
+     "word": "parallel",
+     "phonetic": "ˈpærəlel",
+     "pos": "n./a./vt.",
+     "meaning": "可相比拟的事物（或人），相似处；纬线 平行的；类似的，相对应的；并行的 与…相似；比得上｜搭 parallel to 与…平行；parallel lines 平行线；parallel bars 双杠",
+     "example": "The expressway is parallel to the railway.",
+     "exampleCn": "这条高速公路与铁路平行。// Tom's experiences parallel mine in many instances. 在很多方面，汤姆的经历都与我的相似。"
+    },
+    {
+     "word": "compel",
+     "phonetic": "kəmˈpel",
+     "pos": "vt.",
+     "meaning": "强迫｜搭 compel sb. to do sth. 强迫某人做某事",
+     "example": "The boss compels workers to spend more time on the job.",
+     "exampleCn": "老板强迫工人花更多的时间在工作上。"
+    },
+    {
+     "word": "immediately",
+     "phonetic": "iˈmi:diətli",
+     "pos": "ad.",
+     "meaning": "立即，马上；紧接地；直接地",
+     "example": "You go down to the end of this corridor and turn right. The computer lab is immediately on your right.",
+     "exampleCn": "走到走廊尽头向右拐，右手边就是机房。"
+    },
+    {
+     "word": "institute",
+     "phonetic": "ˈinstitju:t",
+     "pos": "n./vt.",
+     "meaning": "研究所，学院 建立，设立｜搭 financial institute 金融研究所",
+     "example": "The language Institute provides student support, welfare and activities services.",
+     "exampleCn": "语言学院为学生提供资助、福利和活动服务。"
+    },
+    {
+     "word": "serial",
+     "phonetic": "ˈsiəriəl",
+     "pos": "n./a.",
+     "meaning": "连续剧 连续的；顺序排列的",
+     "example": "A lot of people complained that American police serials were particularly violent.",
+     "exampleCn": "许多人抱怨美国的警匪片太暴力了。"
+    },
+    {
+     "word": "oversee",
+     "phonetic": "ˌəuvəˈsi:",
+     "pos": "vt.",
+     "meaning": "监督，监视（某人或某物）；俯瞰，眺望｜搭 oversee the project 监督这个项目",
+     "example": "You must appoint someone to oversee the project.",
+     "exampleCn": "你得指"
+    },
+    {
+     "word": "reinforce",
+     "phonetic": "ˌri:inˈfɔ:s",
+     "pos": "vt.",
+     "meaning": "加强；增援",
+     "example": "Concrete with steel bars in it is known as reinforced concrete.",
+     "exampleCn": "水泥中加入钢条就成了我们所知的钢筋混凝土。"
+    },
+    {
+     "word": "commitment",
+     "phonetic": "kəˈmitmənt",
+     "pos": "n.",
+     "meaning": "委托；许诺；承担义务",
+     "example": "This commitment has been clearly defined in the act.",
+     "exampleCn": "这项法案中明确定义了这一义务的内容。"
+    },
+    {
+     "word": "donation",
+     "phonetic": "dəuˈneiʃn",
+     "pos": "n.",
+     "meaning": "捐款；捐赠",
+     "example": "The work of the charity is funded by voluntary donations.",
+     "exampleCn": "这家慈善机构工作所需资金是人们自愿捐赠的。"
+    },
+    {
+     "word": "curious",
+     "phonetic": "ˈkjuəriəs",
+     "pos": "a.",
+     "meaning": "好奇的；奇怪的｜搭 be curious about 对…好奇",
+     "example": "Further observation by astronomers revealed two curious facts.",
+     "exampleCn": "宇航员经过进一步观察发现了两个奇怪的现象。"
+    },
+    {
+     "word": "jungle",
+     "phonetic": "ˈʤʌŋgl",
+     "pos": "n.",
+     "meaning": "丛林",
+     "example": "They ventured deep into the jungle and sought out an isolated tribe.",
+     "exampleCn": "他们冒险进入丛林深处，找到了一个与世隔绝的部落。"
+    },
+    {
+     "word": "overdraft",
+     "phonetic": "ˈəuvədrɑ:ft",
+     "pos": "n.",
+     "meaning": "透支；透支额",
+     "example": "Some workers have a huge overdraft to pay off every month.",
+     "exampleCn": "一些工人每个月都要偿还巨额透支款。"
+    },
+    {
+     "word": "optical",
+     "phonetic": "ˈɔptikl",
+     "pos": "a.",
+     "meaning": "视力的；光学的｜搭 optical aids 助视器",
+     "example": "We'll discuss optical fibres and how they could be used in the future to improve optical instruments.",
+     "exampleCn": "我们将讨论光纤以及将来如何把它们用于改善光学仪器等问题。"
+    },
+    {
+     "word": "otherwise",
+     "phonetic": "ˈʌðəwaiz",
+     "pos": "ad./conj.",
+     "meaning": "另样，用别的方法；在其他方面 要不然，否则",
+     "example": "It's a ten-minute taxi ride from the station and will cost you£5, otherwise, you can take the bus which runs every half and an hour from the station.",
+     "exampleCn": "从车站打车（到这）要十分钟，车费是五英镑。另外，你还可以乘从车站出发的公共汽车，一个半小时一班。"
+    },
+    {
+     "word": "possession",
+     "phonetic": "pəˈzeʃn",
+     "pos": "n.",
+     "meaning": "持有，拥有；所有权；所有物，财产，财富；领土｜搭 in sb.'s possession 被某人占有；in possession of sth. 占有某物",
+     "example": "It would be a good idea to get some insurance for the furniture and other personal possessions.",
+     "exampleCn": "给家具和其他一些个人财产上保险是一个不错的主意。"
+    },
+    {
+     "word": "however",
+     "phonetic": "hauˈevə(r)",
+     "pos": "conj./ad.",
+     "meaning": "不管用什么方法，然而 无论如何，不管怎样；可是；仍然",
+     "example": "I feel a bit sleepy, however, I keep studying.",
+     "exampleCn": "我觉得有点困了，但我还是坚持学习。"
+    },
+    {
+     "word": "retail",
+     "phonetic": "ˈri:teil",
+     "pos": "n./v.",
+     "meaning": "零售 零售，以…价格销售｜搭 retail price 零售价；retail trade 零售业；a retail shop零售店",
+     "example": "What sorts of shop do you like best, the department store or the small retails?",
+     "exampleCn": "你最喜欢哪种商店，百货商场还是小零售店？"
+    },
+    {
+     "word": "cultural",
+     "phonetic": "ˈkʌlʧərəl",
+     "pos": "a.",
+     "meaning": "文化的，人文的",
+     "example": "The exhibition showed some cultural relics of the primeval times.",
+     "exampleCn": "该展览展出了很多原始时期的文化遗产。"
+    },
+    {
+     "word": "morality",
+     "phonetic": "məˈræləti",
+     "pos": "n.",
+     "meaning": "道德，美德｜搭 public morality 公共道德",
+     "example": "Mankind has undergone great improvement in intelligence or morality.",
+     "exampleCn": "人类无论在智力方面还是在道德方面都经历了巨大的进步。"
+    },
+    {
+     "word": "transaction",
+     "phonetic": "trænˈzækʃn",
+     "pos": "n.",
+     "meaning": "办理；处理；交易，业务；[pl.]会报，学报",
+     "example": "The teller told me that the computer system was temporarily down, so they couldn't do any transactions.",
+     "exampleCn": "出纳员告诉我计算机系统临时出故障了，所以他们不能进行任何交易。"
+    },
+    {
+     "word": "twofold",
+     "phonetic": "ˈtu:fəuld",
+     "pos": "a./ad.",
+     "meaning": "两倍的，双重的；两部分的 两倍地，双重地",
+     "example": "There has been a twofold increase in the number of rare birds in the past decade.",
+     "exampleCn": "在过去的十年，珍稀鸟类的数量增加了两倍。"
+    },
+    {
+     "word": "solution",
+     "phonetic": "səˈlu:ʃn",
+     "pos": "n.",
+     "meaning": "解答，解决办法；溶解，溶液",
+     "example": "It took time to find solution to the problem.",
+     "exampleCn": "找到解决该问题的方法需要时间。"
+    },
+    {
+     "word": "embassy",
+     "phonetic": "ˈembəsi",
+     "pos": "n.",
+     "meaning": "大使馆；大使馆全体官员｜搭 the American Embassy in Paris 美国驻巴黎大使馆",
+     "example": "Your visa application is being processed at the UK Embassy.",
+     "exampleCn": "你的签证正由英国大使馆办理。"
+    },
+    {
+     "word": "remark",
+     "phonetic": "riˈmɑ:k",
+     "pos": "v./n.",
+     "meaning": "评论，谈论；注意到，察觉 评语，评论；注释｜搭 remark about/on 评论；make a remark on 对…发表评论",
+     "example": "Can you remark the differences between the two paintings?",
+     "exampleCn": "你能说出这两幅画的不同之处吗？"
+    },
+    {
+     "word": "delay",
+     "phonetic": "diˈlei",
+     "pos": "n./v.",
+     "meaning": "耽搁，延迟，延期，迟滞",
+     "example": "After a delay of two days, the whole team continued the journey.",
+     "exampleCn": "耽搁了两天后，整个小组继续行进。"
+    },
+    {
+     "word": "congress",
+     "phonetic": "ˈkɔŋgres",
+     "pos": "n.",
+     "meaning": "（代表）大会；（美国等国的）国会，议会｜搭 the support of Congress 国会的支持；the People's Congress 人民代表大会",
+     "example": "The congress called on the local governments to reopen schools after the war.",
+     "exampleCn": "战后，国会号召地方政府重开学校。"
+    },
+    {
+     "word": "germ",
+     "phonetic": "ʤɜ:m",
+     "pos": "n.",
+     "meaning": "微生物，细菌；起源，萌芽",
+     "example": "The patient had not the strength to throw off the germs that had invaded his immune system.",
+     "exampleCn": "病人已无力摆脱已经侵入他免疫系统的病菌。"
+    },
+    {
+     "word": "fashion",
+     "phonetic": "ˈfæʃn",
+     "pos": "n.",
+     "meaning": "方式；流行款式；时装",
+     "example": "You'll find all sorts of things in the museum: old suitcases, ships' crockery, and classical cabins decorated in the fashion of the day.",
+     "exampleCn": "在博物馆里你会找到各类东西：陈旧的手提箱、陶制船模型，还有以当时风格装饰的古典小屋。"
+    },
+    {
+     "word": "carousel",
+     "phonetic": "ˌkærəˈsel",
+     "pos": "n.",
+     "meaning": "行李式传送带",
+     "example": "I put my baggage on the airport carousel.",
+     "exampleCn": "我把行李放到机场的行李传送带上。"
+    },
+    {
+     "word": "splash",
+     "phonetic": "splæʃ",
+     "pos": "v.",
+     "meaning": "溅；泼",
+     "example": "I refreshed myself by splashing cold water on my face.",
+     "exampleCn": "我往脸上扑冷水让自己精神起来。"
+    },
+    {
+     "word": "beforehand",
+     "phonetic": "biˈfɔ:hænd",
+     "pos": "ad.",
+     "meaning": "预先，事先",
+     "example": "The experiment will last for one year. Beforehand several months are devoted to planning.",
+     "exampleCn": "试验将持续一年的时间。在此之前，要用几个月的时间制订计划。"
+    },
+    {
+     "word": "spade",
+     "phonetic": "speid",
+     "pos": "n.",
+     "meaning": "铁锹",
+     "example": "We need a spade if we're going to dig a pit.",
+     "exampleCn": "如果我们要挖个深坑，就需要一把铁锹。"
+    },
+    {
+     "word": "filter",
+     "phonetic": "ˈfiltə(r)",
+     "pos": "n./v.",
+     "meaning": "过滤器 过滤；（消息等）走漏｜搭 filter tip（香烟的）过滤嘴；filter sth. out 把…滤出",
+     "example": "Workers find that machines work much better if they change the filters regularly.",
+     "exampleCn": "工人们发现如果他们能定期更换机器里的过滤器，机器就会运转得更好。"
+    },
+    {
+     "word": "aspect",
+     "phonetic": "ˈæspekt",
+     "pos": "n.",
+     "meaning": "方面；（建筑物的）朝向，方向；外貌，外观样子｜搭 in all aspects 全面；aspect of …方面",
+     "example": "A great deal of empirical evidence shows that pictures in a book interfere in a damaging way with all aspects of learning to read.",
+     "exampleCn": "大量经验表明，书中的插图给学习阅读的各方面都造成了不利影响。"
+    },
+    {
+     "word": "objection",
+     "phonetic": "əbˈʤekʃn",
+     "pos": "n.",
+     "meaning": "反对；反对的理由",
+     "example": "If no one has any objection against the decision, I'll declare the meeting is closed.",
+     "exampleCn": "如果没人反对这个决议，那么我将宣布会议结束。"
+    },
+    {
+     "word": "tunnel",
+     "phonetic": "ˈtʌnl",
+     "pos": "n./v.",
+     "meaning": "隧道；地道 挖（地道），开（隧道）",
+     "example": "The prisoner had escaped by tunnelling.",
+     "exampleCn": "犯人挖地道逃跑了。"
+    },
+    {
+     "word": "contrast",
+     "phonetic": "ˈkɔntrɑ:st",
+     "pos": "n./v.",
+     "meaning": "对比；对照[kənˈtrɑ:st] 对比；对照；形成对比｜搭 by contrast 对比之下；（与…）相对照；in contrast with/to 与…形成对比；contrast A with B 把A与B进行对比",
+     "example": "This white peak contrasts finely with the blue sky.",
+     "exampleCn": "这座雪白的山峰同蔚蓝的天空交相辉映。"
+    },
+    {
+     "word": "effect",
+     "phonetic": "iˈfekt",
+     "pos": "n./vt.",
+     "meaning": "作用，影响；结果；效果 使产生，招致；实现｜搭 carry/bring into effect 使生效，实施；in effect 有效；实际上；take effect 生效，起作用；side effects 副作用；a positive effect 积极影响；cause and effect 原因和结果",
+     "example": "The report suggests that the smoke experienced by many people in their daily lives is enough to produce substantial adverse effects on a person's heart and lungs.",
+     "exampleCn": "报告指出，许多人在日常生活中吸入的（香烟）烟雾足以给他们的心脏和肺造成严重的负面影响。"
+    },
+    {
+     "word": "parcel",
+     "phonetic": "ˈpɑ:sl",
+     "pos": "n.",
+     "meaning": "包裹",
+     "example": "She sent a parcel of books to her younger sister.",
+     "exampleCn": "她寄给妹妹一包书。"
+    },
+    {
+     "word": "distance",
+     "phonetic": "ˈdistəns",
+     "pos": "n.",
+     "meaning": "距离；远方；一长段时间",
+     "example": "Underground water can flow very large distances and can be kept in underground reservoirs for a very long time.",
+     "exampleCn": "地下水可以流经很长的距离，并能在地下含水层中储藏相当长时间。"
+    },
+    {
+     "word": "stem",
+     "phonetic": "stem",
+     "pos": "n./vt.",
+     "meaning": "茎；（树）干；词干 止住，抑止，堵住，阻止｜搭 stem from 源于",
+     "example": "As the axe cut through the stem, the tree fell.",
+     "exampleCn": "斧子砍断树干时，树倒了下来。"
+    },
+    {
+     "word": "normal",
+     "phonetic": "ˈnɔ:ml",
+     "pos": "a.",
+     "meaning": "正常的，平常的；标准的，规范的，正规的$｜搭 normal education 师范教育；正规教育；normal state 标准状态，常态",
+     "example": "The normal noise threshold for private housing is 55 decibels.",
+     "exampleCn": "私人住宅区标准的噪音音量上限为55分贝。"
+    },
+    {
+     "word": "sincere",
+     "phonetic": "sinˈsiə(r)",
+     "pos": "a.",
+     "meaning": "真挚的，诚挚的，真诚的，诚恳的",
+     "example": "My respect to you is very sincere.",
+     "exampleCn": "我对您的尊敬是非常诚挚的。"
+    },
+    {
+     "word": "summarise",
+     "phonetic": "ˈsʌməraiz",
+     "pos": "v.",
+     "meaning": "总结，概括",
+     "example": "The speaker summarised the important points of her lecture.",
+     "exampleCn": "演讲者概括了她演讲中的重点。"
+    },
+    {
+     "word": "foetus",
+     "phonetic": "ˈfi:təs",
+     "pos": "n.",
+     "meaning": "胎儿；胚胎",
+     "example": "Every brain is initially female in its organisation and it only becomes a male brain when the male foetus begins to secrete hormones.",
+     "exampleCn": "每一个大脑在结构上最初都是雌性的，只有当雄性胚胎开始分泌荷尔蒙时才变成雄性。"
+    },
+    {
+     "word": "merge",
+     "phonetic": "mɜ:ʤ",
+     "pos": "v.",
+     "meaning": "（使）结合",
+     "example": "Fact and fiction merge together in his latest thriller.",
+     "exampleCn": "在他最新的惊险小说中，真实和虚构相互交织。"
+    },
+    {
+     "word": "aware",
+     "phonetic": "əˈweə(r)",
+     "pos": "a.",
+     "meaning": "知道的；意识到的｜搭 be aware of 意识到…",
+     "example": "Most ecologists were aware that the areas of Amazonia they were working in had been shaped by human settlement.",
+     "exampleCn": "大多数生态学家意识到他们研究的亚马孙地区已经受到人类居住的影响。派unaware（a. 不知道的，未意识到的）；awareness（n. 知道）"
+    },
+    {
+     "word": "label",
+     "phonetic": "ˈleibl",
+     "pos": "vt./n.",
+     "meaning": "贴标签于 标签，标记；称号；绰号，外号｜搭 label as 把…称为",
+     "example": "I think we should label the lid itself and say that it constitutes twenty-five percent of the total weight.",
+     "exampleCn": "我认为我们应该在盖子上贴上标签，注明盖子本身占总重的25％。"
+    },
+    {
+     "word": "guarantee",
+     "phonetic": "ˌgærənˈti:",
+     "pos": "v./n.",
+     "meaning": "保证；允诺 保证；担保物｜搭 guarantee to 保证…；guarantee sb. sth. 保证某人某事",
+     "example": "The box is made of stainless steel which is guaranteed for 20 years.",
+     "exampleCn": "这个盒子是不锈钢的，品质保证为20年。"
+    },
+    {
+     "word": "interrelationship",
+     "phonetic": "ˌintəriˈleiʃnʃip",
+     "pos": "n.",
+     "meaning": "相互关联，相互影响",
+     "example": "This study examined the interrelationship between environment and human behaviour.",
+     "exampleCn": "这项研究考察了环境和人类行为的相互影响。"
+    },
+    {
+     "word": "stationery",
+     "phonetic": "ˈsteiʃənri",
+     "pos": "n.",
+     "meaning": "文具",
+     "example": "They manage the Student Union paper shop, selling magazines and newspapers as well as stationery and sweets.",
+     "exampleCn": "他们负责管理学生会的报刊亭，销售杂志、报纸，还有文具和糖果。"
+    },
+    {
+     "word": "limestone",
+     "phonetic": "ˈlaimstəun",
+     "pos": "n.",
+     "meaning": "石灰石，石灰岩",
+     "example": "The limestone has to be dug out of the mine and transported to the power station.",
+     "exampleCn": "石灰石必须从矿山挖出，然后被运往发电站。"
+    }
+   ]
+  }
+ ]
+}
