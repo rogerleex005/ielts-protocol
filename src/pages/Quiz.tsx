@@ -1,8 +1,9 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import type { SaveState, Word } from "@/types";
 import { generateQuiz, todayStr, type QuizItem } from "@/lib/storage";
-import { speak } from "@/lib/speech";
+import { speakWord } from "@/lib/speech";
 import { SectionHeader, SpeakerButton, ValButton } from "@/components/ValBits";
+import { PhonicsHint } from "@/components/PhonicsHint";
 import { cn } from "@/lib/utils";
 
 interface Props {
@@ -25,6 +26,7 @@ export function QuizPage({ save, vocab, onFinish, onExit }: Props) {
   const [bestCombo, setBestCombo] = useState(0);
   const [score, setScore] = useState(0);
   const [lastCorrect, setLastCorrect] = useState<boolean | null>(null);
+  const [missed, setMissed] = useState<Word[]>([]);
   const finishedRef = useRef(false);
 
   const current: QuizItem | undefined = quiz[idx];
@@ -40,13 +42,14 @@ export function QuizPage({ save, vocab, onFinish, onExit }: Props) {
     setBestCombo(0);
     setScore(0);
     setLastCorrect(null);
+    setMissed([]);
     finishedRef.current = false;
   };
 
-  // 听音题自动播放
+  // 听音题自动播放（真人录音优先）
   useEffect(() => {
     if (phase === "playing" && current?.type === "listen") {
-      const t = setTimeout(() => speak(current.word.word), 350);
+      const t = setTimeout(() => void speakWord(current.word.word), 350);
       return () => clearTimeout(t);
     }
   }, [phase, idx, current]);
@@ -63,6 +66,7 @@ export function QuizPage({ save, vocab, onFinish, onExit }: Props) {
       setScore((s) => s + 1);
     } else {
       setCombo(0);
+      setMissed((m) => [...m, current.word]);
       if (navigator.vibrate) navigator.vibrate(180);
     }
     setTimeout(() => {
@@ -160,6 +164,33 @@ export function QuizPage({ save, vocab, onFinish, onExit }: Props) {
           {score === total && (
             <p className="val-title anim-combo-pop mt-3 text-sm text-val-gold">★ FLAWLESS // 满分 +50 XP ★</p>
           )}
+
+          {/* 失误复盘：错题单词 + 拼读提示 + 真人发音 */}
+          {missed.length > 0 && (
+            <div className="mt-4 text-left">
+              <p className="val-title mb-2 text-[10px] tracking-[0.3em] text-val-red">
+                MISS REPORT // 失误复盘（{missed.length}）
+              </p>
+              <div className="grid gap-1.5">
+                {missed.map((mw) => (
+                  <div
+                    key={mw.idx}
+                    className="clip-card-sm flex items-center gap-2 border border-val-red/40 bg-val-red/5 px-3 py-2"
+                  >
+                    <div className="min-w-0 flex-1">
+                      <p className="text-sm font-bold text-val-text">
+                        {mw.word}
+                        <span className="ml-2 text-xs font-normal text-val-dim">{mw.meaning}</span>
+                      </p>
+                      <PhonicsHint word={mw.word} className="mt-0.5 text-xs" />
+                    </div>
+                    <SpeakerButton text={mw.word} size="sm" />
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+
           <div className="mt-5 grid grid-cols-2 gap-2">
             <ValButton onClick={start}>再来一局</ValButton>
             <ValButton variant="ghost" onClick={onExit}>
@@ -220,6 +251,7 @@ export function QuizPage({ save, vocab, onFinish, onExit }: Props) {
               <SpeakerButton text={w.word} />
             </div>
             {w.phonetic && <p className="mt-1 text-sm text-val-teal">/{w.phonetic}/</p>}
+            <PhonicsHint word={w.word} className="mt-1 justify-center" />
           </>
         )}
         {current.type === "zh2en" && (
@@ -264,9 +296,10 @@ export function QuizPage({ save, vocab, onFinish, onExit }: Props) {
             className="val-input clip-card-sm min-h-[52px] w-full px-4 text-center text-2xl font-bold tracking-[0.2em]"
           />
           {phase === "feedback" && !lastCorrect && (
-            <p className="anim-fade-up mt-2 text-center text-lg font-black text-val-teal">
-              正确拼写：{w.word}
-            </p>
+            <div className="anim-fade-up mt-2 text-center">
+              <p className="text-lg font-black text-val-teal">正确拼写：{w.word}</p>
+              <PhonicsHint word={w.word} className="mt-0.5 justify-center" />
+            </div>
           )}
           <ValButton
             className="mt-3 w-full min-h-[52px]"
@@ -281,21 +314,25 @@ export function QuizPage({ save, vocab, onFinish, onExit }: Props) {
           {current.options!.map((opt, i) => {
             const isAnswer = i === current.answer;
             const isPicked = i === picked;
+            const showPhonics = current.type === "zh2en" || current.type === "listen";
             return (
               <button
                 key={i}
                 disabled={phase !== "playing"}
                 onClick={() => answer(isAnswer, i)}
                 className={cn(
-                  "clip-card-sm min-h-[52px] border p-3 text-left text-sm transition-colors",
+                  "clip-card-sm flex min-h-[52px] items-center gap-2 border p-3 text-left text-sm transition-colors",
                   phase === "feedback" && isAnswer && "border-val-teal bg-val-teal/15 text-val-teal",
                   phase === "feedback" && isPicked && !isAnswer && "border-val-red bg-val-red/15 text-val-red anim-shake",
                   phase === "feedback" && !isAnswer && !isPicked && "border-val-line/50 text-val-dim/50",
                   phase === "playing" && "border-val-line bg-val-panel2 text-val-text active:border-val-red"
                 )}
               >
-                <span className="val-title mr-2 text-val-dim">{["A", "B", "C", "D"][i]}</span>
-                {opt}
+                <span className="val-title shrink-0 text-val-dim">{["A", "B", "C", "D"][i]}</span>
+                <span className="min-w-0 flex-1">
+                  <span className="block leading-snug">{opt}</span>
+                  {showPhonics && <PhonicsHint word={opt} className="mt-0.5 text-xs opacity-80" />}
+                </span>
               </button>
             );
           })}

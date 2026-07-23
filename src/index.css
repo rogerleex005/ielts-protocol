@@ -48,6 +48,20 @@
 
 /* ============ Valorant-style utility classes ============ */
 
+.val-spinner {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  border: 2px solid currentColor;
+  border-top-color: transparent;
+  border-radius: 50%;
+  animation: val-spin 0.7s linear infinite;
+  vertical-align: -0.12em;
+}
+@keyframes val-spin {
+  to { transform: rotate(360deg); }
+}
+
 .clip-card {
   clip-path: polygon(14px 0, 100% 0, 100% calc(100% - 14px), calc(100% - 14px) 100%, 0 100%, 0 14px);
 }

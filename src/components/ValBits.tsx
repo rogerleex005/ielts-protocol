@@ -1,7 +1,8 @@
 import type { ReactNode } from "react";
+import { useState } from "react";
 import { cn } from "@/lib/utils";
 import type { RankDef } from "@/lib/game";
-import { speak } from "@/lib/speech";
+import { speakWord, speakAsync } from "@/lib/speech";
 
 /* 小红色竖条 + 大写标题 */
 export function SectionHeader({ title, right }: { title: string; right?: ReactNode }) {
@@ -90,20 +91,44 @@ export function XpBar({ rank, xp }: { rank: RankDef; xp: number }) {
 
 export function SpeakerButton({ text, size = "md", className }: { text: string; size?: "sm" | "md" | "lg"; className?: string }) {
   const dims = size === "lg" ? "h-14 w-14 text-2xl" : size === "md" ? "h-11 w-11 text-lg" : "h-9 w-9 text-sm";
+  const [phase, setPhase] = useState<"idle" | "loading" | "playing">("idle");
+  const busy = phase !== "idle";
+
+  const handle = async (e: React.MouseEvent) => {
+    e.stopPropagation();
+    if (busy) return; // 播放/加载中防重复点击
+    const isSingleWord = !/\s/.test(text.trim());
+    if (isSingleWord) {
+      // 单词：真人录音优先，内部自动回退 TTS
+      setPhase("loading");
+      await speakWord(text, (p) => setPhase(p === "done" ? "idle" : p));
+    } else {
+      // 例句等长文本：TTS
+      setPhase("playing");
+      await speakAsync(text, 0.92);
+      setPhase("idle");
+    }
+  };
+
   return (
     <button
       aria-label="播放发音"
-      onClick={(e) => {
-        e.stopPropagation();
-        speak(text);
-      }}
+      disabled={busy}
+      onClick={handle}
       className={cn(
-        "clip-card-sm inline-flex items-center justify-center border border-val-line bg-val-panel2 text-val-teal transition-colors hover:border-val-teal active:bg-val-teal active:text-val-bg",
+        "clip-card-sm inline-flex shrink-0 items-center justify-center border border-val-line bg-val-panel2 text-val-teal transition-colors",
+        busy ? "cursor-wait opacity-90" : "hover:border-val-teal active:bg-val-teal active:text-val-bg",
         dims,
         className
       )}
     >
-      🔊
+      {phase === "loading" ? (
+        <span className="val-spinner" aria-hidden />
+      ) : phase === "playing" ? (
+        <span className="anim-flame" aria-hidden>📢</span>
+      ) : (
+        "🔊"
+      )}
     </button>
   );
 }
